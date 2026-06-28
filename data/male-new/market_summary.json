@@ -5,16 +5,16 @@
     "7": {
       "period": "近 7 日",
       "source": "ai",
-      "summary": "综合赛道历史军事阅读增长最强，具体分类中都市日常、都市脑洞、都市高武新增在读集中，新书题材以穿越、系统、无敌、重生、种田、都市高频，说明读者仍偏好强设定、强情绪钩子和明确爽点。",
-      "fallback_summary": "近 7 日里，历史军事 的阅读增长更强，具体分类以 都市日常、都市脑洞、都市高武 的新增在读更集中；新书题材上 穿越、系统、无敌、重生、种田、都市 更高频，说明读者仍偏好强设定、强情绪钩子和明确爽点。",
+      "summary": "近7日，历史军事赛道新增在读4.1万，增长最强；都市日常、脑洞、高武三分类新增在读领先，分别为11.5万、9.3万、7.5万。新书题材以穿越(13本)、系统(8本)、无敌(6本)为主。读者偏好强设定和明确爽点，建议新书主打穿越+系统+无敌组合。",
+      "fallback_summary": "近 7 日里，历史军事 的阅读增长更强，具体分类以 都市日常、都市脑洞、都市高武 的新增在读更集中；新书题材上 穿越、系统、无敌、重生、天才、杀伐果断 更高频，说明读者仍偏好强设定、强情绪钩子和明确爽点。",
       "hot_genres": [
         {
           "name": "历史军事",
-          "score": 44000,
+          "score": 41000,
           "new_count": 1,
           "dropped_count": 1,
           "read_count": 3,
-          "read_growth_total": 44000.0,
+          "read_growth_total": 41000.0,
           "active_days": 1,
           "lead_category": "历史脑洞",
           "categories": [
@@ -35,8 +35,8 @@
         {
           "name": "都市脑洞",
           "score": 93000,
-          "new_count": 1,
-          "dropped_count": 1,
+          "new_count": 2,
+          "dropped_count": 2,
           "read_count": 3,
           "read_growth_total": 93000.0,
           "active_days": 1
@@ -44,8 +44,8 @@
         {
           "name": "都市高武",
           "score": 75000,
-          "new_count": 2,
-          "dropped_count": 2,
+          "new_count": 3,
+          "dropped_count": 3,
           "read_count": 3,
           "read_growth_total": 75000.0,
           "active_days": 1
@@ -69,7 +69,7 @@
           "active_days": 1
         },
         {
-          "name": "历史脑洞",
+          "name": "动漫衍生",
           "score": 44000,
           "new_count": 1,
           "dropped_count": 1,
@@ -81,23 +81,33 @@
       "hot_themes": [
         {
           "name": "穿越",
-          "count": 11,
-          "category_count": 9
+          "count": 13,
+          "category_count": 10
         },
         {
           "name": "系统",
-          "count": 7,
-          "category_count": 7
+          "count": 8,
+          "category_count": 8
         },
         {
           "name": "无敌",
-          "count": 5,
+          "count": 6,
           "category_count": 4
         },
         {
           "name": "重生",
+          "count": 4,
+          "category_count": 4
+        },
+        {
+          "name": "天才",
           "count": 3,
-          "category_count": 3
+          "category_count": 2
+        },
+        {
+          "name": "杀伐果断",
+          "count": 3,
+          "category_count": 2
         },
         {
           "name": "种田",
@@ -120,7 +130,12 @@
           "category_count": 2
         },
         {
-          "name": "天才",
+          "name": "丧尸",
+          "count": 2,
+          "category_count": 2
+        },
+        {
+          "name": "大明",
           "count": 2,
           "category_count": 2
         },
@@ -130,40 +145,25 @@
           "category_count": 2
         },
         {
-          "name": "杀伐果断",
-          "count": 2,
-          "category_count": 2
-        },
-        {
           "name": "热血",
           "count": 2,
           "category_count": 2
-        },
-        {
-          "name": "签到",
-          "count": 1,
-          "category_count": 1
-        },
-        {
-          "name": "苟道",
-          "count": 1,
-          "category_count": 1
         }
       ]
     },
     "14": {
       "period": "近 14 日",
       "source": "ai",
-      "summary": "综合赛道历史军事阅读增长最强，具体分类中都市日常、都市脑洞、都市高武新增在读集中，新书题材以穿越、系统、无敌、重生、种田、都市高频，说明读者仍偏好强设定、强情绪钩子和明确爽点。",
-      "fallback_summary": "近 14 日里，历史军事 的阅读增长更强，具体分类以 都市日常、都市脑洞、都市高武 的新增在读更集中；新书题材上 穿越、系统、无敌、重生、种田、都市 更高频，说明读者仍偏好强设定、强情绪钩子和明确爽点。",
+      "summary": "近14日，历史军事赛道新增在读4.1万，阅读增长居首；都市日常、脑洞、高武新增在读集中，分别为11.5万、9.3万、7.5万。新书高频题材为穿越、系统、无敌。市场持续追逐强情绪钩子和高代入感设定，编辑可优先布局穿越+系统+杀伐果断。",
+      "fallback_summary": "近 14 日里，历史军事 的阅读增长更强，具体分类以 都市日常、都市脑洞、都市高武 的新增在读更集中；新书题材上 穿越、系统、无敌、重生、天才、杀伐果断 更高频，说明读者仍偏好强设定、强情绪钩子和明确爽点。",
       "hot_genres": [
         {
           "name": "历史军事",
-          "score": 44000,
+          "score": 41000,
           "new_count": 1,
           "dropped_count": 1,
           "read_count": 3,
-          "read_growth_total": 44000.0,
+          "read_growth_total": 41000.0,
           "active_days": 1,
           "lead_category": "历史脑洞",
           "categories": [
@@ -184,8 +184,8 @@
         {
           "name": "都市脑洞",
           "score": 93000,
-          "new_count": 1,
-          "dropped_count": 1,
+          "new_count": 2,
+          "dropped_count": 2,
           "read_count": 3,
           "read_growth_total": 93000.0,
           "active_days": 1
@@ -193,8 +193,8 @@
         {
           "name": "都市高武",
           "score": 75000,
-          "new_count": 2,
-          "dropped_count": 2,
+          "new_count": 3,
+          "dropped_count": 3,
           "read_count": 3,
           "read_growth_total": 75000.0,
           "active_days": 1
@@ -218,7 +218,7 @@
           "active_days": 1
         },
         {
-          "name": "历史脑洞",
+          "name": "动漫衍生",
           "score": 44000,
           "new_count": 1,
           "dropped_count": 1,
@@ -230,23 +230,33 @@
       "hot_themes": [
         {
           "name": "穿越",
-          "count": 11,
-          "category_count": 9
+          "count": 13,
+          "category_count": 10
         },
         {
           "name": "系统",
-          "count": 7,
-          "category_count": 7
+          "count": 8,
+          "category_count": 8
         },
         {
           "name": "无敌",
-          "count": 5,
+          "count": 6,
           "category_count": 4
         },
         {
           "name": "重生",
+          "count": 4,
+          "category_count": 4
+        },
+        {
+          "name": "天才",
           "count": 3,
-          "category_count": 3
+          "category_count": 2
+        },
+        {
+          "name": "杀伐果断",
+          "count": 3,
+          "category_count": 2
         },
         {
           "name": "种田",
@@ -269,7 +279,12 @@
           "category_count": 2
         },
         {
-          "name": "天才",
+          "name": "丧尸",
+          "count": 2,
+          "category_count": 2
+        },
+        {
+          "name": "大明",
           "count": 2,
           "category_count": 2
         },
@@ -279,40 +294,25 @@
           "category_count": 2
         },
         {
-          "name": "杀伐果断",
-          "count": 2,
-          "category_count": 2
-        },
-        {
           "name": "热血",
           "count": 2,
           "category_count": 2
-        },
-        {
-          "name": "签到",
-          "count": 1,
-          "category_count": 1
-        },
-        {
-          "name": "苟道",
-          "count": 1,
-          "category_count": 1
         }
       ]
     },
     "30": {
       "period": "近 30 日",
       "source": "ai",
-      "summary": "综合赛道历史军事阅读增长最强，具体分类中都市日常、都市脑洞、都市高武新增在读集中，新书题材以穿越、系统、无敌、重生、种田、都市高频，说明读者仍偏好强设定、强情绪钩子和明确爽点。",
-      "fallback_summary": "近 30 日里，历史军事 的阅读增长更强，具体分类以 都市日常、都市脑洞、都市高武 的新增在读更集中；新书题材上 穿越、系统、无敌、重生、种田、都市 更高频，说明读者仍偏好强设定、强情绪钩子和明确爽点。",
+      "summary": "近30日，历史军事赛道新增在读4.1万，综合赛道最强；具体分类中都市日常、都市脑洞、都市高武新增在读领先。新书题材以穿越、系统、无敌、重生、天才、杀伐果断为主。读者对强设定和明确爽点需求稳定，建议新书融入重生+天才+杀伐果断元素。",
+      "fallback_summary": "近 30 日里，历史军事 的阅读增长更强，具体分类以 都市日常、都市脑洞、都市高武 的新增在读更集中；新书题材上 穿越、系统、无敌、重生、天才、杀伐果断 更高频，说明读者仍偏好强设定、强情绪钩子和明确爽点。",
       "hot_genres": [
         {
           "name": "历史军事",
-          "score": 44000,
+          "score": 41000,
           "new_count": 1,
           "dropped_count": 1,
           "read_count": 3,
-          "read_growth_total": 44000.0,
+          "read_growth_total": 41000.0,
           "active_days": 1,
           "lead_category": "历史脑洞",
           "categories": [
@@ -333,8 +333,8 @@
         {
           "name": "都市脑洞",
           "score": 93000,
-          "new_count": 1,
-          "dropped_count": 1,
+          "new_count": 2,
+          "dropped_count": 2,
           "read_count": 3,
           "read_growth_total": 93000.0,
           "active_days": 1
@@ -342,8 +342,8 @@
         {
           "name": "都市高武",
           "score": 75000,
-          "new_count": 2,
-          "dropped_count": 2,
+          "new_count": 3,
+          "dropped_count": 3,
           "read_count": 3,
           "read_growth_total": 75000.0,
           "active_days": 1
@@ -367,7 +367,7 @@
           "active_days": 1
         },
         {
-          "name": "历史脑洞",
+          "name": "动漫衍生",
           "score": 44000,
           "new_count": 1,
           "dropped_count": 1,
@@ -379,23 +379,33 @@
       "hot_themes": [
         {
           "name": "穿越",
-          "count": 11,
-          "category_count": 9
+          "count": 13,
+          "category_count": 10
         },
         {
           "name": "系统",
-          "count": 7,
-          "category_count": 7
+          "count": 8,
+          "category_count": 8
         },
         {
           "name": "无敌",
-          "count": 5,
+          "count": 6,
           "category_count": 4
         },
         {
           "name": "重生",
+          "count": 4,
+          "category_count": 4
+        },
+        {
+          "name": "天才",
           "count": 3,
-          "category_count": 3
+          "category_count": 2
+        },
+        {
+          "name": "杀伐果断",
+          "count": 3,
+          "category_count": 2
         },
         {
           "name": "种田",
@@ -418,7 +428,12 @@
           "category_count": 2
         },
         {
-          "name": "天才",
+          "name": "丧尸",
+          "count": 2,
+          "category_count": 2
+        },
+        {
+          "name": "大明",
           "count": 2,
           "category_count": 2
         },
@@ -428,40 +443,25 @@
           "category_count": 2
         },
         {
-          "name": "杀伐果断",
-          "count": 2,
-          "category_count": 2
-        },
-        {
           "name": "热血",
           "count": 2,
           "category_count": 2
-        },
-        {
-          "name": "签到",
-          "count": 1,
-          "category_count": 1
-        },
-        {
-          "name": "苟道",
-          "count": 1,
-          "category_count": 1
         }
       ]
     },
     "all": {
       "period": "全部样本",
       "source": "ai",
-      "summary": "综合赛道历史军事阅读增长最强，具体分类中都市日常、都市脑洞、都市高武新增在读集中，新书题材以穿越、系统、无敌、重生、种田、都市高频，说明读者仍偏好强设定、强情绪钩子和明确爽点。",
-      "fallback_summary": "全部样本里，历史军事 的阅读增长更强，具体分类以 都市日常、都市脑洞、都市高武 的新增在读更集中；新书题材上 穿越、系统、无敌、重生、种田、都市 更高频，说明读者仍偏好强设定、强情绪钩子和明确爽点。",
+      "summary": "全部样本中，历史军事赛道新增在读4.1万，增长最强；都市日常、脑洞、高武三类新增在读集中。新书高频题材为穿越、系统、无敌、重生、天才、杀伐果断。市场整体偏好强设定和情绪钩子，编辑应关注穿越+系统+无敌或重生+天才组合。",
+      "fallback_summary": "全部样本里，历史军事 的阅读增长更强，具体分类以 都市日常、都市脑洞、都市高武 的新增在读更集中；新书题材上 穿越、系统、无敌、重生、天才、杀伐果断 更高频，说明读者仍偏好强设定、强情绪钩子和明确爽点。",
       "hot_genres": [
         {
           "name": "历史军事",
-          "score": 44000,
+          "score": 41000,
           "new_count": 1,
           "dropped_count": 1,
           "read_count": 3,
-          "read_growth_total": 44000.0,
+          "read_growth_total": 41000.0,
           "active_days": 1,
           "lead_category": "历史脑洞",
           "categories": [
@@ -482,8 +482,8 @@
         {
           "name": "都市脑洞",
           "score": 93000,
-          "new_count": 1,
-          "dropped_count": 1,
+          "new_count": 2,
+          "dropped_count": 2,
           "read_count": 3,
           "read_growth_total": 93000.0,
           "active_days": 1
@@ -491,8 +491,8 @@
         {
           "name": "都市高武",
           "score": 75000,
-          "new_count": 2,
-          "dropped_count": 2,
+          "new_count": 3,
+          "dropped_count": 3,
           "read_count": 3,
           "read_growth_total": 75000.0,
           "active_days": 1
@@ -516,7 +516,7 @@
           "active_days": 1
         },
         {
-          "name": "历史脑洞",
+          "name": "动漫衍生",
           "score": 44000,
           "new_count": 1,
           "dropped_count": 1,
@@ -528,23 +528,33 @@
       "hot_themes": [
         {
           "name": "穿越",
-          "count": 11,
-          "category_count": 9
+          "count": 13,
+          "category_count": 10
         },
         {
           "name": "系统",
-          "count": 7,
-          "category_count": 7
+          "count": 8,
+          "category_count": 8
         },
         {
           "name": "无敌",
-          "count": 5,
+          "count": 6,
           "category_count": 4
         },
         {
           "name": "重生",
+          "count": 4,
+          "category_count": 4
+        },
+        {
+          "name": "天才",
           "count": 3,
-          "category_count": 3
+          "category_count": 2
+        },
+        {
+          "name": "杀伐果断",
+          "count": 3,
+          "category_count": 2
         },
         {
           "name": "种田",
@@ -567,7 +577,12 @@
           "category_count": 2
         },
         {
-          "name": "天才",
+          "name": "丧尸",
+          "count": 2,
+          "category_count": 2
+        },
+        {
+          "name": "大明",
           "count": 2,
           "category_count": 2
         },
@@ -577,24 +592,9 @@
           "category_count": 2
         },
         {
-          "name": "杀伐果断",
-          "count": 2,
-          "category_count": 2
-        },
-        {
           "name": "热血",
           "count": 2,
           "category_count": 2
-        },
-        {
-          "name": "签到",
-          "count": 1,
-          "category_count": 1
-        },
-        {
-          "name": "苟道",
-          "count": 1,
-          "category_count": 1
         }
       ]
     }

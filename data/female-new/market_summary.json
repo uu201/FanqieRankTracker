@@ -5,14 +5,14 @@
     "7": {
       "period": "近 7 日",
       "source": "ai",
-      "summary": "近7日综合赛道现代言情、古风言情阅读增长最强，具体分类中现言脑洞、年代、快穿新增在读集中；新书题材以系统、重生、双洁、空间、年代、甜宠为高频。编辑判断：读者仍偏好强设定、强情绪钩子和明确爽点。",
-      "fallback_summary": "近 7 日里，现代言情、古风言情 的阅读增长更强，具体分类以 现言脑洞、年代、快穿 的新增在读更集中；新书题材上 系统、重生、双洁、空间、年代、甜宠 更高频，说明读者仍偏好强设定、强情绪钩子和明确爽点。",
+      "summary": "近7日综合赛道现代言情、古风言情阅读增长领先，具体分类现言脑洞、年代、快穿新增在读集中；新书题材以系统、双洁、重生、空间、年代、甜宠高频。编辑判断：强设定与情绪钩子持续驱动读者选择。",
+      "fallback_summary": "近 7 日里，现代言情、古风言情 的阅读增长更强，具体分类以 现言脑洞、年代、快穿 的新增在读更集中；新书题材上 系统、双洁、重生、空间、年代、甜宠 更高频，说明读者仍偏好强设定、强情绪钩子和明确爽点。",
       "hot_genres": [
         {
           "name": "现代言情",
           "score": 870000,
-          "new_count": 50,
-          "dropped_count": 50,
+          "new_count": 49,
+          "dropped_count": 49,
           "read_count": 78,
           "read_growth_total": 870000.0,
           "active_days": 28,
@@ -27,8 +27,8 @@
         {
           "name": "古风言情",
           "score": 616000,
-          "new_count": 53,
-          "dropped_count": 53,
+          "new_count": 54,
+          "dropped_count": 54,
           "read_count": 84,
           "read_growth_total": 616000.0,
           "active_days": 28,
@@ -125,8 +125,8 @@
         {
           "name": "宫斗宅斗",
           "score": 241000,
-          "new_count": 9,
-          "dropped_count": 9,
+          "new_count": 10,
+          "dropped_count": 10,
           "read_count": 21,
           "read_growth_total": 241000.0,
           "active_days": 7
@@ -144,16 +144,16 @@
       "hot_themes": [
         {
           "name": "系统",
-          "count": 35,
+          "count": 34,
           "category_count": 12
         },
         {
-          "name": "重生",
-          "count": 21,
+          "name": "双洁",
+          "count": 22,
           "category_count": 10
         },
         {
-          "name": "双洁",
+          "name": "重生",
           "count": 21,
           "category_count": 10
         },
@@ -203,28 +203,28 @@
           "category_count": 5
         },
         {
-          "name": "先婚后爱",
-          "count": 7,
-          "category_count": 6
+          "name": "异能",
+          "count": 9,
+          "category_count": 3
         },
         {
-          "name": "穿书",
-          "count": 7,
-          "category_count": 4
+          "name": "先婚后爱",
+          "count": 8,
+          "category_count": 6
         }
       ]
     },
     "14": {
       "period": "近 14 日",
       "source": "ai",
-      "summary": "近14日综合赛道现代言情、古风言情阅读增长显著，具体分类中现言脑洞、快穿、豪门总裁新增在读领先；新书题材系统、重生、双洁、空间、团宠、女配热度最高。编辑判断：读者仍偏好强设定、强情绪钩子和明确爽点。",
+      "summary": "近14日综合赛道现代言情、古风言情阅读增长更强，具体分类现言脑洞、快穿、豪门总裁新增在读集中；新书题材系统、重生、双洁、空间、团宠、女配高频。编辑判断：强设定与明确爽点仍是核心吸引力。",
       "fallback_summary": "近 14 日里，现代言情、古风言情 的阅读增长更强，具体分类以 现言脑洞、快穿、豪门总裁 的新增在读更集中；新书题材上 系统、重生、双洁、空间、团宠、女配 更高频，说明读者仍偏好强设定、强情绪钩子和明确爽点。",
       "hot_genres": [
         {
           "name": "现代言情",
           "score": 2131000,
-          "new_count": 134,
-          "dropped_count": 134,
+          "new_count": 133,
+          "dropped_count": 133,
           "read_count": 156,
           "read_growth_total": 2131000.0,
           "active_days": 56,
@@ -239,8 +239,8 @@
         {
           "name": "古风言情",
           "score": 1386000,
-          "new_count": 91,
-          "dropped_count": 91,
+          "new_count": 92,
+          "dropped_count": 92,
           "read_count": 168,
           "read_growth_total": 1386000.0,
           "active_days": 56,
@@ -337,8 +337,8 @@
         {
           "name": "宫斗宅斗",
           "score": 477000,
-          "new_count": 15,
-          "dropped_count": 15,
+          "new_count": 16,
+          "dropped_count": 16,
           "read_count": 42,
           "read_growth_total": 477000.0,
           "active_days": 14
@@ -356,7 +356,7 @@
       "hot_themes": [
         {
           "name": "系统",
-          "count": 65,
+          "count": 64,
           "category_count": 16
         },
         {
@@ -366,7 +366,7 @@
         },
         {
           "name": "双洁",
-          "count": 39,
+          "count": 40,
           "category_count": 11
         },
         {
@@ -429,14 +429,14 @@
     "30": {
       "period": "近 30 日",
       "source": "ai",
-      "summary": "近30日综合赛道现代言情、古风言情增长强劲，具体分类中豪门总裁、现言脑洞、快穿新增在读突出；新书题材系统、重生、双洁、快穿、空间、女配高频。编辑判断：读者仍偏好强设定、强情绪钩子和明确爽点。",
+      "summary": "近30日综合赛道现代言情、古风言情阅读增长领先，具体分类豪门总裁、现言脑洞、快穿新增在读集中；新书题材系统、重生、双洁、快穿、空间、女配高频。编辑判断：读者对强情绪钩子和爽点偏好稳定。",
       "fallback_summary": "近 30 日里，现代言情、古风言情 的阅读增长更强，具体分类以 豪门总裁、现言脑洞、快穿 的新增在读更集中；新书题材上 系统、重生、双洁、快穿、空间、女配 更高频，说明读者仍偏好强设定、强情绪钩子和明确爽点。",
       "hot_genres": [
         {
           "name": "现代言情",
           "score": 4967000,
-          "new_count": 221,
-          "dropped_count": 221,
+          "new_count": 220,
+          "dropped_count": 220,
           "read_count": 348,
           "read_growth_total": 4967000.0,
           "active_days": 120,
@@ -451,8 +451,8 @@
         {
           "name": "古风言情",
           "score": 2748000,
-          "new_count": 187,
-          "dropped_count": 187,
+          "new_count": 188,
+          "dropped_count": 188,
           "read_count": 360,
           "read_growth_total": 2748000.0,
           "active_days": 120,
@@ -558,8 +558,8 @@
         {
           "name": "宫斗宅斗",
           "score": 844000,
-          "new_count": 50,
-          "dropped_count": 50,
+          "new_count": 51,
+          "dropped_count": 51,
           "read_count": 90,
           "read_growth_total": 844000.0,
           "active_days": 30
@@ -568,7 +568,7 @@
       "hot_themes": [
         {
           "name": "系统",
-          "count": 101,
+          "count": 100,
           "category_count": 16
         },
         {
@@ -578,7 +578,7 @@
         },
         {
           "name": "双洁",
-          "count": 58,
+          "count": 59,
           "category_count": 12
         },
         {
@@ -598,7 +598,7 @@
         },
         {
           "name": "团宠",
-          "count": 41,
+          "count": 40,
           "category_count": 13
         },
         {
@@ -641,14 +641,14 @@
     "all": {
       "period": "全部样本",
       "source": "ai",
-      "summary": "全部样本综合赛道现代言情、古风言情阅读增长主导，具体分类中豪门总裁、现言脑洞、青春甜宠新增在读最大；新书题材系统、快穿、重生、女配、双洁、末世最热。编辑判断：读者仍偏好强设定、强情绪钩子和明确爽点。",
+      "summary": "全部样本综合赛道现代言情、古风言情阅读增长最强，具体分类豪门总裁、现言脑洞、青春甜宠新增在读集中；新书题材系统、快穿、重生、女配、双洁、末世高频。编辑判断：强设定、快节奏与情绪共鸣长期主导市场。",
       "fallback_summary": "全部样本里，现代言情、古风言情 的阅读增长更强，具体分类以 豪门总裁、现言脑洞、青春甜宠 的新增在读更集中；新书题材上 系统、快穿、重生、女配、双洁、末世 更高频，说明读者仍偏好强设定、强情绪钩子和明确爽点。",
       "hot_genres": [
         {
           "name": "现代言情",
           "score": 16324000,
-          "new_count": 499,
-          "dropped_count": 499,
+          "new_count": 498,
+          "dropped_count": 498,
           "read_count": 924,
           "read_growth_total": 16324000.0,
           "active_days": 312,
@@ -663,8 +663,8 @@
         {
           "name": "古风言情",
           "score": 7599000,
-          "new_count": 493,
-          "dropped_count": 493,
+          "new_count": 494,
+          "dropped_count": 494,
           "read_count": 936,
           "read_growth_total": 7599000.0,
           "active_days": 312,
@@ -780,7 +780,7 @@
       "hot_themes": [
         {
           "name": "系统",
-          "count": 134,
+          "count": 133,
           "category_count": 17
         },
         {
@@ -800,7 +800,7 @@
         },
         {
           "name": "双洁",
-          "count": 73,
+          "count": 74,
           "category_count": 13
         },
         {
@@ -810,7 +810,7 @@
         },
         {
           "name": "团宠",
-          "count": 61,
+          "count": 60,
           "category_count": 13
         },
         {
