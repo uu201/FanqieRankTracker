@@ -1,13 +1,13 @@
 {
   "slug": "female-new",
-  "date": "2026-07-02",
-  "prev_date": "2026-07-01",
+  "date": "2026-07-03",
+  "prev_date": "2026-07-02",
   "types": [
     {
       "type": "all",
       "url": "api/female-new/lastest/all.json",
       "category_count": 18,
-      "book_count": 360
+      "book_count": 340
     },
     {
       "type": "古风世情",
@@ -62,7 +62,7 @@
     {
       "type": "古言脑洞",
       "url": "api/female-new/lastest/%E5%8F%A4%E8%A8%80%E8%84%91%E6%B4%9E.json",
-      "book_count": 20
+      "book_count": 0
     },
     {
       "type": "快穿",
