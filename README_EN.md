@@ -66,7 +66,7 @@ After a successful run, data files will be generated under `data/<board>/`. Open
 
 ### Step 5: Sit Back and Relax
 
-GitHub Actions is configured to run automatically at **UTC 00:00 (08:00 Beijing Time)** every day. No further manual action is needed — data and dashboard will auto-update daily.
+GitHub Actions is configured to run automatically at **UTC 18:17 (02:17 Beijing Time on the next calendar day)** every day. The workflow also sets `TZ=Asia/Shanghai`, so snapshot dates are recorded in Beijing time. No further manual action is needed — data and dashboard will auto-update daily.
 
 Use the sidebar **two-level tabs** to switch between Female / Male and New / Reading boards (tabs with no data are auto-disabled). The **Trend** button (top-right) opens `trend.html` for genre tracks, hot categories and frequent themes over the last 7 / 14 / 30 days or all time.
 
@@ -165,7 +165,7 @@ FanqieRankTracker/
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│                GitHub Actions (Daily at 08:00 CST)          │
+│                GitHub Actions (Daily at 02:17 CST)          │
 │                                                             │
 │  ┌──────────────┐    ┌──────────────┐    ┌──────────────┐  │
 │  │  Playwright   │───▶│  build_latest │───▶│  git commit  │  │
