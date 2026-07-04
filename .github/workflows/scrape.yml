@@ -9,10 +9,13 @@ concurrency:
   group: pages
   cancel-in-progress: true
 
+env:
+  TZ: Asia/Shanghai
+
 on:
   schedule:
-    # 每天 UTC 00:00 (北京时间 08:00) 触发
-    - cron: '0 0 * * *'
+    # 每天 UTC 18:17 (北京时间次日 02:17) 触发，避开整点高峰
+    - cron: '17 18 * * *'
   workflow_dispatch: # 允许手动在界面上点击 Run workflow
 
 jobs:
