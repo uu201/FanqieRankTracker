@@ -4,21 +4,86 @@
   "periods": {
     "7": {
       "period": "近 7 日",
-      "source": "ai",
-      "summary": "近7日综合赛道以历史军事（新增在读41.4万）领跑，具体分类中都市脑洞（106.5万）、历史古代（64.2万）、传统玄幻（56.0万）增长集中；新书题材以穿越（36本）、系统（31本）、重生（13本）最热门。读者持续偏爱强设定、快节奏与明确爽点，建议新书优先结合穿越/系统+历史或都市脑洞。",
-      "fallback_summary": "近 7 日里，历史军事 的阅读增长更强，具体分类以 都市脑洞、历史古代、传统玄幻 的新增在读更集中；新书题材上 穿越、系统、重生、无敌、种田、万界 更高频，说明读者仍偏好强设定、强情绪钩子和明确爽点。",
+      "source": "rule",
+      "summary": "近 7 日里，都市现实、玄幻仙侠 的阅读增长更强，具体分类以 都市脑洞、历史古代、传统玄幻 的新增在读更集中；新书题材上 穿越、系统、重生、无敌、种田、万界 更高频，说明读者仍偏好强设定、强情绪钩子和明确爽点。",
+      "fallback_summary": "近 7 日里，都市现实、玄幻仙侠 的阅读增长更强，具体分类以 都市脑洞、历史古代、传统玄幻 的新增在读更集中；新书题材上 穿越、系统、重生、无敌、种田、万界 更高频，说明读者仍偏好强设定、强情绪钩子和明确爽点。",
       "hot_genres": [
         {
-          "name": "历史军事",
-          "score": 414000,
-          "new_count": 7,
-          "dropped_count": 7,
-          "read_count": 21,
-          "read_growth_total": 414000.0,
-          "active_days": 7,
-          "lead_category": "历史脑洞",
+          "name": "都市现实",
+          "score": 2767000,
+          "new_count": 36,
+          "dropped_count": 36,
+          "read_count": 126,
+          "read_growth_total": 2767000.0,
+          "active_days": 42,
+          "lead_category": "都市脑洞",
           "categories": [
-            "历史脑洞"
+            "都市日常",
+            "都市修真",
+            "都市高武",
+            "都市种田",
+            "都市脑洞",
+            "战神赘婿"
+          ]
+        },
+        {
+          "name": "玄幻仙侠",
+          "score": 1626000,
+          "new_count": 18,
+          "dropped_count": 18,
+          "read_count": 84,
+          "read_growth_total": 1626000.0,
+          "active_days": 28,
+          "lead_category": "传统玄幻",
+          "categories": [
+            "西方奇幻",
+            "东方仙侠",
+            "传统玄幻",
+            "玄幻脑洞"
+          ]
+        },
+        {
+          "name": "历史军事",
+          "score": 1400000,
+          "new_count": 18,
+          "dropped_count": 18,
+          "read_count": 63,
+          "read_growth_total": 1400000.0,
+          "active_days": 21,
+          "lead_category": "历史古代",
+          "categories": [
+            "历史古代",
+            "历史脑洞",
+            "抗战谍战"
+          ]
+        },
+        {
+          "name": "游戏衍生",
+          "score": 891000,
+          "new_count": 26,
+          "dropped_count": 26,
+          "read_count": 63,
+          "read_growth_total": 891000.0,
+          "active_days": 21,
+          "lead_category": "男频衍生",
+          "categories": [
+            "游戏体育",
+            "动漫衍生",
+            "男频衍生"
+          ]
+        },
+        {
+          "name": "悬疑灵异",
+          "score": 593000,
+          "new_count": 8,
+          "dropped_count": 8,
+          "read_count": 42,
+          "read_growth_total": 593000.0,
+          "active_days": 14,
+          "lead_category": "悬疑灵异",
+          "categories": [
+            "悬疑脑洞",
+            "悬疑灵异"
           ]
         }
       ],
@@ -153,21 +218,86 @@
     },
     "14": {
       "period": "近 14 日",
-      "source": "ai",
-      "summary": "近14日综合赛道历史军事（新增在读62.8万）持续强劲，具体分类都市脑洞（136.1万）、历史古代（104.4万）、都市高武（92.1万）阅读增长集中；新书题材穿越（52本）、系统（44本）、重生（19本）高频出现。市场验证了强设定与情绪钩子的稳定性，可重点布局“穿越+历史/都市”及“系统+脑洞”组合。",
-      "fallback_summary": "近 14 日里，历史军事 的阅读增长更强，具体分类以 都市脑洞、历史古代、都市高武 的新增在读更集中；新书题材上 穿越、系统、重生、无敌、种田、诸天 更高频，说明读者仍偏好强设定、强情绪钩子和明确爽点。",
+      "source": "rule",
+      "summary": "近 14 日里，都市现实、玄幻仙侠 的阅读增长更强，具体分类以 都市脑洞、历史古代、都市高武 的新增在读更集中；新书题材上 穿越、系统、重生、无敌、种田、诸天 更高频，说明读者仍偏好强设定、强情绪钩子和明确爽点。",
+      "fallback_summary": "近 14 日里，都市现实、玄幻仙侠 的阅读增长更强，具体分类以 都市脑洞、历史古代、都市高武 的新增在读更集中；新书题材上 穿越、系统、重生、无敌、种田、诸天 更高频，说明读者仍偏好强设定、强情绪钩子和明确爽点。",
       "hot_genres": [
         {
-          "name": "历史军事",
-          "score": 628000,
-          "new_count": 12,
-          "dropped_count": 12,
-          "read_count": 33,
-          "read_growth_total": 628000.0,
-          "active_days": 11,
-          "lead_category": "历史脑洞",
+          "name": "都市现实",
+          "score": 4405000,
+          "new_count": 59,
+          "dropped_count": 59,
+          "read_count": 198,
+          "read_growth_total": 4405000.0,
+          "active_days": 66,
+          "lead_category": "都市脑洞",
           "categories": [
-            "历史脑洞"
+            "都市日常",
+            "都市修真",
+            "都市高武",
+            "都市种田",
+            "都市脑洞",
+            "战神赘婿"
+          ]
+        },
+        {
+          "name": "玄幻仙侠",
+          "score": 2345000,
+          "new_count": 36,
+          "dropped_count": 36,
+          "read_count": 132,
+          "read_growth_total": 2345000.0,
+          "active_days": 44,
+          "lead_category": "玄幻脑洞",
+          "categories": [
+            "西方奇幻",
+            "东方仙侠",
+            "传统玄幻",
+            "玄幻脑洞"
+          ]
+        },
+        {
+          "name": "历史军事",
+          "score": 2139000,
+          "new_count": 29,
+          "dropped_count": 29,
+          "read_count": 99,
+          "read_growth_total": 2139000.0,
+          "active_days": 33,
+          "lead_category": "历史古代",
+          "categories": [
+            "历史古代",
+            "历史脑洞",
+            "抗战谍战"
+          ]
+        },
+        {
+          "name": "游戏衍生",
+          "score": 1253000,
+          "new_count": 43,
+          "dropped_count": 43,
+          "read_count": 99,
+          "read_growth_total": 1253000.0,
+          "active_days": 33,
+          "lead_category": "男频衍生",
+          "categories": [
+            "游戏体育",
+            "动漫衍生",
+            "男频衍生"
+          ]
+        },
+        {
+          "name": "悬疑灵异",
+          "score": 940000,
+          "new_count": 14,
+          "dropped_count": 14,
+          "read_count": 66,
+          "read_growth_total": 940000.0,
+          "active_days": 22,
+          "lead_category": "悬疑脑洞",
+          "categories": [
+            "悬疑脑洞",
+            "悬疑灵异"
           ]
         }
       ],
@@ -302,21 +432,86 @@
     },
     "30": {
       "period": "近 30 日",
-      "source": "ai",
-      "summary": "近30日综合赛道历史军事（新增在读62.8万）保持领先，具体分类中都市脑洞（136.1万）、历史古代（104.4万）、都市高武（92.1万）增长稳定；新书题材以穿越（52本）、系统（44本）、重生（19本）最多。题材固化趋势明显，建议押注穿越/系统与历史、都市高武等成熟分类的融合选题。",
-      "fallback_summary": "近 30 日里，历史军事 的阅读增长更强，具体分类以 都市脑洞、历史古代、都市高武 的新增在读更集中；新书题材上 穿越、系统、重生、无敌、种田、诸天 更高频，说明读者仍偏好强设定、强情绪钩子和明确爽点。",
+      "source": "rule",
+      "summary": "近 30 日里，都市现实、玄幻仙侠 的阅读增长更强，具体分类以 都市脑洞、历史古代、都市高武 的新增在读更集中；新书题材上 穿越、系统、重生、无敌、种田、诸天 更高频，说明读者仍偏好强设定、强情绪钩子和明确爽点。",
+      "fallback_summary": "近 30 日里，都市现实、玄幻仙侠 的阅读增长更强，具体分类以 都市脑洞、历史古代、都市高武 的新增在读更集中；新书题材上 穿越、系统、重生、无敌、种田、诸天 更高频，说明读者仍偏好强设定、强情绪钩子和明确爽点。",
       "hot_genres": [
         {
-          "name": "历史军事",
-          "score": 628000,
-          "new_count": 12,
-          "dropped_count": 12,
-          "read_count": 33,
-          "read_growth_total": 628000.0,
-          "active_days": 11,
-          "lead_category": "历史脑洞",
+          "name": "都市现实",
+          "score": 4405000,
+          "new_count": 59,
+          "dropped_count": 59,
+          "read_count": 198,
+          "read_growth_total": 4405000.0,
+          "active_days": 66,
+          "lead_category": "都市脑洞",
           "categories": [
-            "历史脑洞"
+            "都市日常",
+            "都市修真",
+            "都市高武",
+            "都市种田",
+            "都市脑洞",
+            "战神赘婿"
+          ]
+        },
+        {
+          "name": "玄幻仙侠",
+          "score": 2345000,
+          "new_count": 36,
+          "dropped_count": 36,
+          "read_count": 132,
+          "read_growth_total": 2345000.0,
+          "active_days": 44,
+          "lead_category": "玄幻脑洞",
+          "categories": [
+            "西方奇幻",
+            "东方仙侠",
+            "传统玄幻",
+            "玄幻脑洞"
+          ]
+        },
+        {
+          "name": "历史军事",
+          "score": 2139000,
+          "new_count": 29,
+          "dropped_count": 29,
+          "read_count": 99,
+          "read_growth_total": 2139000.0,
+          "active_days": 33,
+          "lead_category": "历史古代",
+          "categories": [
+            "历史古代",
+            "历史脑洞",
+            "抗战谍战"
+          ]
+        },
+        {
+          "name": "游戏衍生",
+          "score": 1253000,
+          "new_count": 43,
+          "dropped_count": 43,
+          "read_count": 99,
+          "read_growth_total": 1253000.0,
+          "active_days": 33,
+          "lead_category": "男频衍生",
+          "categories": [
+            "游戏体育",
+            "动漫衍生",
+            "男频衍生"
+          ]
+        },
+        {
+          "name": "悬疑灵异",
+          "score": 940000,
+          "new_count": 14,
+          "dropped_count": 14,
+          "read_count": 66,
+          "read_growth_total": 940000.0,
+          "active_days": 22,
+          "lead_category": "悬疑脑洞",
+          "categories": [
+            "悬疑脑洞",
+            "悬疑灵异"
           ]
         }
       ],
@@ -451,21 +646,86 @@
     },
     "all": {
       "period": "全部样本",
-      "source": "ai",
-      "summary": "全部样本显示历史军事（新增在读62.8万）为最强综合赛道，具体分类中都市脑洞（136.1万）、历史古代（104.4万）、都市高武（92.1万）阅读增长领先；新书题材穿越（52本）、系统（44本）、重生（19本）持续霸榜。读者对强设定、快爽点的需求长期稳定，编辑应优先孵化“穿越+历史”“系统+脑洞”类作品。",
-      "fallback_summary": "全部样本里，历史军事 的阅读增长更强，具体分类以 都市脑洞、历史古代、都市高武 的新增在读更集中；新书题材上 穿越、系统、重生、无敌、种田、诸天 更高频，说明读者仍偏好强设定、强情绪钩子和明确爽点。",
+      "source": "rule",
+      "summary": "全部样本里，都市现实、玄幻仙侠 的阅读增长更强，具体分类以 都市脑洞、历史古代、都市高武 的新增在读更集中；新书题材上 穿越、系统、重生、无敌、种田、诸天 更高频，说明读者仍偏好强设定、强情绪钩子和明确爽点。",
+      "fallback_summary": "全部样本里，都市现实、玄幻仙侠 的阅读增长更强，具体分类以 都市脑洞、历史古代、都市高武 的新增在读更集中；新书题材上 穿越、系统、重生、无敌、种田、诸天 更高频，说明读者仍偏好强设定、强情绪钩子和明确爽点。",
       "hot_genres": [
         {
-          "name": "历史军事",
-          "score": 628000,
-          "new_count": 12,
-          "dropped_count": 12,
-          "read_count": 33,
-          "read_growth_total": 628000.0,
-          "active_days": 11,
-          "lead_category": "历史脑洞",
+          "name": "都市现实",
+          "score": 4405000,
+          "new_count": 59,
+          "dropped_count": 59,
+          "read_count": 198,
+          "read_growth_total": 4405000.0,
+          "active_days": 66,
+          "lead_category": "都市脑洞",
           "categories": [
-            "历史脑洞"
+            "都市日常",
+            "都市修真",
+            "都市高武",
+            "都市种田",
+            "都市脑洞",
+            "战神赘婿"
+          ]
+        },
+        {
+          "name": "玄幻仙侠",
+          "score": 2345000,
+          "new_count": 36,
+          "dropped_count": 36,
+          "read_count": 132,
+          "read_growth_total": 2345000.0,
+          "active_days": 44,
+          "lead_category": "玄幻脑洞",
+          "categories": [
+            "西方奇幻",
+            "东方仙侠",
+            "传统玄幻",
+            "玄幻脑洞"
+          ]
+        },
+        {
+          "name": "历史军事",
+          "score": 2139000,
+          "new_count": 29,
+          "dropped_count": 29,
+          "read_count": 99,
+          "read_growth_total": 2139000.0,
+          "active_days": 33,
+          "lead_category": "历史古代",
+          "categories": [
+            "历史古代",
+            "历史脑洞",
+            "抗战谍战"
+          ]
+        },
+        {
+          "name": "游戏衍生",
+          "score": 1253000,
+          "new_count": 43,
+          "dropped_count": 43,
+          "read_count": 99,
+          "read_growth_total": 1253000.0,
+          "active_days": 33,
+          "lead_category": "男频衍生",
+          "categories": [
+            "游戏体育",
+            "动漫衍生",
+            "男频衍生"
+          ]
+        },
+        {
+          "name": "悬疑灵异",
+          "score": 940000,
+          "new_count": 14,
+          "dropped_count": 14,
+          "read_count": 66,
+          "read_growth_total": 940000.0,
+          "active_days": 22,
+          "lead_category": "悬疑脑洞",
+          "categories": [
+            "悬疑脑洞",
+            "悬疑灵异"
           ]
         }
       ],
