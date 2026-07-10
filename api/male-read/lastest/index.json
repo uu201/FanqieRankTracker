@@ -1,18 +1,18 @@
 {
   "slug": "male-read",
-  "date": "2026-07-10",
-  "prev_date": "2026-07-09",
+  "date": "2026-07-11",
+  "prev_date": "2026-07-10",
   "types": [
     {
       "type": "all",
       "url": "api/male-read/lastest/all.json",
       "category_count": 19,
-      "book_count": 379
+      "book_count": 380
     },
     {
       "type": "西方奇幻",
       "url": "api/male-read/lastest/%E8%A5%BF%E6%96%B9%E5%A5%87%E5%B9%BB.json",
-      "book_count": 19
+      "book_count": 20
     },
     {
       "type": "东方仙侠",
