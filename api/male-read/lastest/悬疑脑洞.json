@@ -1,81 +1,88 @@
 {
   "type": "悬疑脑洞",
-  "date": "2026-07-15",
-  "prev_date": "2026-07-14",
+  "date": "2026-07-16",
+  "prev_date": "2026-07-15",
   "category": {
     "name": "悬疑脑洞",
     "trend": {
-      "new_count": 0,
-      "dropped_count": 0,
-      "new_books": [],
-      "dropped_books": [],
+      "new_count": 1,
+      "dropped_count": 1,
+      "new_books": [
+        "穿成诡异后联盟派我去当boss"
+      ],
+      "dropped_books": [
+        {
+          "title": "盗墓：人在九门，系统非说是洪荒",
+          "intro": "【南部档案馆】【民国】【九叔】【麒麟小哥】【老九门2】【超凡】【克苏鲁】【马小玲】【盘古僵尸】 　　穿越民国乱世，误入九门江湖，本以为只是寻常寻龙探穴、倒斗摸金。 　　谁知觉醒上古洪荒系统，遍地古墓神"
+        }
+      ],
       "top_risers": [
         {
           "title": "无限大楼：开局成为监管者",
-          "change": "+7"
-        },
-        {
-          "title": "全民求生：我在诡异末日养成少女",
           "change": "+2"
         },
         {
-          "title": "无限恐怖：我能嗅到鬼味",
-          "change": "+1"
+          "title": "规则怪谈：我即怪谈",
+          "change": "+2"
+        },
+        {
+          "title": "那一天，月亮吞下整座城",
+          "change": "+2"
         }
       ],
       "top_fallers": [
         {
-          "title": "规则怪谈：我即怪谈",
-          "change": "-4"
-        },
-        {
-          "title": "回档求生：我真不是大佬啊",
-          "change": "-2"
-        },
-        {
           "title": "规则怪谈：狗熊岭扮演光头强开始",
           "change": "-2"
+        },
+        {
+          "title": "诡异直播：我能无限推演",
+          "change": "-1"
+        },
+        {
+          "title": "糟糕！我被女鬼包围了",
+          "change": "-1"
         }
       ],
       "reads_growth": [
         {
+          "title": "全球死考：刚下刑场你让我去考试",
+          "growth": "+3.8万"
+        },
+        {
           "title": "十日终焉",
-          "growth": "+2.1万"
+          "growth": "+1.7万"
         },
         {
-          "title": "那一天，月亮吞下整座城",
-          "growth": "+1.6万"
-        },
-        {
-          "title": "谁把地府勾魂使拉进诡异副本的？",
-          "growth": "+5000"
+          "title": "全民学校求生：所有学校沦为地狱",
+          "growth": "+1.3万"
         }
       ],
-      "summary": "**🔥 题材趋势** 规则怪谈、无限流、真实游戏仍是核心题材。系统外挂与智战并存，“诡异+养成”及“诡异+直播”的组合模式热度不减，但“微恐”和“轻松日常”比重增加，以降低阅读门槛。\n**📖 读者偏好** 读者追求紧张刺激的智斗与冒险，但也逐渐接受“搞笑”、“吐槽”等轻松元素穿插。对“非无敌”和“非无脑”的智战类作品认可度极高。\n**🆕 新上榜作品** 本期无新上榜作品，榜单头部固化现象明显，由《十日终焉》等超头部作品占据统治地位。\n**📉 掉出榜单** 无作品掉出，头部作品的虹吸效应显著，新书突围难度极大。\n**💡 值得关注** 《无限大楼：开局成为监管者》排名上升+7，以“监管者”身份利用规则“卡bug”的反套路视角，在众多求生者主视角中脱颖而出，提供全新体验。"
+      "summary": "**🔥 题材趋势**  \n“规则怪谈”与“诡异副本”持续扎堆，系统、无限流、求生、智战成为标配设定。近期“Boss视角”“地府/勾魂使”等反向身份设定开始冒头，试图打破同质化。\n\n**📖 读者偏好**  \n读者偏好“爽+微恐+智战”组合，青睐系统、死亡回档、推演类金手指；对非无脑、有设定深度的作品接受度提升，但爽感仍是核心驱动力。\n\n**🆕 新上榜作品**  \n《穿成诡异后联盟派我去当boss》以“披人皮的诡异”+Boss视角+联盟庇护设定，在诡异文红海中开辟了阵营反转的新鲜体验。\n\n**📉 掉出榜单**  \n《盗墓：人在九门，系统非说是洪荒》掉出，题材混搭（盗墓+洪荒+克苏鲁）过于杂糅，且盗墓类在悬疑脑洞榜用户群中接受度有限，易被更热门的诡异/规则文挤压。\n\n**💡 值得关注**  \n《谁把地府勾魂使拉进诡异副本的？》将地府KPI与诡异副本结合，搞笑反差点亮差异化；《序列公路求生：我在末日升级物资》用“序列魔药+公路求生”打破静态求生套路，升级线清晰且非无脑爽，具备长线潜力。"
     },
     "books": [
       {
         "title": "十日终焉",
         "author": "杀虫队队员",
-        "reads": "254.8万",
+        "reads": "256.5万",
         "intro": "24年番茄年度巅峰榜TOP1 | 2024 年度“中国网络文学影响力榜” | 2024 年度“中国好小说”奖 | 出版销售量超200万册 （不后宫，不套路，不无敌，不系统，不无脑，不爽文，介意者慎入。） 当我以为这只是寻常的一天时，却发现自己被捉到了终焉之地。 当我以为只需要不断的参加死亡游戏就可以逃脱时，却发现众人开始觉醒超自然之力。 当我以为这里是「造神之地」时，一切却又奔着湮灭走去。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/4900f950c7af7f82fdc14cf528e0e288~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784663768&x-signature=1rwcH1tEDzDEQjegXUle5MIwKhU%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/4900f950c7af7f82fdc14cf528e0e288~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784749853&x-signature=bDWQ%2FSHLprQx8ksQ63TMalRPDYY%3D",
         "url": "https://fanqienovel.com/page/7143038691944959011"
       },
       {
         "title": "诡舍",
         "author": "夜来风雨声丶",
-        "reads": "97.1万",
+        "reads": "96.8万",
         "intro": "【无限流+微惊悚+求生+单女主】 一辆没有司机的大巴，载着一群被诅咒的人，去往了一间黑色的诡舍…… 诡舍里，有一扇被鲜血染红的门。 被诅咒的人，每过一段时间，就要强行被拉入血门之后的可怕世界完成恐怖事件…… 当宁秋水在诡舍之中经历了一个又一个恐怖猎奇的故事，九死一生终于活下来，他却发现，这一切跟他想的大不一样…… 诡舍，原来并不是诅咒，而是…… —— 『夜深了朋友，来诡舍里坐坐，这里有火盆，顺便听我给您唠唠这儿的故事……』",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ob67b9e86ddf3a2d6293a37e7895331a6~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784663768&x-signature=tATnWDQnAQDcE0StxxcHD8kFzVw%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ob67b9e86ddf3a2d6293a37e7895331a6~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784749853&x-signature=hZ%2BM7IB9f2kzZ5TG5N7P5ZzyCY0%3D",
         "url": "https://fanqienovel.com/page/7256784068786785336"
       },
       {
         "title": "全球死考：刚下刑场你让我去考试",
         "author": "我爱吃猫片哇",
-        "reads": "53.2万",
-        "intro": "【智战+微恐+无限】 死亡高考降临，三千万考生被拉进地狱。 当考题被替换成各种恐怖片和灾难场景，活下去也只是奢望。 通关获得奖励，失败抹杀！ 十分兑换一千万，百分兑换暴君基因，千分兑换末日天启。 只有？？才能走出这场考试。 ------- 为了调查，国安从全球最大监狱中，“请”出重刑犯夜林。 在一场场考试中，夜林突然发现，比起杀人，他似乎更擅长杀神。 -------- 已有700万字完本经验，请各位兄弟放心观看。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oc1cad58a1611faa3ce1bff953296036f~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784663768&x-signature=n%2FHZ3qTLc08fIHbmHF%2FMeNNMzpk%3D",
+        "reads": "57万",
+        "intro": "【智战+微恐+无限】 死亡高考降临，三千万考生被拉进地狱。 当考题被替换成各种恐怖片和灾难场景，活下去也只是奢望。 通关获得奖励，失败抹杀！ 十分兑换一千万，百分兑换暴君基因，千分兑换末日天启。 只有？？才能走出这场考试。 ------- 为了调查，国安从全球最大监狱中，“请”出重刑犯夜林。 在一场场考试中，夜林突然发现，比起杀人，他似乎更擅长杀神。 -------- 本书已签约实体出版，作者已有700万字完本经验，请各位兄弟放心观看。",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oc1cad58a1611faa3ce1bff953296036f~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784749853&x-signature=D8y3RYtc7LvYe5bOXx6Q0KV7ov0%3D",
         "url": "https://fanqienovel.com/page/7623686597409508376"
       },
       {
@@ -83,7 +90,7 @@
         "author": "巡山主神",
         "reads": "48.8万",
         "intro": "慈航大舞台，没挂你别来。 陈风穿越异世界，发现这里的Boss简直阴到没边。 “先去新手村发育一下。” “哈！穿越者，逮到你了。” “重生买个彩票。” “哈！重生者，逮到你了。” “好好好，这么阴是吧，那我也不必装什么正人君子了。” 陈风发现自己每死一次，都能刷新一个新系统。 系统的能力是有极限的，穿越者越是依赖系统，反而越是会陷入意想不到的困境，前功尽弃。。。。。。除非你不止一个系统。 “每日情报、打卡签到、模拟器、熟练度、聊天群、深蓝加点。。。。。。” “他们的力量是靠修炼得来，软弱无力。” “而我，可是靠系统加点，一步步努力上来的！”",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oa1f371e1c298df2bfd6303b02eb719f4~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784663768&x-signature=%2BBTAGTOfxXXhtBFnbSZuPzEcTPs%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oa1f371e1c298df2bfd6303b02eb719f4~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784749853&x-signature=zdPmo432ICqLey1eNDUly7cSOlU%3D",
         "url": "https://fanqienovel.com/page/7552067105378536473"
       },
       {
@@ -91,63 +98,63 @@
         "author": "山海呼啸",
         "reads": "46.9万",
         "intro": "【题材新颖+非无脑爽文+非无敌+序列魔药+诡异+公路求生+升级物资+心狠手辣】 诡异降临，城市成了人类禁区。 人们只能依靠序列超凡不停的迁徙，定居生活方式变成了迁徙生活方式。 在迁徙的过程之中，陈野觉醒了升级系统。 生锈的自行车在他手中蜕变为装甲战车。 破旧帐篷进化成移动堡垒。 当别人为半块压缩饼干拼命时，他的房车已装载着自动净水系统和微型生态农场。 但真正的危机来自迷雾深处——那些杀不死的诡异追逐着迁徙车辙。 诡异无法杀死，除非序列超凡。 超过百种匪夷所思的序列超凡。 超百种奇异奇物…… 又有书名：《末日逃亡：从二八大杠开始》",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/ai/p2o5c18f15e4d52cde4a3766c8554856607~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784663768&x-signature=GkX%2BjgA%2BgdUQ%2FVMNOIP1Uly39u0%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/ai/p2o5c18f15e4d52cde4a3766c8554856607~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784749853&x-signature=IF6n73IE9Ni%2Bf8ta3UA1AeWHPwI%3D",
         "url": "https://fanqienovel.com/page/7488955435421010968"
       },
       {
         "title": "当诡异降临世界，死亡即是终点",
         "author": "庆元职高小天才",
-        "reads": "39.9万",
+        "reads": "40万",
         "intro": "【诡异降临+无系统+设定新颖+逃生+半无限流+不圣母+不黑暗+异能】 最好的年纪，肆意盎然的青春，正当苏远认为一生都会这么平静而美好的度过时，一行血字出现在了晚自习的黑板上。 【在寂静的黑夜，寝室的门口出现了一只恐怖的厉鬼......它杀死你需要多久呢？】 在所有人都以为这只是一个玩笑时，午夜的寝室门外响起了脚步声...... 一个接着一个的都市怪谈成为现实，一个又一个死去的人被抹去痕迹。 当灵异降临之时，死亡即是终点。 （前期慢热，好评如潮，请给耐心）",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ob80dfb366cfe4a16a42b6c7376402379~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784663768&x-signature=HYrtbwKZXhecT3Gmfxnj6lbbb5o%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ob80dfb366cfe4a16a42b6c7376402379~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784749853&x-signature=AadrnH1%2BK6KQv7N6PW%2FMxt6%2Fmzk%3D",
         "url": "https://fanqienovel.com/page/7253908182769077252"
       },
       {
         "title": "谁把地府勾魂使拉进诡异副本的？",
         "author": "沈舟渡川",
-        "reads": "34.2万",
+        "reads": "34.4万",
         "intro": "【诡异副本】【搞笑】【爽】【全球直播】 随着医疗水平的提高，人类死亡率显著下降。 这让地府勾魂司的业绩连年下滑，勾魂使们为了业绩内卷严重。 林枫身为最普通的勾魂使，无权无势，为了完成KPI只能拼命加班，但依旧月月垫底。 直到有天，他意外被拉入了一场诡异副本…… 副本里，那些别人避之不及的诡异，在他眼里都是一个个送上门的业绩。 他主动触发规则，熟练地将一只只诡异打包，看的直播间里众人瞠目结舌。 “诡异们，快跑啊！人贩子……哦不，诡贩子来了！”",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/0f6ac0885364679c9f89dea26c612e98~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784663768&x-signature=UFBTAn34QzDSor9LPKQLUGKGUM4%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/0f6ac0885364679c9f89dea26c612e98~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784749853&x-signature=wbklp5wt3V8rSYvuuTVnYh6UBMY%3D",
         "url": "https://fanqienovel.com/page/7574935397508058174"
       },
       {
         "title": "全民学校求生：所有学校沦为地狱",
         "author": "倒霉蛋阿古朵",
-        "reads": "26.8万",
+        "reads": "28.1万",
         "intro": "【学校求生】【末世】【微群像】【不无脑】【不圣母】【半无限流】【S级天赋隐身虚化】【多】 现在的大学，形式主义极其严重。 顾平生本来是想帮导员，找行政黄老师盖某个文件章，却被黄老师各种理由搪塞阻碍，甚至讥讽。 到了晚自习的时候，全球所有学校进入诡异的求生游戏，所有老师和学生地位相同，每天要进行生死作业...不完成作业就会死... 而顾平生，恰好成为了他们班上的新班长，并且觉醒了S级天赋隐虚，可以隐身虚化，规避伤害保命极强。 同时，班长的权限很大，可以选择，甚至是操控同学们的生死... 【班长顾平生，请选择你们今天班级的作业。】 【作业一：校花林瑶和李真进行生死决斗，直到一方死去】 【作业二：顾平生做十个俯卧撑。】 该给班上选哪个作业呢？",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ob7533cc46b97d5e97896b87621652e72~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784663768&x-signature=r6fniY74Z%2FlWZ2HhVlrh1QL8V4g%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ob7533cc46b97d5e97896b87621652e72~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784749853&x-signature=VACmq9%2FoPER3T2wSpp72sr8sYH8%3D",
         "url": "https://fanqienovel.com/page/7622669788552121369"
+      },
+      {
+        "title": "无限大楼：开局成为监管者",
+        "author": "我已经换三个名了",
+        "reads": "26.9万",
+        "intro": "【不清图你求什么生？】 【我身为监管者，利用职权便利卡点bug没毛病吧？】 【你跟我同事说去吧！】 　　全民穿越，林千成为无限大楼中求生者的一员。 　　在这里，每扇门后都是一个未知的新世界。 　　其他人还在犹豫着不敢出门，林千就已经因为一场赌局成为了监管者。 　　【一级监管者薪资：每日获得一点自由属性】 　　“嗯？” 　　“如果是这样的话，那同事丑就丑点儿吧，只要不吃我就行。” 　　丧尸危机，诡异复苏，赛博朋克，没人知道门后到底会是什么。 　　清理任务，生存任务，区域试炼。 　　无论用什么方法，想要活下去就只有变强一条路。",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oc32bab4624e8fbe5f791c123acc583ae~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784749853&x-signature=BxKPrDb4ZWpW0QAdInWs%2FcI9qOA%3D",
+        "url": "https://fanqienovel.com/page/7471788218946423832"
       },
       {
         "title": "诡异直播：我能无限推演",
         "author": "石头巨怪",
-        "reads": "25.8万",
+        "reads": "25.9万",
         "intro": "欢迎来到规则怪谈。 这是一场血与火的战斗，这是一场智与勇的考验。 文字的力量不可抗拒，诡异的规则不可违背。 在看似无解的局面中，找到唯一的正解，冲破桎梏、寻求生机。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/7d47a514bcc17a01e56975c4f77ab7ff~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784663768&x-signature=thCKyOzSr5%2BRvoG5XVBRZMOE6JU%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/7d47a514bcc17a01e56975c4f77ab7ff~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784749853&x-signature=WvLzHH8D%2BtJXE%2F4natPk91GyE1Q%3D",
         "url": "https://fanqienovel.com/page/7113743406903331881"
       },
       {
         "title": "糟糕！我被女鬼包围了",
         "author": "时光大巴",
-        "reads": "25.3万",
+        "reads": "24.2万",
         "intro": "【养成】【克系】【系统】【全收集+全解锁+全场景】 这是一款《养诡》游戏，满足你的一切想象。 甜美的鬼校花、幽怨的鬼新娘。 诡异的诅咒娃娃，神秘的镜中少女。 点击选择你的养成角色。 释放内心，更懂你自己。 当苏鸣满怀期待的选择自己的养成角色后。 却发现，世界远比他想象中还要危险。 诡异全面复苏，未知如影随形。 楼道里的脚步声、电梯内的红雨伞、深夜中的血腥味，皆是索命征兆。 限制级、危险级、超危险级、灾难级… 无数恐怖的东西从地底爬出、从深海升起、从高楼坠落、从废墟走出。 枪炮无效，神明不显，普通人连闭眼喘息都是奢望。 苏鸣表示：“别慌，时机到了我自会出手。” “至于现在，我得先处理一下私事。” 转头看着将自己包围的女鬼们，他额头渗出一滴冷汗。 好消息是：她们都是自己养的。 坏消息是：好感度刷的有点太高了。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2od86dc0c37dc1ef20596605eee45cf34a~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784663768&x-signature=XBM3vm9ZBmXESNQduadSkP9bBDU%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2od86dc0c37dc1ef20596605eee45cf34a~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784749857&x-signature=9CtD3s4xTTjKBFGFns8vPTCfOos%3D",
         "url": "https://fanqienovel.com/page/7619956653944736830"
-      },
-      {
-        "title": "无限大楼：开局成为监管者",
-        "author": "我已经换三个名了",
-        "reads": "25.8万",
-        "intro": "【不清图你求什么生？】 【我身为监管者，利用职权便利卡点bug没毛病吧？】 【你跟我同事说去吧！】 　　全民穿越，林千成为无限大楼中求生者的一员。 　　在这里，每扇门后都是一个未知的新世界。 　　其他人还在犹豫着不敢出门，林千就已经因为一场赌局成为了监管者。 　　【一级监管者薪资：每日获得一点自由属性】 　　“嗯？” 　　“如果是这样的话，那同事丑就丑点儿吧，只要不吃我就行。” 　　丧尸危机，诡异复苏，赛博朋克，没人知道门后到底会是什么。 　　清理任务，生存任务，区域试炼。 　　无论用什么方法，想要活下去就只有变强一条路。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oc32bab4624e8fbe5f791c123acc583ae~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784663772&x-signature=TuztMikiDZaQGzIQ%2FuBxBeu2cJU%3D",
-        "url": "https://fanqienovel.com/page/7471788218946423832"
       },
       {
         "title": "诡异复苏：我能化身大妖",
         "author": "叶落归泥",
-        "reads": "23.8万",
+        "reads": "23.3万",
         "intro": "【鬼故事+西游记+爆笑+阳光男孩+精神病+正能量语录】 灵异复苏，诡异乱世，江辰觉醒化妖系统，让鬼祟产生情绪波动，就能吸食鬼气，用于抽取化妖卡，化身西游大妖。 面对各种暴戾凶残、诡异邪门的鬼物，他化妖寅虎、鹿力大仙、黑熊精、覆海大圣、黄眉老祖……变得比对方更恐怖！ 孙悟空打山村老尸到底几几开？ 黄眉大王是大黑佛母的对手吗？ 奔波儿灞遇到水鬼能否逃生？ 且看今日的道德与……灵异与西游，在这里，你将得到一切想要的答案。 …… 当恐怖禁墟降临，一尊尊阴神屹立，世界陷入无边的黑暗 身化大妖的江辰，背负血色苍穹走出，镇压一切！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/cb5bd221024d5549854f24bed1fa4237~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784663772&x-signature=wGtQMoQIzZ3rW2jKp8opy40%2Fh5A%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/cb5bd221024d5549854f24bed1fa4237~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784749857&x-signature=A8vZ%2B7amrLC3AtivFpWMbv0mJcs%3D",
         "url": "https://fanqienovel.com/page/7094544464168881156"
       },
       {
@@ -155,63 +162,63 @@
         "author": "钱有什么不好",
         "reads": "22.8万",
         "intro": "【无限流+直播求生+死亡回档+半迪化】 【无cp】【文内会拥有大量弹幕描写】 许奚加班猝死后穿越到了另一个被求生游戏入侵的世界，甚至还发现自己拥有了死后回档的能力，在他利用这个能力多次化险为夷，成功通关副本后，也意外被现实世界的网友们当成了顶尖大佬。 “他到底咋知道这么做能通关的？？？” “所以许奚又看出什么了？有无大佬分析一下，小弟我真看不懂这些操作啊！” “woc，这深不可测的城府，这缜密细致的思维，这滴水不漏的细节把控力，唯有二字形容——牛逼！” “别看他似乎低调不起眼的样子，实际上悄无声息地隐居幕后，正游刃有余地掌控着大局！” 许奚如果能得知网友们对他的评价，一定会一脸冤枉地大喊道： 不！你们脑补得太多啦！他没有什么深不可测的城府，也没有什么缜密细致的思维，更没有什么滴水不漏的细节把控力，一切都是他死出来的啊！！！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o8a6702f8708badd13cf5bad36557fa8a~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784663772&x-signature=lmP3cfgx968AF5JUYZFTYFnzSSk%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o8a6702f8708badd13cf5bad36557fa8a~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784749857&x-signature=%2BQzsmoXxgzPFu6F%2B6Kb0wzqk8mM%3D",
         "url": "https://fanqienovel.com/page/7510885086120643608"
       },
       {
         "title": "无限恐怖：我能嗅到鬼味",
         "author": "我心有无愧",
-        "reads": "22.7万",
+        "reads": "22.6万",
         "intro": "【无限流】+【微惊悚】+【无感情】+【绝望色彩】 某天夜里，刚经历完一场葬礼的顾全，带着两张遗像从殡仪馆里走出来。 父亲的电话打来，母亲意外出车祸，危在旦夕。 着急的顾全想到地下车库，开车见母亲最后一面。 途中，他却意外嗅到了天敌的味道！ 他因恐惧，下意识上了车，殊不知这车的目的地，正是天敌的乐园。 有鬼的深渊！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/67b7bbd580d662f0de73a17d970d27d0~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784663772&x-signature=ZyuzJOttINY8y8kqEv8CU02Snr4%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/67b7bbd580d662f0de73a17d970d27d0~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784749857&x-signature=UbYjvXNNkv08BAHM9smCIvEPM8o%3D",
         "url": "https://fanqienovel.com/page/7560282004445465662"
-      },
-      {
-        "title": "全民求生：我在诡异末日养成少女",
-        "author": "我吃西红柿酱",
-        "reads": "22.1万",
-        "intro": "【全民求生游戏+多女主+诡异入侵+SSS级隐藏建筑+囤物资+杀伐果断+绝对支配】 一觉醒来，全球穿越！ 所有人被投放到极寒冻土，开局随机分配1级庇护所，不仅要抵御零下三十度的严寒，还要面对黑夜中恐怖的诡异生物！ 当其他人还在为了一块发霉的面包出卖尊严，为了两根木头冻得瑟瑟发抖时。 陆沉却看着眼前粉红色的SSS级唯一隐藏建筑女仆咖啡厅陷入了沉思。 虽然不产物资，但拥有契约招聘神技？无视距离，强制传送，绝对忠诚？ …… “陆沉，求求你给我一口吃的吧，我快冻死了！” “陆沉，看在同学一场的份上，让我进去暖和一下吧！” 看着窗外在寒风中瑟瑟发抖、曾经高不可攀的清冷校花。 陆沉坐在恒温26度的真皮沙发上，一边吃着热气腾腾的帝王蟹，一边还要让身穿黑白蕾丝装的绝美学姐喂到嘴边。 “想进来？先签了这份卖身契再说！” （简介无力，请移步正文，看主角如何在末世建立属于他的女仆帝国！）",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o89f80e101c08b09a22753310ed7360a8~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784663772&x-signature=zqrStUqApZZLf7DYXHALKuRNf%2B0%3D",
-        "url": "https://fanqienovel.com/page/7590252170562243609"
-      },
-      {
-        "title": "规则怪谈：狗熊岭扮演光头强开始",
-        "author": "故梦的青春",
-        "reads": "20.9万",
-        "intro": "【动漫规则怪谈（第一个熊出没）＋微恐＋悲壮＋主角有脑＋国运＋无cp】 “别人的童年越来越模糊，我的童年咋越来越邪乎？” “不是！熊大熊二你咋入编了？喜羊羊你咋也有编制？连海绵宝宝都有了？” 蓝星诡异降临！怪谈席卷全球！ 每个国家都会抽取天选者，参加怪谈！ 龙国连败七场，一度处在灭国的边缘！ 最后一场，怪谈居然还是传说中的S级怪谈副本！ 穿越到蓝星的陈庆，得知这个世界怪谈林立，困难重重，本来很慌。 一看怪谈！ 狗熊岭怪谈？羊村怪谈？成龙历险记怪谈？比奇堡怪谈…… 好家伙！ 没想到怪谈全都是自己曾经的童年啊！ 那还说啥？都是哥们！ 陈庆一点也不慌了。 在怪谈中，陈庆扮演光头强，对着诡异熊大熊二就是干。 “我强天帝，狂一点怎么了？” 在羊村扮演懒大王。 “我懒羊羊大王懒一点怎么了？” 在比奇堡扮演海绵宝宝。 “我准备好啦！我准备好啦！” 在成龙历险记扮演成龙。 “小玉，这个太危险了。” 世界各国：“不是，陈庆为啥每个怪谈，他都能精准扮演角色？呜呜呜，求带！” …… 当陈庆彻底攻克怪谈那一天，怪谈的诡异这才恍然大悟，回想起那普通的一天。 那一天，怪谈世界来了个大爹！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/c8ca2594e45141b0eff22ac4ed6cba2f~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784663772&x-signature=%2F8aPNkn3d4auay9q%2BB8vbqGtz%2Bs%3D",
-        "url": "https://fanqienovel.com/page/7581902917842521150"
       },
       {
         "title": "规则怪谈：我即怪谈",
         "author": "祝你快乐呀",
-        "reads": "22.5万",
+        "reads": "22.1万",
         "intro": "17年，怪谈降临地球，热武器无法对其造成伤害，人类艰难求生。 规则怪谈成为地球人类的一把救命稻草。 全球数万天选者，胜则现实怪谈消散，败则规则怪谈降临。 这是人类与怪谈的战争。 陈韶，一名饱受骨癌折磨的患者，成为了第三轮次的天选者。 —————————————— 一句话简介：男主在拯救人类的过程中逐渐变为怪谈的故事 基本设定： 1.人类无法从物理层面对抗诡异，所以除非规则允许，不然不可能出现人类爆锤诡异的场景。 2.含有直播成分，直播间描写较少，现实世界对天选者帮助很大。 3.不会特意去嘲弄某个国家，顶多安排点惨烈的死法√ 4.主角会在不危及自身的情况下，帮助心怀善意的人，也会坑不怀好意的人。 5.主角不会背叛人类。 6.本书所有怪谈均为本人原创。 7.无CP。 文笔比较啰嗦，看了之后觉得不太好的，欢迎评论区提出，只要有理有据态度良好，我都会接受。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o1dd080c77e309167f3b04c05da05f305~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784663772&x-signature=1scRsXpnYPVPFZHRTQKD%2FXStSMk%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o1dd080c77e309167f3b04c05da05f305~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784749857&x-signature=xjKhDrELegfkf7vGrFaNh96so6E%3D",
         "url": "https://fanqienovel.com/page/7200698141484518415"
       },
       {
-        "title": "盗墓：人在九门，系统非说是洪荒",
-        "author": "城门白小飞",
-        "reads": "18.5万",
-        "intro": "【南部档案馆】【民国】【九叔】【麒麟小哥】【老九门2】【超凡】【克苏鲁】【马小玲】【盘古僵尸】 　　穿越民国乱世，误入九门江湖，本以为只是寻常寻龙探穴、倒斗摸金。 　　谁知觉醒上古洪荒系统，遍地古墓神物，在系统眼里全是洪荒至宝！ 　　无用道符？系统判定：雨师敕令！行云布雨！ 　　剧毒古丹？系统标注：九转还魂，羽化根基！ 　　烛九阴？系统直接收录：上古神兽幼种，可终生饲育，相伴闯遍九幽凶陵！ 　　卸岭搬山，九门风云，湘西诡墓，千年秘辛。 　　什么汪家，什么算计，什么千年布局，通通横推！ 　　什么？还有个叫任家镇的地方？红溪村又是什么鬼！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o7f5208fd8f6cf19be8fdceebaf8e4099~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784663772&x-signature=1iKV0OndFQVlkJEOqpy8se8oDSc%3D",
-        "url": "https://fanqienovel.com/page/7637542210430323774"
+        "title": "全民求生：我在诡异末日养成少女",
+        "author": "我吃西红柿酱",
+        "reads": "22.7万",
+        "intro": "【全民求生游戏+多女主+诡异入侵+SSS级隐藏建筑+囤物资+杀伐果断+绝对支配】 一觉醒来，全球穿越！ 所有人被投放到极寒冻土，开局随机分配1级庇护所，不仅要抵御零下三十度的严寒，还要面对黑夜中恐怖的诡异生物！ 当其他人还在为了一块发霉的面包出卖尊严，为了两根木头冻得瑟瑟发抖时。 陆沉却看着眼前粉红色的SSS级唯一隐藏建筑女仆咖啡厅陷入了沉思。 虽然不产物资，但拥有契约招聘神技？无视距离，强制传送，绝对忠诚？ …… “陆沉，求求你给我一口吃的吧，我快冻死了！” “陆沉，看在同学一场的份上，让我进去暖和一下吧！” 看着窗外在寒风中瑟瑟发抖、曾经高不可攀的清冷校花。 陆沉坐在恒温26度的真皮沙发上，一边吃着热气腾腾的帝王蟹，一边还要让身穿黑白蕾丝装的绝美学姐喂到嘴边。 “想进来？先签了这份卖身契再说！” （简介无力，请移步正文，看主角如何在末世建立属于他的女仆帝国！）",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o89f80e101c08b09a22753310ed7360a8~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784749857&x-signature=tZyWHJoxSUg%2FGpvFx3n2B51eDN8%3D",
+        "url": "https://fanqienovel.com/page/7590252170562243609"
       },
       {
         "title": "那一天，月亮吞下整座城",
         "author": "浊人",
-        "reads": "23.2万",
+        "reads": "24.2万",
         "intro": "我每一个器官，都藏着一个怪物！！ 我的胃，吞食天地——【黑噬】 我的脑，神识血海——【虚海】 我的心，不死不灭——【莲生尸心】 我的拳，一拳破界——【极拳孽龙】 我的血管，斩断钢铁——【血染】 我的反应，自在极意——【蛛络】 你是其他世界的主角？？对我来说只是小零食罢了！！ —— —— 修仙者：这一枚筑基丹里，有一只蛊虫在蠕动！！ 进化者：我是尸王，我要带领丧尸大潮，踏碎整个世界！！ 觉醒者：开局觉醒SSS级能力，我要让看不起我的人，全都付出代价！！ 游戏者：每天一个黄金词条，我无敌了！！ 序列者：觉醒001号序列，谁才是主宰？？ 旧日者：赞美伟大的愚者。 杨锋：下一个时代的主角，请登场！！ —— —— 【诡异降临、天命异能、惊险刺激、规则怪谈、纯爱战神、单女主、无系统、不无脑】 —— —— 您可能看到：SCP、后室、战锤、克苏鲁、大逃杀、搜打撤、规则怪谈、诡异妖灵、杀戮尖塔、多元世界、等各种元素。 那么……让我们愉快的开始冒险吧！！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o0eb5d322385c63642bbf3c897139f357~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784663772&x-signature=R%2BFtbhOiTwttlGRXdFpvQfz0z04%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o0eb5d322385c63642bbf3c897139f357~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784749857&x-signature=JiDddn2qum5TYysFhxGYlCtSYLk%3D",
         "url": "https://fanqienovel.com/page/7600609248027888664"
+      },
+      {
+        "title": "规则怪谈：狗熊岭扮演光头强开始",
+        "author": "故梦的青春",
+        "reads": "19.5万",
+        "intro": "【动漫规则怪谈（第一个熊出没）＋微恐＋悲壮＋主角有脑＋国运＋无cp】 “别人的童年越来越模糊，我的童年咋越来越邪乎？” “不是！熊大熊二你咋入编了？喜羊羊你咋也有编制？连海绵宝宝都有了？” 蓝星诡异降临！怪谈席卷全球！ 每个国家都会抽取天选者，参加怪谈！ 龙国连败七场，一度处在灭国的边缘！ 最后一场，怪谈居然还是传说中的S级怪谈副本！ 穿越到蓝星的陈庆，得知这个世界怪谈林立，困难重重，本来很慌。 一看怪谈！ 狗熊岭怪谈？羊村怪谈？成龙历险记怪谈？比奇堡怪谈…… 好家伙！ 没想到怪谈全都是自己曾经的童年啊！ 那还说啥？都是哥们！ 陈庆一点也不慌了。 在怪谈中，陈庆扮演光头强，对着诡异熊大熊二就是干。 “我强天帝，狂一点怎么了？” 在羊村扮演懒大王。 “我懒羊羊大王懒一点怎么了？” 在比奇堡扮演海绵宝宝。 “我准备好啦！我准备好啦！” 在成龙历险记扮演成龙。 “小玉，这个太危险了。” 世界各国：“不是，陈庆为啥每个怪谈，他都能精准扮演角色？呜呜呜，求带！” …… 当陈庆彻底攻克怪谈那一天，怪谈的诡异这才恍然大悟，回想起那普通的一天。 那一天，怪谈世界来了个大爹！",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/c8ca2594e45141b0eff22ac4ed6cba2f~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784749857&x-signature=22D0O80oLIjQxmohIl%2FxhJ3hCxg%3D",
+        "url": "https://fanqienovel.com/page/7581902917842521150"
+      },
+      {
+        "title": "穿成诡异后联盟派我去当boss",
+        "author": "墨墨无痕",
+        "reads": "19.7万",
+        "intro": "【诡异 + boss视角 + 副本 + 规则 +无女主】 任逸一觉醒来，穿到了一个福利好得离谱的“平凡”世界。 在“联盟”无微不至的庇护下，人人生活无忧，未来光明。 他以为自己会和这个世界唯一的亲人、自闭症老哥一起，平平安安地度过普通人的一生。 然而一场“专业分配测试”把他的世界观都轰塌了。 “联盟里没有人类。” 老哥语气平静地告诉他。 “包括你我，大家都只是披着人皮的诡异。” 但没关系。 这里依然是个美好的世界。 只要你遵守《认知滤网维护条例》； 只要你毕业后，愿意服从调配去往各个世界担任“副本BOSS”； 只要你在面对那些外来入侵者时，能熟练运用规则，成为诸天万界最不可名状的传说。 泛银河诡异联盟，竭诚为您，也为这个世界的安全保驾护航。",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/0f58e2ccb8821d2048bcfbb88aa6b19c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784749857&x-signature=fDAG2MKN%2B%2BPk8a2AqjKbbGbeceY%3D",
+        "url": "https://fanqienovel.com/page/7586281659591298073"
       },
       {
         "title": "死亡游戏：开局欺诈师，假扮神明",
         "author": "暴力紫皮人",
         "reads": "18.8万",
         "intro": "【爽文+烧脑+慢热+智战+超多反转】 “当我以为死亡就是终点时，睁开眼才发现死亡不过是新的开始。” 林御被他以为是来告白的学妹杀死后，却发现自己没有真正死去，而是来到了一场死亡游戏之中！ 只有赢家，才能获得“重活一次”的机会。 幸好，林御觉醒了“唯一职业·欺诈师”—— 【所说的谎言只要被人相信，就会成真！】 看着其他茫然的玩家，林御为了胜利，选择在游戏中假扮神明！ “欢迎来到我的游戏——羔羊们！” 而在接踵而至、一场又一场的死亡游戏中…… 林御也最终依靠着【欺诈师】，成为了真正的神明！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o299ac7c1306997d7aa5d28120ebf473d~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784663772&x-signature=5gexrh3zBio4iEITzDGrJcjkY%2B0%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o299ac7c1306997d7aa5d28120ebf473d~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784749857&x-signature=cV5j4n4KxP6P7G%2BttYmfR6crC5g%3D",
         "url": "https://fanqienovel.com/page/7357975803398720537"
       }
     ]
@@ -220,77 +227,84 @@
     {
       "name": "悬疑脑洞",
       "trend": {
-        "new_count": 0,
-        "dropped_count": 0,
-        "new_books": [],
-        "dropped_books": [],
+        "new_count": 1,
+        "dropped_count": 1,
+        "new_books": [
+          "穿成诡异后联盟派我去当boss"
+        ],
+        "dropped_books": [
+          {
+            "title": "盗墓：人在九门，系统非说是洪荒",
+            "intro": "【南部档案馆】【民国】【九叔】【麒麟小哥】【老九门2】【超凡】【克苏鲁】【马小玲】【盘古僵尸】 　　穿越民国乱世，误入九门江湖，本以为只是寻常寻龙探穴、倒斗摸金。 　　谁知觉醒上古洪荒系统，遍地古墓神"
+          }
+        ],
         "top_risers": [
           {
             "title": "无限大楼：开局成为监管者",
-            "change": "+7"
-          },
-          {
-            "title": "全民求生：我在诡异末日养成少女",
             "change": "+2"
           },
           {
-            "title": "无限恐怖：我能嗅到鬼味",
-            "change": "+1"
+            "title": "规则怪谈：我即怪谈",
+            "change": "+2"
+          },
+          {
+            "title": "那一天，月亮吞下整座城",
+            "change": "+2"
           }
         ],
         "top_fallers": [
           {
-            "title": "规则怪谈：我即怪谈",
-            "change": "-4"
-          },
-          {
-            "title": "回档求生：我真不是大佬啊",
-            "change": "-2"
-          },
-          {
             "title": "规则怪谈：狗熊岭扮演光头强开始",
             "change": "-2"
+          },
+          {
+            "title": "诡异直播：我能无限推演",
+            "change": "-1"
+          },
+          {
+            "title": "糟糕！我被女鬼包围了",
+            "change": "-1"
           }
         ],
         "reads_growth": [
           {
+            "title": "全球死考：刚下刑场你让我去考试",
+            "growth": "+3.8万"
+          },
+          {
             "title": "十日终焉",
-            "growth": "+2.1万"
+            "growth": "+1.7万"
           },
           {
-            "title": "那一天，月亮吞下整座城",
-            "growth": "+1.6万"
-          },
-          {
-            "title": "谁把地府勾魂使拉进诡异副本的？",
-            "growth": "+5000"
+            "title": "全民学校求生：所有学校沦为地狱",
+            "growth": "+1.3万"
           }
         ],
-        "summary": "**🔥 题材趋势** 规则怪谈、无限流、真实游戏仍是核心题材。系统外挂与智战并存，“诡异+养成”及“诡异+直播”的组合模式热度不减，但“微恐”和“轻松日常”比重增加，以降低阅读门槛。\n**📖 读者偏好** 读者追求紧张刺激的智斗与冒险，但也逐渐接受“搞笑”、“吐槽”等轻松元素穿插。对“非无敌”和“非无脑”的智战类作品认可度极高。\n**🆕 新上榜作品** 本期无新上榜作品，榜单头部固化现象明显，由《十日终焉》等超头部作品占据统治地位。\n**📉 掉出榜单** 无作品掉出，头部作品的虹吸效应显著，新书突围难度极大。\n**💡 值得关注** 《无限大楼：开局成为监管者》排名上升+7，以“监管者”身份利用规则“卡bug”的反套路视角，在众多求生者主视角中脱颖而出，提供全新体验。"
+        "summary": "**🔥 题材趋势**  \n“规则怪谈”与“诡异副本”持续扎堆，系统、无限流、求生、智战成为标配设定。近期“Boss视角”“地府/勾魂使”等反向身份设定开始冒头，试图打破同质化。\n\n**📖 读者偏好**  \n读者偏好“爽+微恐+智战”组合，青睐系统、死亡回档、推演类金手指；对非无脑、有设定深度的作品接受度提升，但爽感仍是核心驱动力。\n\n**🆕 新上榜作品**  \n《穿成诡异后联盟派我去当boss》以“披人皮的诡异”+Boss视角+联盟庇护设定，在诡异文红海中开辟了阵营反转的新鲜体验。\n\n**📉 掉出榜单**  \n《盗墓：人在九门，系统非说是洪荒》掉出，题材混搭（盗墓+洪荒+克苏鲁）过于杂糅，且盗墓类在悬疑脑洞榜用户群中接受度有限，易被更热门的诡异/规则文挤压。\n\n**💡 值得关注**  \n《谁把地府勾魂使拉进诡异副本的？》将地府KPI与诡异副本结合，搞笑反差点亮差异化；《序列公路求生：我在末日升级物资》用“序列魔药+公路求生”打破静态求生套路，升级线清晰且非无脑爽，具备长线潜力。"
       },
       "books": [
         {
           "title": "十日终焉",
           "author": "杀虫队队员",
-          "reads": "254.8万",
+          "reads": "256.5万",
           "intro": "24年番茄年度巅峰榜TOP1 | 2024 年度“中国网络文学影响力榜” | 2024 年度“中国好小说”奖 | 出版销售量超200万册 （不后宫，不套路，不无敌，不系统，不无脑，不爽文，介意者慎入。） 当我以为这只是寻常的一天时，却发现自己被捉到了终焉之地。 当我以为只需要不断的参加死亡游戏就可以逃脱时，却发现众人开始觉醒超自然之力。 当我以为这里是「造神之地」时，一切却又奔着湮灭走去。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/4900f950c7af7f82fdc14cf528e0e288~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784663768&x-signature=1rwcH1tEDzDEQjegXUle5MIwKhU%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/4900f950c7af7f82fdc14cf528e0e288~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784749853&x-signature=bDWQ%2FSHLprQx8ksQ63TMalRPDYY%3D",
           "url": "https://fanqienovel.com/page/7143038691944959011"
         },
         {
           "title": "诡舍",
           "author": "夜来风雨声丶",
-          "reads": "97.1万",
+          "reads": "96.8万",
           "intro": "【无限流+微惊悚+求生+单女主】 一辆没有司机的大巴，载着一群被诅咒的人，去往了一间黑色的诡舍…… 诡舍里，有一扇被鲜血染红的门。 被诅咒的人，每过一段时间，就要强行被拉入血门之后的可怕世界完成恐怖事件…… 当宁秋水在诡舍之中经历了一个又一个恐怖猎奇的故事，九死一生终于活下来，他却发现，这一切跟他想的大不一样…… 诡舍，原来并不是诅咒，而是…… —— 『夜深了朋友，来诡舍里坐坐，这里有火盆，顺便听我给您唠唠这儿的故事……』",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ob67b9e86ddf3a2d6293a37e7895331a6~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784663768&x-signature=tATnWDQnAQDcE0StxxcHD8kFzVw%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ob67b9e86ddf3a2d6293a37e7895331a6~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784749853&x-signature=hZ%2BM7IB9f2kzZ5TG5N7P5ZzyCY0%3D",
           "url": "https://fanqienovel.com/page/7256784068786785336"
         },
         {
           "title": "全球死考：刚下刑场你让我去考试",
           "author": "我爱吃猫片哇",
-          "reads": "53.2万",
-          "intro": "【智战+微恐+无限】 死亡高考降临，三千万考生被拉进地狱。 当考题被替换成各种恐怖片和灾难场景，活下去也只是奢望。 通关获得奖励，失败抹杀！ 十分兑换一千万，百分兑换暴君基因，千分兑换末日天启。 只有？？才能走出这场考试。 ------- 为了调查，国安从全球最大监狱中，“请”出重刑犯夜林。 在一场场考试中，夜林突然发现，比起杀人，他似乎更擅长杀神。 -------- 已有700万字完本经验，请各位兄弟放心观看。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oc1cad58a1611faa3ce1bff953296036f~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784663768&x-signature=n%2FHZ3qTLc08fIHbmHF%2FMeNNMzpk%3D",
+          "reads": "57万",
+          "intro": "【智战+微恐+无限】 死亡高考降临，三千万考生被拉进地狱。 当考题被替换成各种恐怖片和灾难场景，活下去也只是奢望。 通关获得奖励，失败抹杀！ 十分兑换一千万，百分兑换暴君基因，千分兑换末日天启。 只有？？才能走出这场考试。 ------- 为了调查，国安从全球最大监狱中，“请”出重刑犯夜林。 在一场场考试中，夜林突然发现，比起杀人，他似乎更擅长杀神。 -------- 本书已签约实体出版，作者已有700万字完本经验，请各位兄弟放心观看。",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oc1cad58a1611faa3ce1bff953296036f~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784749853&x-signature=D8y3RYtc7LvYe5bOXx6Q0KV7ov0%3D",
           "url": "https://fanqienovel.com/page/7623686597409508376"
         },
         {
@@ -298,7 +312,7 @@
           "author": "巡山主神",
           "reads": "48.8万",
           "intro": "慈航大舞台，没挂你别来。 陈风穿越异世界，发现这里的Boss简直阴到没边。 “先去新手村发育一下。” “哈！穿越者，逮到你了。” “重生买个彩票。” “哈！重生者，逮到你了。” “好好好，这么阴是吧，那我也不必装什么正人君子了。” 陈风发现自己每死一次，都能刷新一个新系统。 系统的能力是有极限的，穿越者越是依赖系统，反而越是会陷入意想不到的困境，前功尽弃。。。。。。除非你不止一个系统。 “每日情报、打卡签到、模拟器、熟练度、聊天群、深蓝加点。。。。。。” “他们的力量是靠修炼得来，软弱无力。” “而我，可是靠系统加点，一步步努力上来的！”",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oa1f371e1c298df2bfd6303b02eb719f4~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784663768&x-signature=%2BBTAGTOfxXXhtBFnbSZuPzEcTPs%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oa1f371e1c298df2bfd6303b02eb719f4~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784749853&x-signature=zdPmo432ICqLey1eNDUly7cSOlU%3D",
           "url": "https://fanqienovel.com/page/7552067105378536473"
         },
         {
@@ -306,63 +320,63 @@
           "author": "山海呼啸",
           "reads": "46.9万",
           "intro": "【题材新颖+非无脑爽文+非无敌+序列魔药+诡异+公路求生+升级物资+心狠手辣】 诡异降临，城市成了人类禁区。 人们只能依靠序列超凡不停的迁徙，定居生活方式变成了迁徙生活方式。 在迁徙的过程之中，陈野觉醒了升级系统。 生锈的自行车在他手中蜕变为装甲战车。 破旧帐篷进化成移动堡垒。 当别人为半块压缩饼干拼命时，他的房车已装载着自动净水系统和微型生态农场。 但真正的危机来自迷雾深处——那些杀不死的诡异追逐着迁徙车辙。 诡异无法杀死，除非序列超凡。 超过百种匪夷所思的序列超凡。 超百种奇异奇物…… 又有书名：《末日逃亡：从二八大杠开始》",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/ai/p2o5c18f15e4d52cde4a3766c8554856607~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784663768&x-signature=GkX%2BjgA%2BgdUQ%2FVMNOIP1Uly39u0%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/ai/p2o5c18f15e4d52cde4a3766c8554856607~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784749853&x-signature=IF6n73IE9Ni%2Bf8ta3UA1AeWHPwI%3D",
           "url": "https://fanqienovel.com/page/7488955435421010968"
         },
         {
           "title": "当诡异降临世界，死亡即是终点",
           "author": "庆元职高小天才",
-          "reads": "39.9万",
+          "reads": "40万",
           "intro": "【诡异降临+无系统+设定新颖+逃生+半无限流+不圣母+不黑暗+异能】 最好的年纪，肆意盎然的青春，正当苏远认为一生都会这么平静而美好的度过时，一行血字出现在了晚自习的黑板上。 【在寂静的黑夜，寝室的门口出现了一只恐怖的厉鬼......它杀死你需要多久呢？】 在所有人都以为这只是一个玩笑时，午夜的寝室门外响起了脚步声...... 一个接着一个的都市怪谈成为现实，一个又一个死去的人被抹去痕迹。 当灵异降临之时，死亡即是终点。 （前期慢热，好评如潮，请给耐心）",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ob80dfb366cfe4a16a42b6c7376402379~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784663768&x-signature=HYrtbwKZXhecT3Gmfxnj6lbbb5o%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ob80dfb366cfe4a16a42b6c7376402379~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784749853&x-signature=AadrnH1%2BK6KQv7N6PW%2FMxt6%2Fmzk%3D",
           "url": "https://fanqienovel.com/page/7253908182769077252"
         },
         {
           "title": "谁把地府勾魂使拉进诡异副本的？",
           "author": "沈舟渡川",
-          "reads": "34.2万",
+          "reads": "34.4万",
           "intro": "【诡异副本】【搞笑】【爽】【全球直播】 随着医疗水平的提高，人类死亡率显著下降。 这让地府勾魂司的业绩连年下滑，勾魂使们为了业绩内卷严重。 林枫身为最普通的勾魂使，无权无势，为了完成KPI只能拼命加班，但依旧月月垫底。 直到有天，他意外被拉入了一场诡异副本…… 副本里，那些别人避之不及的诡异，在他眼里都是一个个送上门的业绩。 他主动触发规则，熟练地将一只只诡异打包，看的直播间里众人瞠目结舌。 “诡异们，快跑啊！人贩子……哦不，诡贩子来了！”",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/0f6ac0885364679c9f89dea26c612e98~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784663768&x-signature=UFBTAn34QzDSor9LPKQLUGKGUM4%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/0f6ac0885364679c9f89dea26c612e98~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784749853&x-signature=wbklp5wt3V8rSYvuuTVnYh6UBMY%3D",
           "url": "https://fanqienovel.com/page/7574935397508058174"
         },
         {
           "title": "全民学校求生：所有学校沦为地狱",
           "author": "倒霉蛋阿古朵",
-          "reads": "26.8万",
+          "reads": "28.1万",
           "intro": "【学校求生】【末世】【微群像】【不无脑】【不圣母】【半无限流】【S级天赋隐身虚化】【多】 现在的大学，形式主义极其严重。 顾平生本来是想帮导员，找行政黄老师盖某个文件章，却被黄老师各种理由搪塞阻碍，甚至讥讽。 到了晚自习的时候，全球所有学校进入诡异的求生游戏，所有老师和学生地位相同，每天要进行生死作业...不完成作业就会死... 而顾平生，恰好成为了他们班上的新班长，并且觉醒了S级天赋隐虚，可以隐身虚化，规避伤害保命极强。 同时，班长的权限很大，可以选择，甚至是操控同学们的生死... 【班长顾平生，请选择你们今天班级的作业。】 【作业一：校花林瑶和李真进行生死决斗，直到一方死去】 【作业二：顾平生做十个俯卧撑。】 该给班上选哪个作业呢？",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ob7533cc46b97d5e97896b87621652e72~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784663768&x-signature=r6fniY74Z%2FlWZ2HhVlrh1QL8V4g%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ob7533cc46b97d5e97896b87621652e72~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784749853&x-signature=VACmq9%2FoPER3T2wSpp72sr8sYH8%3D",
           "url": "https://fanqienovel.com/page/7622669788552121369"
+        },
+        {
+          "title": "无限大楼：开局成为监管者",
+          "author": "我已经换三个名了",
+          "reads": "26.9万",
+          "intro": "【不清图你求什么生？】 【我身为监管者，利用职权便利卡点bug没毛病吧？】 【你跟我同事说去吧！】 　　全民穿越，林千成为无限大楼中求生者的一员。 　　在这里，每扇门后都是一个未知的新世界。 　　其他人还在犹豫着不敢出门，林千就已经因为一场赌局成为了监管者。 　　【一级监管者薪资：每日获得一点自由属性】 　　“嗯？” 　　“如果是这样的话，那同事丑就丑点儿吧，只要不吃我就行。” 　　丧尸危机，诡异复苏，赛博朋克，没人知道门后到底会是什么。 　　清理任务，生存任务，区域试炼。 　　无论用什么方法，想要活下去就只有变强一条路。",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oc32bab4624e8fbe5f791c123acc583ae~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784749853&x-signature=BxKPrDb4ZWpW0QAdInWs%2FcI9qOA%3D",
+          "url": "https://fanqienovel.com/page/7471788218946423832"
         },
         {
           "title": "诡异直播：我能无限推演",
           "author": "石头巨怪",
-          "reads": "25.8万",
+          "reads": "25.9万",
           "intro": "欢迎来到规则怪谈。 这是一场血与火的战斗，这是一场智与勇的考验。 文字的力量不可抗拒，诡异的规则不可违背。 在看似无解的局面中，找到唯一的正解，冲破桎梏、寻求生机。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/7d47a514bcc17a01e56975c4f77ab7ff~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784663768&x-signature=thCKyOzSr5%2BRvoG5XVBRZMOE6JU%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/7d47a514bcc17a01e56975c4f77ab7ff~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784749853&x-signature=WvLzHH8D%2BtJXE%2F4natPk91GyE1Q%3D",
           "url": "https://fanqienovel.com/page/7113743406903331881"
         },
         {
           "title": "糟糕！我被女鬼包围了",
           "author": "时光大巴",
-          "reads": "25.3万",
+          "reads": "24.2万",
           "intro": "【养成】【克系】【系统】【全收集+全解锁+全场景】 这是一款《养诡》游戏，满足你的一切想象。 甜美的鬼校花、幽怨的鬼新娘。 诡异的诅咒娃娃，神秘的镜中少女。 点击选择你的养成角色。 释放内心，更懂你自己。 当苏鸣满怀期待的选择自己的养成角色后。 却发现，世界远比他想象中还要危险。 诡异全面复苏，未知如影随形。 楼道里的脚步声、电梯内的红雨伞、深夜中的血腥味，皆是索命征兆。 限制级、危险级、超危险级、灾难级… 无数恐怖的东西从地底爬出、从深海升起、从高楼坠落、从废墟走出。 枪炮无效，神明不显，普通人连闭眼喘息都是奢望。 苏鸣表示：“别慌，时机到了我自会出手。” “至于现在，我得先处理一下私事。” 转头看着将自己包围的女鬼们，他额头渗出一滴冷汗。 好消息是：她们都是自己养的。 坏消息是：好感度刷的有点太高了。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2od86dc0c37dc1ef20596605eee45cf34a~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784663768&x-signature=XBM3vm9ZBmXESNQduadSkP9bBDU%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2od86dc0c37dc1ef20596605eee45cf34a~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784749857&x-signature=9CtD3s4xTTjKBFGFns8vPTCfOos%3D",
           "url": "https://fanqienovel.com/page/7619956653944736830"
-        },
-        {
-          "title": "无限大楼：开局成为监管者",
-          "author": "我已经换三个名了",
-          "reads": "25.8万",
-          "intro": "【不清图你求什么生？】 【我身为监管者，利用职权便利卡点bug没毛病吧？】 【你跟我同事说去吧！】 　　全民穿越，林千成为无限大楼中求生者的一员。 　　在这里，每扇门后都是一个未知的新世界。 　　其他人还在犹豫着不敢出门，林千就已经因为一场赌局成为了监管者。 　　【一级监管者薪资：每日获得一点自由属性】 　　“嗯？” 　　“如果是这样的话，那同事丑就丑点儿吧，只要不吃我就行。” 　　丧尸危机，诡异复苏，赛博朋克，没人知道门后到底会是什么。 　　清理任务，生存任务，区域试炼。 　　无论用什么方法，想要活下去就只有变强一条路。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oc32bab4624e8fbe5f791c123acc583ae~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784663772&x-signature=TuztMikiDZaQGzIQ%2FuBxBeu2cJU%3D",
-          "url": "https://fanqienovel.com/page/7471788218946423832"
         },
         {
           "title": "诡异复苏：我能化身大妖",
           "author": "叶落归泥",
-          "reads": "23.8万",
+          "reads": "23.3万",
           "intro": "【鬼故事+西游记+爆笑+阳光男孩+精神病+正能量语录】 灵异复苏，诡异乱世，江辰觉醒化妖系统，让鬼祟产生情绪波动，就能吸食鬼气，用于抽取化妖卡，化身西游大妖。 面对各种暴戾凶残、诡异邪门的鬼物，他化妖寅虎、鹿力大仙、黑熊精、覆海大圣、黄眉老祖……变得比对方更恐怖！ 孙悟空打山村老尸到底几几开？ 黄眉大王是大黑佛母的对手吗？ 奔波儿灞遇到水鬼能否逃生？ 且看今日的道德与……灵异与西游，在这里，你将得到一切想要的答案。 …… 当恐怖禁墟降临，一尊尊阴神屹立，世界陷入无边的黑暗 身化大妖的江辰，背负血色苍穹走出，镇压一切！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/cb5bd221024d5549854f24bed1fa4237~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784663772&x-signature=wGtQMoQIzZ3rW2jKp8opy40%2Fh5A%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/cb5bd221024d5549854f24bed1fa4237~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784749857&x-signature=A8vZ%2B7amrLC3AtivFpWMbv0mJcs%3D",
           "url": "https://fanqienovel.com/page/7094544464168881156"
         },
         {
@@ -370,63 +384,63 @@
           "author": "钱有什么不好",
           "reads": "22.8万",
           "intro": "【无限流+直播求生+死亡回档+半迪化】 【无cp】【文内会拥有大量弹幕描写】 许奚加班猝死后穿越到了另一个被求生游戏入侵的世界，甚至还发现自己拥有了死后回档的能力，在他利用这个能力多次化险为夷，成功通关副本后，也意外被现实世界的网友们当成了顶尖大佬。 “他到底咋知道这么做能通关的？？？” “所以许奚又看出什么了？有无大佬分析一下，小弟我真看不懂这些操作啊！” “woc，这深不可测的城府，这缜密细致的思维，这滴水不漏的细节把控力，唯有二字形容——牛逼！” “别看他似乎低调不起眼的样子，实际上悄无声息地隐居幕后，正游刃有余地掌控着大局！” 许奚如果能得知网友们对他的评价，一定会一脸冤枉地大喊道： 不！你们脑补得太多啦！他没有什么深不可测的城府，也没有什么缜密细致的思维，更没有什么滴水不漏的细节把控力，一切都是他死出来的啊！！！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o8a6702f8708badd13cf5bad36557fa8a~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784663772&x-signature=lmP3cfgx968AF5JUYZFTYFnzSSk%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o8a6702f8708badd13cf5bad36557fa8a~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784749857&x-signature=%2BQzsmoXxgzPFu6F%2B6Kb0wzqk8mM%3D",
           "url": "https://fanqienovel.com/page/7510885086120643608"
         },
         {
           "title": "无限恐怖：我能嗅到鬼味",
           "author": "我心有无愧",
-          "reads": "22.7万",
+          "reads": "22.6万",
           "intro": "【无限流】+【微惊悚】+【无感情】+【绝望色彩】 某天夜里，刚经历完一场葬礼的顾全，带着两张遗像从殡仪馆里走出来。 父亲的电话打来，母亲意外出车祸，危在旦夕。 着急的顾全想到地下车库，开车见母亲最后一面。 途中，他却意外嗅到了天敌的味道！ 他因恐惧，下意识上了车，殊不知这车的目的地，正是天敌的乐园。 有鬼的深渊！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/67b7bbd580d662f0de73a17d970d27d0~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784663772&x-signature=ZyuzJOttINY8y8kqEv8CU02Snr4%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/67b7bbd580d662f0de73a17d970d27d0~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784749857&x-signature=UbYjvXNNkv08BAHM9smCIvEPM8o%3D",
           "url": "https://fanqienovel.com/page/7560282004445465662"
-        },
-        {
-          "title": "全民求生：我在诡异末日养成少女",
-          "author": "我吃西红柿酱",
-          "reads": "22.1万",
-          "intro": "【全民求生游戏+多女主+诡异入侵+SSS级隐藏建筑+囤物资+杀伐果断+绝对支配】 一觉醒来，全球穿越！ 所有人被投放到极寒冻土，开局随机分配1级庇护所，不仅要抵御零下三十度的严寒，还要面对黑夜中恐怖的诡异生物！ 当其他人还在为了一块发霉的面包出卖尊严，为了两根木头冻得瑟瑟发抖时。 陆沉却看着眼前粉红色的SSS级唯一隐藏建筑女仆咖啡厅陷入了沉思。 虽然不产物资，但拥有契约招聘神技？无视距离，强制传送，绝对忠诚？ …… “陆沉，求求你给我一口吃的吧，我快冻死了！” “陆沉，看在同学一场的份上，让我进去暖和一下吧！” 看着窗外在寒风中瑟瑟发抖、曾经高不可攀的清冷校花。 陆沉坐在恒温26度的真皮沙发上，一边吃着热气腾腾的帝王蟹，一边还要让身穿黑白蕾丝装的绝美学姐喂到嘴边。 “想进来？先签了这份卖身契再说！” （简介无力，请移步正文，看主角如何在末世建立属于他的女仆帝国！）",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o89f80e101c08b09a22753310ed7360a8~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784663772&x-signature=zqrStUqApZZLf7DYXHALKuRNf%2B0%3D",
-          "url": "https://fanqienovel.com/page/7590252170562243609"
-        },
-        {
-          "title": "规则怪谈：狗熊岭扮演光头强开始",
-          "author": "故梦的青春",
-          "reads": "20.9万",
-          "intro": "【动漫规则怪谈（第一个熊出没）＋微恐＋悲壮＋主角有脑＋国运＋无cp】 “别人的童年越来越模糊，我的童年咋越来越邪乎？” “不是！熊大熊二你咋入编了？喜羊羊你咋也有编制？连海绵宝宝都有了？” 蓝星诡异降临！怪谈席卷全球！ 每个国家都会抽取天选者，参加怪谈！ 龙国连败七场，一度处在灭国的边缘！ 最后一场，怪谈居然还是传说中的S级怪谈副本！ 穿越到蓝星的陈庆，得知这个世界怪谈林立，困难重重，本来很慌。 一看怪谈！ 狗熊岭怪谈？羊村怪谈？成龙历险记怪谈？比奇堡怪谈…… 好家伙！ 没想到怪谈全都是自己曾经的童年啊！ 那还说啥？都是哥们！ 陈庆一点也不慌了。 在怪谈中，陈庆扮演光头强，对着诡异熊大熊二就是干。 “我强天帝，狂一点怎么了？” 在羊村扮演懒大王。 “我懒羊羊大王懒一点怎么了？” 在比奇堡扮演海绵宝宝。 “我准备好啦！我准备好啦！” 在成龙历险记扮演成龙。 “小玉，这个太危险了。” 世界各国：“不是，陈庆为啥每个怪谈，他都能精准扮演角色？呜呜呜，求带！” …… 当陈庆彻底攻克怪谈那一天，怪谈的诡异这才恍然大悟，回想起那普通的一天。 那一天，怪谈世界来了个大爹！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/c8ca2594e45141b0eff22ac4ed6cba2f~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784663772&x-signature=%2F8aPNkn3d4auay9q%2BB8vbqGtz%2Bs%3D",
-          "url": "https://fanqienovel.com/page/7581902917842521150"
         },
         {
           "title": "规则怪谈：我即怪谈",
           "author": "祝你快乐呀",
-          "reads": "22.5万",
+          "reads": "22.1万",
           "intro": "17年，怪谈降临地球，热武器无法对其造成伤害，人类艰难求生。 规则怪谈成为地球人类的一把救命稻草。 全球数万天选者，胜则现实怪谈消散，败则规则怪谈降临。 这是人类与怪谈的战争。 陈韶，一名饱受骨癌折磨的患者，成为了第三轮次的天选者。 —————————————— 一句话简介：男主在拯救人类的过程中逐渐变为怪谈的故事 基本设定： 1.人类无法从物理层面对抗诡异，所以除非规则允许，不然不可能出现人类爆锤诡异的场景。 2.含有直播成分，直播间描写较少，现实世界对天选者帮助很大。 3.不会特意去嘲弄某个国家，顶多安排点惨烈的死法√ 4.主角会在不危及自身的情况下，帮助心怀善意的人，也会坑不怀好意的人。 5.主角不会背叛人类。 6.本书所有怪谈均为本人原创。 7.无CP。 文笔比较啰嗦，看了之后觉得不太好的，欢迎评论区提出，只要有理有据态度良好，我都会接受。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o1dd080c77e309167f3b04c05da05f305~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784663772&x-signature=1scRsXpnYPVPFZHRTQKD%2FXStSMk%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o1dd080c77e309167f3b04c05da05f305~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784749857&x-signature=xjKhDrELegfkf7vGrFaNh96so6E%3D",
           "url": "https://fanqienovel.com/page/7200698141484518415"
         },
         {
-          "title": "盗墓：人在九门，系统非说是洪荒",
-          "author": "城门白小飞",
-          "reads": "18.5万",
-          "intro": "【南部档案馆】【民国】【九叔】【麒麟小哥】【老九门2】【超凡】【克苏鲁】【马小玲】【盘古僵尸】 　　穿越民国乱世，误入九门江湖，本以为只是寻常寻龙探穴、倒斗摸金。 　　谁知觉醒上古洪荒系统，遍地古墓神物，在系统眼里全是洪荒至宝！ 　　无用道符？系统判定：雨师敕令！行云布雨！ 　　剧毒古丹？系统标注：九转还魂，羽化根基！ 　　烛九阴？系统直接收录：上古神兽幼种，可终生饲育，相伴闯遍九幽凶陵！ 　　卸岭搬山，九门风云，湘西诡墓，千年秘辛。 　　什么汪家，什么算计，什么千年布局，通通横推！ 　　什么？还有个叫任家镇的地方？红溪村又是什么鬼！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o7f5208fd8f6cf19be8fdceebaf8e4099~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784663772&x-signature=1iKV0OndFQVlkJEOqpy8se8oDSc%3D",
-          "url": "https://fanqienovel.com/page/7637542210430323774"
+          "title": "全民求生：我在诡异末日养成少女",
+          "author": "我吃西红柿酱",
+          "reads": "22.7万",
+          "intro": "【全民求生游戏+多女主+诡异入侵+SSS级隐藏建筑+囤物资+杀伐果断+绝对支配】 一觉醒来，全球穿越！ 所有人被投放到极寒冻土，开局随机分配1级庇护所，不仅要抵御零下三十度的严寒，还要面对黑夜中恐怖的诡异生物！ 当其他人还在为了一块发霉的面包出卖尊严，为了两根木头冻得瑟瑟发抖时。 陆沉却看着眼前粉红色的SSS级唯一隐藏建筑女仆咖啡厅陷入了沉思。 虽然不产物资，但拥有契约招聘神技？无视距离，强制传送，绝对忠诚？ …… “陆沉，求求你给我一口吃的吧，我快冻死了！” “陆沉，看在同学一场的份上，让我进去暖和一下吧！” 看着窗外在寒风中瑟瑟发抖、曾经高不可攀的清冷校花。 陆沉坐在恒温26度的真皮沙发上，一边吃着热气腾腾的帝王蟹，一边还要让身穿黑白蕾丝装的绝美学姐喂到嘴边。 “想进来？先签了这份卖身契再说！” （简介无力，请移步正文，看主角如何在末世建立属于他的女仆帝国！）",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o89f80e101c08b09a22753310ed7360a8~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784749857&x-signature=tZyWHJoxSUg%2FGpvFx3n2B51eDN8%3D",
+          "url": "https://fanqienovel.com/page/7590252170562243609"
         },
         {
           "title": "那一天，月亮吞下整座城",
           "author": "浊人",
-          "reads": "23.2万",
+          "reads": "24.2万",
           "intro": "我每一个器官，都藏着一个怪物！！ 我的胃，吞食天地——【黑噬】 我的脑，神识血海——【虚海】 我的心，不死不灭——【莲生尸心】 我的拳，一拳破界——【极拳孽龙】 我的血管，斩断钢铁——【血染】 我的反应，自在极意——【蛛络】 你是其他世界的主角？？对我来说只是小零食罢了！！ —— —— 修仙者：这一枚筑基丹里，有一只蛊虫在蠕动！！ 进化者：我是尸王，我要带领丧尸大潮，踏碎整个世界！！ 觉醒者：开局觉醒SSS级能力，我要让看不起我的人，全都付出代价！！ 游戏者：每天一个黄金词条，我无敌了！！ 序列者：觉醒001号序列，谁才是主宰？？ 旧日者：赞美伟大的愚者。 杨锋：下一个时代的主角，请登场！！ —— —— 【诡异降临、天命异能、惊险刺激、规则怪谈、纯爱战神、单女主、无系统、不无脑】 —— —— 您可能看到：SCP、后室、战锤、克苏鲁、大逃杀、搜打撤、规则怪谈、诡异妖灵、杀戮尖塔、多元世界、等各种元素。 那么……让我们愉快的开始冒险吧！！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o0eb5d322385c63642bbf3c897139f357~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784663772&x-signature=R%2BFtbhOiTwttlGRXdFpvQfz0z04%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o0eb5d322385c63642bbf3c897139f357~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784749857&x-signature=JiDddn2qum5TYysFhxGYlCtSYLk%3D",
           "url": "https://fanqienovel.com/page/7600609248027888664"
+        },
+        {
+          "title": "规则怪谈：狗熊岭扮演光头强开始",
+          "author": "故梦的青春",
+          "reads": "19.5万",
+          "intro": "【动漫规则怪谈（第一个熊出没）＋微恐＋悲壮＋主角有脑＋国运＋无cp】 “别人的童年越来越模糊，我的童年咋越来越邪乎？” “不是！熊大熊二你咋入编了？喜羊羊你咋也有编制？连海绵宝宝都有了？” 蓝星诡异降临！怪谈席卷全球！ 每个国家都会抽取天选者，参加怪谈！ 龙国连败七场，一度处在灭国的边缘！ 最后一场，怪谈居然还是传说中的S级怪谈副本！ 穿越到蓝星的陈庆，得知这个世界怪谈林立，困难重重，本来很慌。 一看怪谈！ 狗熊岭怪谈？羊村怪谈？成龙历险记怪谈？比奇堡怪谈…… 好家伙！ 没想到怪谈全都是自己曾经的童年啊！ 那还说啥？都是哥们！ 陈庆一点也不慌了。 在怪谈中，陈庆扮演光头强，对着诡异熊大熊二就是干。 “我强天帝，狂一点怎么了？” 在羊村扮演懒大王。 “我懒羊羊大王懒一点怎么了？” 在比奇堡扮演海绵宝宝。 “我准备好啦！我准备好啦！” 在成龙历险记扮演成龙。 “小玉，这个太危险了。” 世界各国：“不是，陈庆为啥每个怪谈，他都能精准扮演角色？呜呜呜，求带！” …… 当陈庆彻底攻克怪谈那一天，怪谈的诡异这才恍然大悟，回想起那普通的一天。 那一天，怪谈世界来了个大爹！",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/c8ca2594e45141b0eff22ac4ed6cba2f~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784749857&x-signature=22D0O80oLIjQxmohIl%2FxhJ3hCxg%3D",
+          "url": "https://fanqienovel.com/page/7581902917842521150"
+        },
+        {
+          "title": "穿成诡异后联盟派我去当boss",
+          "author": "墨墨无痕",
+          "reads": "19.7万",
+          "intro": "【诡异 + boss视角 + 副本 + 规则 +无女主】 任逸一觉醒来，穿到了一个福利好得离谱的“平凡”世界。 在“联盟”无微不至的庇护下，人人生活无忧，未来光明。 他以为自己会和这个世界唯一的亲人、自闭症老哥一起，平平安安地度过普通人的一生。 然而一场“专业分配测试”把他的世界观都轰塌了。 “联盟里没有人类。” 老哥语气平静地告诉他。 “包括你我，大家都只是披着人皮的诡异。” 但没关系。 这里依然是个美好的世界。 只要你遵守《认知滤网维护条例》； 只要你毕业后，愿意服从调配去往各个世界担任“副本BOSS”； 只要你在面对那些外来入侵者时，能熟练运用规则，成为诸天万界最不可名状的传说。 泛银河诡异联盟，竭诚为您，也为这个世界的安全保驾护航。",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/0f58e2ccb8821d2048bcfbb88aa6b19c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784749857&x-signature=fDAG2MKN%2B%2BPk8a2AqjKbbGbeceY%3D",
+          "url": "https://fanqienovel.com/page/7586281659591298073"
         },
         {
           "title": "死亡游戏：开局欺诈师，假扮神明",
           "author": "暴力紫皮人",
           "reads": "18.8万",
           "intro": "【爽文+烧脑+慢热+智战+超多反转】 “当我以为死亡就是终点时，睁开眼才发现死亡不过是新的开始。” 林御被他以为是来告白的学妹杀死后，却发现自己没有真正死去，而是来到了一场死亡游戏之中！ 只有赢家，才能获得“重活一次”的机会。 幸好，林御觉醒了“唯一职业·欺诈师”—— 【所说的谎言只要被人相信，就会成真！】 看着其他茫然的玩家，林御为了胜利，选择在游戏中假扮神明！ “欢迎来到我的游戏——羔羊们！” 而在接踵而至、一场又一场的死亡游戏中…… 林御也最终依靠着【欺诈师】，成为了真正的神明！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o299ac7c1306997d7aa5d28120ebf473d~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784663772&x-signature=5gexrh3zBio4iEITzDGrJcjkY%2B0%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o299ac7c1306997d7aa5d28120ebf473d~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784749857&x-signature=cV5j4n4KxP6P7G%2BttYmfR6crC5g%3D",
           "url": "https://fanqienovel.com/page/7357975803398720537"
         }
       ]
