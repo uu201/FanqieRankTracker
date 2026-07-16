@@ -1,225 +1,218 @@
 {
   "type": "都市高武",
-  "date": "2026-07-16",
-  "prev_date": "2026-07-15",
+  "date": "2026-07-17",
+  "prev_date": "2026-07-16",
   "category": {
     "name": "都市高武",
     "trend": {
-      "new_count": 1,
-      "dropped_count": 1,
-      "new_books": [
-        "高武：长枪黑炎镇妖魔"
-      ],
-      "dropped_books": [
-        {
-          "title": "第九帝国",
-          "intro": "【架空帝国＋百族战争＋异能＋各个小世界战斗＋猎人团＋前期慢热＋群像文＋有爽有虐。】 神，赋予万物生命，创世。 祂，将死时，人类背刺神灵，带走了贪婪与智慧，创立了帝国。 继位者，继承神灵力量，许下灭世的"
-        }
-      ],
+      "new_count": 0,
+      "dropped_count": 0,
+      "new_books": [],
+      "dropped_books": [],
       "top_risers": [
+        {
+          "title": "刚转职法师，技能成精了什么鬼？",
+          "change": "+2"
+        },
         {
           "title": "嘉豪就变强？操场雨中舞剑开天门",
           "change": "+1"
         },
         {
-          "title": "全球僵尸降临，你说道士序列没用",
-          "change": "+1"
-        },
-        {
-          "title": "每日增重亿点点，老子体重亿万吨",
+          "title": "开局地摊卖大力",
           "change": "+1"
         }
       ],
       "top_fallers": [
         {
-          "title": "序列：吃神者",
+          "title": "自首后，国家发现我活了两千年",
+          "change": "-2"
+        },
+        {
+          "title": "大一实习，你跑去749收容怪物",
           "change": "-1"
         },
         {
           "title": "国运求生，我靠情报系统养活国家",
-          "change": "-1"
-        },
-        {
-          "title": "刚转职法师，技能成精了什么鬼？",
           "change": "-1"
         }
       ],
       "reads_growth": [
         {
           "title": "嘉豪就变强？操场雨中舞剑开天门",
-          "growth": "+12.1万"
+          "growth": "+5.9万"
+        },
+        {
+          "title": "每日增重亿点点，老子体重亿万吨",
+          "growth": "+1.4万"
         },
         {
           "title": "诸神愚戏",
-          "growth": "+3.9万"
-        },
-        {
-          "title": "刚转职法师，技能成精了什么鬼？",
-          "growth": "+2.6万"
+          "growth": "+1.2万"
         }
       ],
-      "summary": "**🔥 题材趋势**  \n当前榜单主流为“克苏鲁/怪谈+末世废土”与“传统高武/镇妖司”两大阵营，系统、序列、收容等设定高频扎堆。时间静止、质量进化等脑洞型金手指成为新晋热门，同质化风险已在“序列”“收容”题材上显现。\n\n**📖 读者偏好**  \n读者偏爱“杀伐果断+爽文逆袭”的强冲突节奏，偏好时间静止、天赋复制、质量进化等具有破坏性成长弧光的金手指，对慢热群像和架空战争题材热情下降。\n\n**🆕 新上榜作品**  \n《高武：长枪黑炎镇妖魔》——以“镇夜司”+现代校园为背景，主打天才碾压局和日常爽文，补位传统高武赛道。\n\n**📉"
+      "summary": "**🔥 题材趋势**  \n当前“都市高武”新书榜以 **“末世/灾变+异能觉醒+序列/系统”** 为核心框架，克苏鲁、怪物收容、时间操控等元素高频出现，同质化严重。同时，**“反转/骗术”** 设定（如《诸神愚戏》）和 **“技能拟人化”**（如《刚转职法师》）成为差异化切口。\n\n**📖 读者偏好**  \n读者偏好 **“爽、癫、杀伐果断”** 的强节奏叙事，金手指偏好 **“可叠加/进化/复制”类系统**（如时间静止、天赋复制、质量进化），同时 **“实体出版背书”** 显著提升追读信任感。\n\n**🆕 新上榜作品**  \n无新上榜作品，榜单头部固化明显。\n\n**📉 掉出榜单**  \n无掉出作品，Top20整体稳定，但尾部作品在读量差距拉大（第20名39.4万 vs 第1名257.7万），流量向头部集中。\n\n**💡 值得关注**  \n- 《诸神愚戏》：以“骗术”和“自我矛盾”设计为核心，人设新颖，跳出传统打怪升级框架，有破圈潜力。  \n- 《我操作的少女正在成为旧日之主》：结合克苏鲁+琥珀流+脑机接口，设定混搭且具现代感，实体出版已验证内容质量。"
     },
     "books": [
       {
         "title": "我不是戏神",
         "author": "三九音域",
-        "reads": "257.6万",
+        "reads": "257.7万",
         "intro": "《斩神》作家三九音域全新力作 | 澳门国际科幻奖最佳科幻网络文学 | 逆转时代的中式怪诞巨作 赤色流星划过天际后，人类文明陷入停滞。 从那天起，人们再也无法制造一枚火箭，一颗核弹，一架飞机，一台汽车……近代科学堆砌而成的文明金字塔轰然坍塌，而灾难，远不止此。 灰色的世界随着赤色流星降临，像是镜面后的鬼魅倒影，将文明世界一点点拖入无序的深渊。 在这个时代，人命渺如尘埃； 在这个时代，人类灿若星辰。 大厦将倾，有人见一戏子屹立文明废墟之上，红帔似血，时笑时哭， 时代的帘幕在他身后缓缓打开，他张开双臂，对着累累众生轻声低语—— “好戏……开场。”",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o99ffbfd13492eb9953715959db26ed9b~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784749783&x-signature=YU8j8MG7R%2FEFK8ks6WQg9P0n6jM%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o99ffbfd13492eb9953715959db26ed9b~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784836019&x-signature=K%2BwS6thCiRIjE%2BXyH5u2lNDBIoQ%3D",
         "url": "https://fanqienovel.com/page/7276384138653862966"
       },
       {
         "title": "我在精神病院学斩神",
         "author": "三九音域",
-        "reads": "189.7万",
+        "reads": "190.4万",
         "intro": "番茄小说进站必读爆款 | 爆款动漫《斩神》原著 | 中国网络文学影响力榜IP影响力 | 2023年度中国好小说 你是否想过，在霓虹璀璨的都市之下，潜藏着来自古老神话的怪物？ 你是否想过，在那高悬于世人头顶的月亮之上，伫立着守望人间的神明？ 你是否想过，在人潮汹涌的现代城市之中，存在代替神明行走人间的超凡之人？ 人类统治的社会中，潜伏着无数诡异； 在那些无人问津的生命禁区，居住着古老的神明。 而属于大夏的神明，究竟去了何处？ 在这属于“人”的世界，“神秘”需要被肃清！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/c5397e4a514736bb1c6754663dbee3db~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784749783&x-signature=%2Fcfea8bnkXkEodSYrBA3hS4qj0o%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/c5397e4a514736bb1c6754663dbee3db~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784836019&x-signature=n8wWtFVvexqD1g%2BMeWyYe8YxvrA%3D",
         "url": "https://fanqienovel.com/page/6982529841564224526"
       },
       {
         "title": "时停起手，邪神也得给我跪下！",
         "author": "六个葫芦",
-        "reads": "139.7万",
+        "reads": "139.9万",
         "intro": "【时间静止+末世+异能+嚣张+忘本+拒绝内耗】 白野穿越到了二百年后的大灾变时代。 这里危机四伏、民风淳朴、异化兽肆虐，不过他并不慌。 因为他每天能静止时间一分钟，今天不用，明天还能累积叠加。 当全世界时间归0，唯一能动的他便是神明！ 至此，他深刻感悟到时间就是生命的真谛！ 　　面对残暴的废土统领，白野认真劝诫：“我真不想浪费时间杀你们，要不你们跪下求求我，这事就算过去了？” 　　看着倒在血泊中的邪神，白野唉声叹气：“你知不知道为了杀你，浪费了我多少时间？十秒！足足十秒！人一生有多少十秒！？” 　　多年后。 　　记者：白野先生，作为大灾变时代的终结者，人们都想知道您为何如此成功？ 　　白野：珍惜时间。 　　记者：您的意思是别把时间挥霍在无意义的事上，抓紧每一分每一秒去拼搏，珍惜当下才能拥抱未来！ 　　白野：啊？嗯！对，我就是这个意思。 　　记者：新时代降临，许多人还未适应，他们十分茫然，无所适从，请问，您觉得当今人们应该怎么做？ 　　白野：珍惜时间。 　　记者：您误会了，我的意思是，当今人们的终极目标，归根结底，活着到底是为了什么？ 　　白野：为了珍惜时间。 ———— 已完结作品《至死方休！》《我用幻术控制全世界》",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oadaa82ad57ef8091a7a5bd32af452d4a~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784749783&x-signature=RjLvcISw6YHtMMWZQUaqokXhEEs%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oadaa82ad57ef8091a7a5bd32af452d4a~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784836019&x-signature=Kt9%2FSfOe9yD%2FYNCwiug3KXXi06c%3D",
         "url": "https://fanqienovel.com/page/7504849932138859545"
       },
       {
         "title": "我操作的少女正在成为旧日之主",
         "author": "陷阵营营长",
-        "reads": "106.8万",
+        "reads": "107.7万",
         "intro": "【本书已签约实体出版：克苏鲁+琥珀流+反派+无系统+杀伐果断+黑色幽默+癫+单女主+序列收容】 徐墨：“二十二世纪，只需要一个带着脑机接口的头盔，便可以体验到身临其境的，真实体感游戏。” “你问我为什么选这个初始人物？那自然是因为她是一个美少女......哦不，自然是因为弱一点的人物才有挑战性。” “作为这个游戏的资深玩家，我已经操作着最弱的初始人物，打出过很多的结局了。” “我曾在群山中与巨龙作战，也曾在虚无中与旧日的邪神对赌。” “我曾给世界带来无尽的罪恶与死亡，也曾领导过燃烧整片大陆的革命之火。” “这游戏的自由度极高，虽然每一次的结局都是世界毁灭，但每次玩都有新体验。” “但这次，出了点小问题......” “我游戏的退出键怎么没了？！” “我操作的游戏的角色怎么突然有了自己的意识，和我抢身体的控制权了！？” ------------- “她是无数次起点与终点的聚合。” “她是光明的天使，也是黑夜的屠夫。” “她带来狂乱的血与火，但在她走过的地方，鲜花与希望共同盛开。” “她就是...就是...” ——《答案之书》 ------------- 白霏霏：“声明一下，血与火不是我带来的！”",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o46c2283e139d920988ff6fc3a1db1e26~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784749783&x-signature=QcA336byugH08TAD4kwJ3O3LGcA%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o46c2283e139d920988ff6fc3a1db1e26~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784836019&x-signature=cGbNHCPvI601tD2Z2hvZgMlr2tQ%3D",
         "url": "https://fanqienovel.com/page/7592279900040465433"
       },
       {
         "title": "诸神愚戏",
         "author": "一月九十秋",
-        "reads": "99.1万",
+        "reads": "100.3万",
         "intro": "我做人有2个原则： 1.从不骗人 2.从不相信任何人说的话，包括我自己 “先生，我想提醒您，您说的第二点跟第一点冲突了。” “哪里冲突？” “您既然从不骗人，为何不相信自己说的话呢？” “哦，抱歉，忘了说，我没把自己当人。” “？” ... 自我介绍一下，我叫程实，从不骗人的程实。 什么，你没听说过我？ 没关系，你只是还没被我骗过。 很快，你就会记得了。 ... 书名《诸神愚戏》，其他均为推广。 【神明末世+排位游戏+多命途职业组合+欢乐脑洞+沾点克系+无限流+偏群像】 无系统，不无敌，非爽文，介意慎入 ...",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o456671fab473706eac056e1ae403e5c3~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784749783&x-signature=6u0e2oQBtrCpgQSzL6j1S3OvPF0%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o456671fab473706eac056e1ae403e5c3~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784836019&x-signature=y1FvQ4okz4uhku7eNrJQWuKc1fo%3D",
         "url": "https://fanqienovel.com/page/7338034838672247833"
-      },
-      {
-        "title": "大一实习，你跑去749收容怪物",
-        "author": "我爱罗的沙",
-        "reads": "81.9万",
-        "intro": "【杀伐果断】【那有怪物是好的啊】【怪物都该死】【心狠手辣】 　　陆鼎大一暑假，本想趁着这个时间去实习一下，顺带赚点生活费，谁知道实习的工地挖出了一颗会流血的石头。 　　工人纷纷逃离，只有陆鼎提着个冲击钻就上了。 　　穿越到这个世界快二十年，他的金手指怪物收容监狱早已准备就位，但由于这二十年来一只怪物也没有遇到，陆鼎的耐心早就被磨平。 　　现在遇到了怪物，陆鼎心中就一个念头，不是干死怪物，就是被怪物干死。 　　加入749，借着749局的渠道寻找怪物，收容怪物。 　　从此，749多了一个手下从无活口的调查员。 　　一只只存在与传说中的妖魔鬼怪现世，陆鼎挨个碾杀。 　　【收容南山顽石，获得斤车之道，无物不斩】 　　【收容黑老太太，获得千钧之力，掌可推山】 　　【收容飞蜈蚣，获得蜈蚣定风术，飞天遁地】 　　749局：“不到万不得已，千万不能让陆鼎接任务，咱们749的宗旨是关押收容，他一出手留不下活口！！” 　　749局，我们的口号是【我们收容，我们关押】 　　陆鼎：【虽然我是749的调查员，但我不为收容，只为击杀】",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o368422f6d81aefa1e4c42491681bf9d1~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784749783&x-signature=DPeZZZQCvnRuSBaoZ%2Blk81pxfak%3D",
-        "url": "https://fanqienovel.com/page/7421167583522458648"
       },
       {
         "title": "嘉豪就变强？操场雨中舞剑开天门",
         "author": "落叶之刃",
-        "reads": "92.3万",
+        "reads": "98.2万",
         "intro": "【嘉豪？剑豪！！】+【无敌】+【逼王】 陆明穿越到平行世界，十八岁觉醒系统，本以为要走上人生巅峰。 结果，觉醒的是竟然是嘉豪成神系统。 于是陆明开始了他的嘉豪操作。 “十年前的仇，难道不报了吗？” “不是说操场刷新嘉豪吗？走两圈也没看见啊？” “豪从天降！愤怒狰狞！” 但陆明绞尽脑汁，不如系统随手一豪。 【发布任务：雨中舞剑】 【奖励：斩天剑道】 全校人都笑疯了：“这人脑子有病吧？下雨天在操场舞剑？” 当真正的怪物降临时。 全校尖叫，恐惧蔓延。 所有人都以为自己要死在这里的时候。 陆明：“看好了，这一豪，会很帅。” 陆明一剑挥出，剑气贯穿天地！！！ 上千人呆若木鸡：“他…他一剑把天劈开了？？” 陆明：“你们的豪度太低，永远无法理解我现在的状态。” 全校人：“…” 无数年后，异魔之主入侵。 山河崩碎，日月坠落，整个世界的强者都在绝望中颤抖。 那遮天蔽日的魔影俯瞰众生。 然后陆明拔剑，异魔之主，连同它身后百万里的虚空，一起被抹去。 无数人震惊：“你……你根本不是嘉豪！” 陆明：“抱歉，假如我伪豪一辈子呢？” “？”",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o08d1dfafa5148c6fe45392b2224d4a55~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784749783&x-signature=Sc%2FnSu%2F8hSVBK%2FjqRZ87bvZZXIM%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o08d1dfafa5148c6fe45392b2224d4a55~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784836019&x-signature=BmtFxUZfZXpWCwGPWqlfbJWer3g%3D",
         "url": "https://fanqienovel.com/page/7638538561230228504"
+      },
+      {
+        "title": "大一实习，你跑去749收容怪物",
+        "author": "我爱罗的沙",
+        "reads": "82.1万",
+        "intro": "【杀伐果断】【那有怪物是好的啊】【怪物都该死】【心狠手辣】 　　陆鼎大一暑假，本想趁着这个时间去实习一下，顺带赚点生活费，谁知道实习的工地挖出了一颗会流血的石头。 　　工人纷纷逃离，只有陆鼎提着个冲击钻就上了。 　　穿越到这个世界快二十年，他的金手指怪物收容监狱早已准备就位，但由于这二十年来一只怪物也没有遇到，陆鼎的耐心早就被磨平。 　　现在遇到了怪物，陆鼎心中就一个念头，不是干死怪物，就是被怪物干死。 　　加入749，借着749局的渠道寻找怪物，收容怪物。 　　从此，749多了一个手下从无活口的调查员。 　　一只只存在与传说中的妖魔鬼怪现世，陆鼎挨个碾杀。 　　【收容南山顽石，获得斤车之道，无物不斩】 　　【收容黑老太太，获得千钧之力，掌可推山】 　　【收容飞蜈蚣，获得蜈蚣定风术，飞天遁地】 　　749局：“不到万不得已，千万不能让陆鼎接任务，咱们749的宗旨是关押收容，他一出手留不下活口！！” 　　749局，我们的口号是【我们收容，我们关押】 　　陆鼎：【虽然我是749的调查员，但我不为收容，只为击杀】",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o368422f6d81aefa1e4c42491681bf9d1~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784836019&x-signature=9ymurj36m103o4IHUOVBw3jIxag%3D",
+        "url": "https://fanqienovel.com/page/7421167583522458648"
       },
       {
         "title": "序列：吃神者",
         "author": "不要大脑要小脑",
-        "reads": "76.8万",
+        "reads": "71.5万",
         "intro": "【已出版质量保证，架空高武+群像权谋+不套娃慢节奏大设定+都说越看越好看】 巨鸟吞日，万象剧变。诡异不死神明，人类超能序列。 人人都想成为这个世界的神，可他们不得要领。都说吃什么补什么，吃饭是永远不可能成神的。 想要成神，就得吃神！ 嗯？！什么叫我觉醒了【吃神者】序列？！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o43da4425bd3b338cef72fa545aaff9c1~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784749783&x-signature=7x%2FO2iPbqIBoTY1VRUqLbdRV09g%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o43da4425bd3b338cef72fa545aaff9c1~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784836019&x-signature=KaAuq8TzRPpj4RXO7J6mBu5pQZk%3D",
         "url": "https://fanqienovel.com/page/7346057588347259929"
       },
       {
         "title": "你们刷怪啊，刷我干嘛！",
         "author": "喜欢吃橘子",
-        "reads": "60.3万",
+        "reads": "60.7万",
         "intro": "【已签实体出版：无系统、剧情流、不慢热、不无脑、快节奏、惊险刺激，拳拳到肉，怪物阵营视角！】 自打【神序001——卧底】这串信息出现在脑海中，江夏就觉得自己不是正常人了，不管吃什么，不管吃多少，都没有一点饱腹感。 饿，饿的就快丧失理智！ 直到校花18岁生日宴那天，他在她身上闻到了同类的气息，也知道了吃饱的方法是什么。 此后，他发现身边很多人都有同类的气息，家人，朋友，医生，环卫工…… 不！ 他跟他们不是同类！ 他是卧底！ （跪求先看三章，如果不好看，算我输！）",
-        "cover": "https://p9-reading-sign.fqnovelpic.com/novel-pic/p2o76b6acc31de1b5f4675e0abf2939a0fe~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784749783&x-signature=%2Bpb9RL%2BRZN3jtBbLbmN8PtKZQfs%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o76b6acc31de1b5f4675e0abf2939a0fe~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784836019&x-signature=K2ehhnJecM9JdDrJ2kEbNozKqvE%3D",
         "url": "https://fanqienovel.com/page/7462405945180572697"
       },
       {
         "title": "我，亿万天赋，天才不过见我门槛",
         "author": "猫鱼书",
-        "reads": "50万",
+        "reads": "48.5万",
         "intro": "【星空高武】【无女主无暧昧，只有战斗爽！】【复制天赋】【已有完本两百万字高武小说，放心食用】 星际时代，人族遍布寰宇。 星际殖民、宇宙飞船、外星异族、域外邪神......接踵而至。 陈羽带着一块面板而来，只需交手战斗便可复制对手天赋。 【刀法宗师】：刀法悟性为常人两百倍，天生刀眼，有一定几率顿悟。 【武道极品根骨】：修炼速度为常人两百倍，武道前三境无瓶颈。 【邪神眷属】：展露本相，扭曲四周生灵思想，吞噬邪神信仰。 【千幻神通】、【龙体凤血】、【影杀之力】...... 顶尖悟性、罕见神体，异族本命天赋、乃至邪神权柄......陈羽统统可以复制！ 在这群星璀璨的时代，万族天骄并立，陈羽遥望那立于万族顶点的天才强者，不由咧嘴笑道： “天才？天才不过是见我的门槛！” “你们的天赋很好，但现在......我也有了！” “甚至......比原版更强！”",
-        "cover": "https://p9-reading-sign.fqnovelpic.com/novel-pic/p2o1f894ba87e8989e911ff040e3a889308~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784749783&x-signature=CI31XVlz8N1bhudwxDv9Xa%2BklYc%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o1f894ba87e8989e911ff040e3a889308~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784836019&x-signature=VZvlU4uMsVbbOzAu92nSmNKhDYo%3D",
         "url": "https://fanqienovel.com/page/7633410676018400281"
-      },
-      {
-        "title": "自首后，国家发现我活了两千年",
-        "author": "唯曲悦丹田",
-        "reads": "41.6万",
-        "intro": "捡到一本长生日记后，我决定冒充长生者自首。 结果第二天，我的眼睛变成了深渊................",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o1c4adf6deb0c64454a760d0a90a01f46~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784749787&x-signature=i9XQ6yvLUNpB4slIpYnogKnIzdE%3D",
-        "url": "https://fanqienovel.com/page/7622968080859139096"
       },
       {
         "title": "开局地摊卖大力",
         "author": "弈青锋",
-        "reads": "44.7万",
+        "reads": "45万",
         "intro": "【大力动漫7.29日开播，番茄搜书名看pv】地球进入灵气复苏时代，人类开启异能觉醒！江南开局觉醒最强地摊系统，大力药水？解毒小黄豆？幸运樱桃？供不应求！世界顶级神豪、首富、人气主播、巅峰强者纷纷前来求购。江南：“我对钱亿点都不感兴趣！我只想坑……额，我的愿望是世界和平！” 新书《别叫我恶魔》火热连载中，已肥可宰。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/859efeb8ede52332e566691a1147b14b~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784749787&x-signature=SiHKHgqn8fSkZXr0gRlJ%2FB7B0so%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/859efeb8ede52332e566691a1147b14b~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784836023&x-signature=NQvIdP75hcTf5ecKs%2FILPON%2BMmw%3D",
         "url": "https://fanqienovel.com/page/6838480082219043843"
       },
       {
         "title": "天物觉醒：我能刻印一切",
         "author": "御风而行的葉子",
-        "reads": "41.3万",
+        "reads": "41.2万",
         "intro": "【已签出版放心食用】【青春物语】【人均有脑】【绝对好看】【魔术】【角色鲜明】【无女主】 我叫尽飞尘，披着少年的桑榆晚景，我曾以为我会浑噩一生，靠着纳税人养一辈子，我曾以为这就会是我的结局。 然而，这一切都在一个下雨的午后结束了。 青春是盛大的舞台。在那一场雨落狂流的黄昏，舞台像我伸手，我渐渐在其中着了迷……",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2odc825833b15846db183a4385fe6c5824~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784749787&x-signature=qUgSJu0aSg34pmF7NKLQBTB3DR4%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2odc825833b15846db183a4385fe6c5824~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784836023&x-signature=VYNo15Ts4u%2BUvoIa%2BmyRQTzQ75o%3D",
         "url": "https://fanqienovel.com/page/7380211153592388632"
+      },
+      {
+        "title": "自首后，国家发现我活了两千年",
+        "author": "唯曲悦丹田",
+        "reads": "34.9万",
+        "intro": "捡到一本长生日记后，我决定冒充长生者自首。 结果第二天，我的眼睛变成了深渊................",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o1c4adf6deb0c64454a760d0a90a01f46~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784836023&x-signature=98eBmWQB3XLwJCefbDHNujAlhps%3D",
+        "url": "https://fanqienovel.com/page/7622968080859139096"
       },
       {
         "title": "杀戮都市！",
         "author": "百里孤烟",
-        "reads": "41.6万",
+        "reads": "41.9万",
         "intro": "【杀伐果断＋高武＋搞笑＋杀戮之王＋剧情流爽文】 遥远的钟声敲响！战争的号角盘旋！ 苍鹰俯视大地！秃鹫啖食众生！ 审判之剑高悬！古老君王降临！ 杀戮！荒诞末世的序章！ 杀戮！虚假盛世的终章！ 上世纪末，光明军与永夜军挑起的那场浩大而又惨烈的诸神之乱最终以光明军胜利画上了潦草的句号，可在本世纪末，永夜军残存势力卷土重来，光明摇摇欲坠，永夜侵蚀大地，古老神明降下神谕：太厄食日，黑白颠倒，七王重聚，审判降临！ 方新无意间觉醒了SSS级杀戮天赋，失踪许久的祖父忽然传来消息，让方新凌晨对着镜子半个小时。 凌晨，方新对着镜子，转身之际，镜子里的方新横卧王座，面带笑意。 你即是我，我即是你。 我是零号审判者！ 七王之首，杀戮之王！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o034e33ac47e1643f750da800875a5ee2~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784749787&x-signature=7LTMs3dR7t08MttNOBclUmzRvps%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o034e33ac47e1643f750da800875a5ee2~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784836023&x-signature=LxQQd%2BmqTJ%2BfGoADnAXVmOzR%2BQ8%3D",
         "url": "https://fanqienovel.com/page/7414060596531825689"
       },
       {
         "title": "全球僵尸降临，你说道士序列没用",
         "author": "一盏明月灯",
-        "reads": "38.7万",
+        "reads": "37.7万",
         "intro": "紫僵、白僵、黑僵、绿僵、毛僵、飞僵、游僵、伏僵、不化骨、魃……这是一个全球僵尸降临的世界！ 许易穿越而来，觉醒了道士序列。 可却被指责道士序列不如火属序列？ 许易挠了挠头，看着自己的龙虎斩邪符、金光神咒、赶尸术、先天五雷正法…… 那我一道先天五雷丢下来砸死数十只不化骨的时候，你们为啥跪的这么整齐？ 【道士——天师——龙虎天师——上古炼气士！】 【符法、咒法、雷法、奇门、遁甲、赶尸……御剑青冥！】",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2offb82b72a7997033141cd9333f08b461~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784749787&x-signature=sNHMdM1Xwp5B6%2BMwX8rtYCKfHRI%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2offb82b72a7997033141cd9333f08b461~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784836023&x-signature=khjgIh8Y2t3b5uU4%2B%2BCXtGqcnS0%3D",
         "url": "https://fanqienovel.com/page/7589673170848713752"
-      },
-      {
-        "title": "国运求生，我靠情报系统养活国家",
-        "author": "雾海",
-        "reads": "38.8万",
-        "intro": "【国运+直播+荒野求生+蛮荒】 高等文明封锁蓝星资源！ 蛮荒求生直播开启，开拓者与国家国运彻底绑定！ 选手死亡或排名垫底，所属国将遭受天灾！ 龙国开拓者出生地恶劣，国内地震、极寒频发，彻底沦为全球笑柄。 开拓者林安，开局更被投送至S级禁区【永冬苔原】！ 零下六十度、白灾、魔兽…… 大夏国举国绝望，综合评价跌至冰点！ 外网疯狂嘲讽： “龙国国运已尽，撑不过三天！” 然而，在必死的绝境中，林安绑定了【每日情报系统】 【今日情报】： 前方八十米有遗留物资！ 传说级生存盲盒在三公里外！ S级天然庇护所坐标..... 当其国家选手还为生火发愁、被魔兽追杀时， 大夏直播间的画风却逐渐崩坏： 林安躺在恒温溶洞里，穿魔兽皮裘，架起石锅，涮起了魔兽肉！ “卧槽！这货在禁区度假呢？！” “别国选手啃树皮，林神的肉多到吃不完了？” 随着林安一次次将稀有物资具现回国。 龙国灾难消失，空气改善，全民体质飞升！ 各国观众从嘲讽到震惊， 当龙国举国穿越时，林安已站在冰霜巨龙的头顶，打造出令高等文明都颤抖的神级国度！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o9ee49c45d083b75d40f42eaf50140eb7~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784749787&x-signature=pw3LCCO2%2FUqP40%2Bvo5KNTpAu1wg%3D",
-        "url": "https://fanqienovel.com/page/7559051966647634969"
       },
       {
         "title": "全民：从觉醒特勤处开始搜打撤",
         "author": "扑街蜘蛛呀",
-        "reads": "39.2万",
+        "reads": "38.7万",
         "intro": "【评分刚开，后面会涨】【内附插图，放心观看】开局穿越到正在经历灾变，全民拓荒者时代的蓝星。 别人眼中的无等级初始技能，却是因为楚鸿的到来，意外觉醒了金手指【特勤司】，只需要将现实的秘境收录，就可以在特勤司进行无限跑刀。 当别人还在进入秘境而担惊受怕的时候。 楚鸿却是另外一幅画风。 绝密单三，崖顶疫院， “落地BOSS牢区，开局狂扎强化针，一分钟狂吃【疗养大楼】大免保，两分钟闪击【停车场】小免保，三分钟炫完【员工宿舍】......” 别人：嘘，小心点，别搞出来动静惊动Boss。 楚鸿：“落地鼠鼠得吃位？吃屁的保险，直接落地C4，所有人给我嗨起来！直接跟走地下，闪击BOSS老巢！” 当经历了无数个秘境，面对各国的采访。 楚鸿微微一笑：“刚出现的秘境你就让我第一个进去，说我是怯战的老鼠，我不挑你的理，但等我从特勤司出来，把这个秘境跑了成千上万次，你们应该叫我什么？” 那一天，当无数秘境破碎，里面的怪物好似倾巢洪水般涌出，全世界都陷入绝望的时候。 楚鸿屹立苍天之上。 身后红光漫天。 “打开吧，我的收藏室！”",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ofb34c04dc4eb4010e6ad41b64405c9db~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784749787&x-signature=AHOjx4j%2Fxrzd5YYqDCz8wDAwlWY%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ofb34c04dc4eb4010e6ad41b64405c9db~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784836023&x-signature=sXxmo0zP1vciMwM5w3SyBp5pU0g%3D",
         "url": "https://fanqienovel.com/page/7642339403737615384"
+      },
+      {
+        "title": "国运求生，我靠情报系统养活国家",
+        "author": "雾海",
+        "reads": "39.3万",
+        "intro": "【国运+直播+荒野求生+蛮荒】 高等文明封锁蓝星资源！ 蛮荒求生直播开启，开拓者与国家国运彻底绑定！ 选手死亡或排名垫底，所属国将遭受天灾！ 龙国开拓者出生地恶劣，国内地震、极寒频发，彻底沦为全球笑柄。 开拓者林安，开局更被投送至S级禁区【永冬苔原】！ 零下六十度、白灾、魔兽…… 大夏国举国绝望，综合评价跌至冰点！ 外网疯狂嘲讽： “龙国国运已尽，撑不过三天！” 然而，在必死的绝境中，林安绑定了【每日情报系统】 【今日情报】： 前方八十米有遗留物资！ 传说级生存盲盒在三公里外！ S级天然庇护所坐标..... 当其国家选手还为生火发愁、被魔兽追杀时， 大夏直播间的画风却逐渐崩坏： 林安躺在恒温溶洞里，穿魔兽皮裘，架起石锅，涮起了魔兽肉！ “卧槽！这货在禁区度假呢？！” “别国选手啃树皮，林神的肉多到吃不完了？” 随着林安一次次将稀有物资具现回国。 龙国灾难消失，空气改善，全民体质飞升！ 各国观众从嘲讽到震惊， 当龙国举国穿越时，林安已站在冰霜巨龙的头顶，打造出令高等文明都颤抖的神级国度！",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o9ee49c45d083b75d40f42eaf50140eb7~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784836023&x-signature=fZ9e7hIImcI46NVnbFLqEImNWxU%3D",
+        "url": "https://fanqienovel.com/page/7559051966647634969"
+      },
+      {
+        "title": "刚转职法师，技能成精了什么鬼？",
+        "author": "九五六一",
+        "reads": "38.9万",
+        "intro": "（评分刚出偏低，后面会涨） 【爽文】+【豪门背景】+【技能拟人化】 林默穿越到全民转职的世界，觉醒为无元素亲和的【白板法师】。 没有特定天赋，无法学习高阶的元素系技能。 好在家世显赫，索性林默准备躺平当个悠闲的豪门二世祖。 然而就在这时，他的技能成精了！ 【“火球术”认为自己拥有禁咒之姿，不甘心只当个打火机！】 【为了证明自己，它主动离家出走，开始疯狂屠戮！】 【恭喜！你的“火球术”自行推演，领悟出‘多重爆裂火球’！】 【恭喜！你的“火球术”自行推演，领悟出‘爆炎螺旋龙弹’！】 【……】 【恭喜！你的“火球术”领悟火之真谛，进化为——灭世红莲！】 不仅如此，随着林默等级提升，新学的技能也一个个变得不对劲起来…… 当别的法师还在苦哈哈地杀怪练级时，林默正躺在遮阳伞下喝着冰镇果汁，而他的技能们早已杀疯了！ …… 数年后，深渊裂开，万亿魔神降临，举世绝望。 林默无奈叹气，“都别抢了，今天……准许你们无限火力。” 下一秒，天地失色。 火土水雷木光暗时间空间……全系禁咒如烟花般绽放！ 亿万魔神在无尽禁咒的光辉中湮灭。 魔神颤声嘶吼：“你到底是什么怪物？！” 林默吐个烟圈，无奈耸肩： “说了多少遍，我真只是个法爷",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o2f17fef1cf99f90ae1bb64f628b9f0f3~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784836023&x-signature=%2FPa1SrhNpgoyA9HMee9mpI51%2Fn4%3D",
+        "url": "https://fanqienovel.com/page/7585448189356936216"
       },
       {
         "title": "高武：长枪黑炎镇妖魔",
         "author": "南墙下的黑猫",
-        "reads": "38.5万",
-        "intro": "【天才+碾压局+日常+爽文】【评分刚出，会涨】 “《东煌国妖类暂行管理条例》越界伤人者，杀无赦。” 暗巷里，年仅18岁的高三学生沈长安，看着眼前的妖物，面无表情地背诵着条例。 “哪来的学生？给我弄死他！” 沈长安叹了口气，随手将背上的黑木吉他盒砸在地上。 里面没有吉他，只有一杆重达百斤的漆黑双截枪。 什么省城天骄？什么千年大妖？什么滔天大魔？ 既然这长夜妖魔横行，规矩崩坏。 那我沈长安，就以镇夜司掌灯人之名，用手里的枪和黑炎，跟妖魔讲讲规矩！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2of674dee4bc6b7b01762e81d924b202a2~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784749787&x-signature=Z9G956HZ9i7skxwyqS%2Bhtp0BZdI%3D",
+        "reads": "38.7万",
+        "intro": "【天才+碾压局+日常+爽文】【评分刚出，会涨】 “《东煌国妖类暂行管理条例》越界伤人者，杀无赦。” 暗巷里，年仅18岁的高三学生沈长安，看着眼前的妖物，面无表情地背诵着条例。 ------------- 十八年前，京城上空裂开无数深渊裂缝，魔物如潮水般涌出。那一天，被称为“黑天鹅事件“。那一天，一个婴儿被遗弃在人群之中。 十八年后，一个名叫沈长安的少年从青州走出。 十五岁执掌青州镇夜司。十八岁坠入深渊，所有人都以为他死了，直到一年后他从深渊里走出来。 世家大族欺上门来？掀了半边府邸。深渊裂隙想吞噬大地？他独自堵在裂口上，寸步不让。 而他只想查清一件事，十几年前那天晚上，到底发生了什么。当他终于触碰到真相的边缘时，才发现整个东煌修行界的水，比他想象的要深得多。 ....................................... 这个时代需要一个英雄，但至于这个英雄是谁——这并不重要。",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2of674dee4bc6b7b01762e81d924b202a2~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784836023&x-signature=uRLqnz4Fc2fUbn%2Bdj7dq%2FMCgU4E%3D",
         "url": "https://fanqienovel.com/page/7644545496853253144"
       },
       {
         "title": "每日增重亿点点，老子体重亿万吨",
         "author": "心地善良的胖虎",
-        "reads": "38万",
+        "reads": "39.4万",
         "intro": "【都市高武+体修+系统+质量进化+扮猪吃虎+废物逆袭+热血+爽文+不圣母】 本书又名《震惊！原来这世界是新手村？》 评分刚出，后边会涨！ 50章之前节奏稍慢，搞笑暴爽！越往后格局越炸！ 学霸苏铭觉醒了F级天赋【日益沉重】。 效果：每天增重1%。副作用：骨质疏松！ 被S级天才抢走女友？被全校嘲讽的人形秤砣？ 直到星空最强作弊器【质量无限进化】觉醒！ 他的体重和密度开始狂飙！ 十吨、百吨、千吨……！ “叮！恭喜宿主完成新手教程，正式开启天体演化序列！” 纳尼！？ 搞了半天，这世界只是个新手村？！ 觉醒者一到九阶，天赋F到SSS，全是系统做的本地化阉割版？！ 当土著们还在玩火玩水时，苏铭的细胞已堪比星核！ 那么，村外的世界……又该是何等风景呢？ …… 班主任：苏同学，老师当年是为了磨砺你心性啊！ 柳如烟：苏铭，只有你才配得上我，我们重新开始好不好？ 众天骄：你管这叫F级？那我们他妈算什么？ 帝都校长：老夫教了一辈子法则，才知道宇宙的尽头是物理！ 女武神：在苏铭面前，连光都跑不了。 联邦元帅：此子一人，可镇星河。 源兽王：快逃回空间裂缝！那个叫苏铭的人类张嘴了……！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o07420afcc761dffc2063466478c31c85~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784749787&x-signature=nr70BAOaDv9%2BjXnEYnOVLT14KUM%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o07420afcc761dffc2063466478c31c85~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784836023&x-signature=KXPGW4I0QhfcZVQyPMf1b5q3Dso%3D",
         "url": "https://fanqienovel.com/page/7629347810764131390"
-      },
-      {
-        "title": "刚转职法师，技能成精了什么鬼？",
-        "author": "九五六一",
-        "reads": "39.2万",
-        "intro": "（评分刚出偏低，后面会涨） 【爽文】+【豪门背景】+【技能拟人化】 林默穿越到全民转职的世界，觉醒为无元素亲和的【白板法师】。 没有特定天赋，无法学习高阶的元素系技能。 好在家世显赫，索性林默准备躺平当个悠闲的豪门二世祖。 然而就在这时，他的技能成精了！ 【“火球术”认为自己拥有禁咒之姿，不甘心只当个打火机！】 【为了证明自己，它主动离家出走，开始疯狂屠戮！】 【恭喜！你的“火球术”自行推演，领悟出‘多重爆裂火球’！】 【恭喜！你的“火球术”自行推演，领悟出‘爆炎螺旋龙弹’！】 【……】 【恭喜！你的“火球术”领悟火之真谛，进化为——灭世红莲！】 不仅如此，随着林默等级提升，新学的技能也一个个变得不对劲起来…… 当别的法师还在苦哈哈地杀怪练级时，林默正躺在遮阳伞下喝着冰镇果汁，而他的技能们早已杀疯了！ …… 数年后，深渊裂开，万亿魔神降临，举世绝望。 林默无奈叹气，“都别抢了，今天……准许你们无限火力。” 下一秒，天地失色。 火土水雷木光暗时间空间……全系禁咒如烟花般绽放！ 亿万魔神在无尽禁咒的光辉中湮灭。 魔神颤声嘶吼：“你到底是什么怪物？！” 林默吐个烟圈，无奈耸肩： “说了多少遍，我真只是个法爷",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o2f17fef1cf99f90ae1bb64f628b9f0f3~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784749787&x-signature=UTtKYCl1%2FcfnbfwES3QOF0CfzZ4%3D",
-        "url": "https://fanqienovel.com/page/7585448189356936216"
       }
     ]
   },
@@ -227,221 +220,214 @@
     {
       "name": "都市高武",
       "trend": {
-        "new_count": 1,
-        "dropped_count": 1,
-        "new_books": [
-          "高武：长枪黑炎镇妖魔"
-        ],
-        "dropped_books": [
-          {
-            "title": "第九帝国",
-            "intro": "【架空帝国＋百族战争＋异能＋各个小世界战斗＋猎人团＋前期慢热＋群像文＋有爽有虐。】 神，赋予万物生命，创世。 祂，将死时，人类背刺神灵，带走了贪婪与智慧，创立了帝国。 继位者，继承神灵力量，许下灭世的"
-          }
-        ],
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
         "top_risers": [
+          {
+            "title": "刚转职法师，技能成精了什么鬼？",
+            "change": "+2"
+          },
           {
             "title": "嘉豪就变强？操场雨中舞剑开天门",
             "change": "+1"
           },
           {
-            "title": "全球僵尸降临，你说道士序列没用",
-            "change": "+1"
-          },
-          {
-            "title": "每日增重亿点点，老子体重亿万吨",
+            "title": "开局地摊卖大力",
             "change": "+1"
           }
         ],
         "top_fallers": [
           {
-            "title": "序列：吃神者",
+            "title": "自首后，国家发现我活了两千年",
+            "change": "-2"
+          },
+          {
+            "title": "大一实习，你跑去749收容怪物",
             "change": "-1"
           },
           {
             "title": "国运求生，我靠情报系统养活国家",
-            "change": "-1"
-          },
-          {
-            "title": "刚转职法师，技能成精了什么鬼？",
             "change": "-1"
           }
         ],
         "reads_growth": [
           {
             "title": "嘉豪就变强？操场雨中舞剑开天门",
-            "growth": "+12.1万"
+            "growth": "+5.9万"
+          },
+          {
+            "title": "每日增重亿点点，老子体重亿万吨",
+            "growth": "+1.4万"
           },
           {
             "title": "诸神愚戏",
-            "growth": "+3.9万"
-          },
-          {
-            "title": "刚转职法师，技能成精了什么鬼？",
-            "growth": "+2.6万"
+            "growth": "+1.2万"
           }
         ],
-        "summary": "**🔥 题材趋势**  \n当前榜单主流为“克苏鲁/怪谈+末世废土”与“传统高武/镇妖司”两大阵营，系统、序列、收容等设定高频扎堆。时间静止、质量进化等脑洞型金手指成为新晋热门，同质化风险已在“序列”“收容”题材上显现。\n\n**📖 读者偏好**  \n读者偏爱“杀伐果断+爽文逆袭”的强冲突节奏，偏好时间静止、天赋复制、质量进化等具有破坏性成长弧光的金手指，对慢热群像和架空战争题材热情下降。\n\n**🆕 新上榜作品**  \n《高武：长枪黑炎镇妖魔》——以“镇夜司”+现代校园为背景，主打天才碾压局和日常爽文，补位传统高武赛道。\n\n**📉"
+        "summary": "**🔥 题材趋势**  \n当前“都市高武”新书榜以 **“末世/灾变+异能觉醒+序列/系统”** 为核心框架，克苏鲁、怪物收容、时间操控等元素高频出现，同质化严重。同时，**“反转/骗术”** 设定（如《诸神愚戏》）和 **“技能拟人化”**（如《刚转职法师》）成为差异化切口。\n\n**📖 读者偏好**  \n读者偏好 **“爽、癫、杀伐果断”** 的强节奏叙事，金手指偏好 **“可叠加/进化/复制”类系统**（如时间静止、天赋复制、质量进化），同时 **“实体出版背书”** 显著提升追读信任感。\n\n**🆕 新上榜作品**  \n无新上榜作品，榜单头部固化明显。\n\n**📉 掉出榜单**  \n无掉出作品，Top20整体稳定，但尾部作品在读量差距拉大（第20名39.4万 vs 第1名257.7万），流量向头部集中。\n\n**💡 值得关注**  \n- 《诸神愚戏》：以“骗术”和“自我矛盾”设计为核心，人设新颖，跳出传统打怪升级框架，有破圈潜力。  \n- 《我操作的少女正在成为旧日之主》：结合克苏鲁+琥珀流+脑机接口，设定混搭且具现代感，实体出版已验证内容质量。"
       },
       "books": [
         {
           "title": "我不是戏神",
           "author": "三九音域",
-          "reads": "257.6万",
+          "reads": "257.7万",
           "intro": "《斩神》作家三九音域全新力作 | 澳门国际科幻奖最佳科幻网络文学 | 逆转时代的中式怪诞巨作 赤色流星划过天际后，人类文明陷入停滞。 从那天起，人们再也无法制造一枚火箭，一颗核弹，一架飞机，一台汽车……近代科学堆砌而成的文明金字塔轰然坍塌，而灾难，远不止此。 灰色的世界随着赤色流星降临，像是镜面后的鬼魅倒影，将文明世界一点点拖入无序的深渊。 在这个时代，人命渺如尘埃； 在这个时代，人类灿若星辰。 大厦将倾，有人见一戏子屹立文明废墟之上，红帔似血，时笑时哭， 时代的帘幕在他身后缓缓打开，他张开双臂，对着累累众生轻声低语—— “好戏……开场。”",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o99ffbfd13492eb9953715959db26ed9b~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784749783&x-signature=YU8j8MG7R%2FEFK8ks6WQg9P0n6jM%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o99ffbfd13492eb9953715959db26ed9b~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784836019&x-signature=K%2BwS6thCiRIjE%2BXyH5u2lNDBIoQ%3D",
           "url": "https://fanqienovel.com/page/7276384138653862966"
         },
         {
           "title": "我在精神病院学斩神",
           "author": "三九音域",
-          "reads": "189.7万",
+          "reads": "190.4万",
           "intro": "番茄小说进站必读爆款 | 爆款动漫《斩神》原著 | 中国网络文学影响力榜IP影响力 | 2023年度中国好小说 你是否想过，在霓虹璀璨的都市之下，潜藏着来自古老神话的怪物？ 你是否想过，在那高悬于世人头顶的月亮之上，伫立着守望人间的神明？ 你是否想过，在人潮汹涌的现代城市之中，存在代替神明行走人间的超凡之人？ 人类统治的社会中，潜伏着无数诡异； 在那些无人问津的生命禁区，居住着古老的神明。 而属于大夏的神明，究竟去了何处？ 在这属于“人”的世界，“神秘”需要被肃清！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/c5397e4a514736bb1c6754663dbee3db~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784749783&x-signature=%2Fcfea8bnkXkEodSYrBA3hS4qj0o%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/c5397e4a514736bb1c6754663dbee3db~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784836019&x-signature=n8wWtFVvexqD1g%2BMeWyYe8YxvrA%3D",
           "url": "https://fanqienovel.com/page/6982529841564224526"
         },
         {
           "title": "时停起手，邪神也得给我跪下！",
           "author": "六个葫芦",
-          "reads": "139.7万",
+          "reads": "139.9万",
           "intro": "【时间静止+末世+异能+嚣张+忘本+拒绝内耗】 白野穿越到了二百年后的大灾变时代。 这里危机四伏、民风淳朴、异化兽肆虐，不过他并不慌。 因为他每天能静止时间一分钟，今天不用，明天还能累积叠加。 当全世界时间归0，唯一能动的他便是神明！ 至此，他深刻感悟到时间就是生命的真谛！ 　　面对残暴的废土统领，白野认真劝诫：“我真不想浪费时间杀你们，要不你们跪下求求我，这事就算过去了？” 　　看着倒在血泊中的邪神，白野唉声叹气：“你知不知道为了杀你，浪费了我多少时间？十秒！足足十秒！人一生有多少十秒！？” 　　多年后。 　　记者：白野先生，作为大灾变时代的终结者，人们都想知道您为何如此成功？ 　　白野：珍惜时间。 　　记者：您的意思是别把时间挥霍在无意义的事上，抓紧每一分每一秒去拼搏，珍惜当下才能拥抱未来！ 　　白野：啊？嗯！对，我就是这个意思。 　　记者：新时代降临，许多人还未适应，他们十分茫然，无所适从，请问，您觉得当今人们应该怎么做？ 　　白野：珍惜时间。 　　记者：您误会了，我的意思是，当今人们的终极目标，归根结底，活着到底是为了什么？ 　　白野：为了珍惜时间。 ———— 已完结作品《至死方休！》《我用幻术控制全世界》",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oadaa82ad57ef8091a7a5bd32af452d4a~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784749783&x-signature=RjLvcISw6YHtMMWZQUaqokXhEEs%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oadaa82ad57ef8091a7a5bd32af452d4a~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784836019&x-signature=Kt9%2FSfOe9yD%2FYNCwiug3KXXi06c%3D",
           "url": "https://fanqienovel.com/page/7504849932138859545"
         },
         {
           "title": "我操作的少女正在成为旧日之主",
           "author": "陷阵营营长",
-          "reads": "106.8万",
+          "reads": "107.7万",
           "intro": "【本书已签约实体出版：克苏鲁+琥珀流+反派+无系统+杀伐果断+黑色幽默+癫+单女主+序列收容】 徐墨：“二十二世纪，只需要一个带着脑机接口的头盔，便可以体验到身临其境的，真实体感游戏。” “你问我为什么选这个初始人物？那自然是因为她是一个美少女......哦不，自然是因为弱一点的人物才有挑战性。” “作为这个游戏的资深玩家，我已经操作着最弱的初始人物，打出过很多的结局了。” “我曾在群山中与巨龙作战，也曾在虚无中与旧日的邪神对赌。” “我曾给世界带来无尽的罪恶与死亡，也曾领导过燃烧整片大陆的革命之火。” “这游戏的自由度极高，虽然每一次的结局都是世界毁灭，但每次玩都有新体验。” “但这次，出了点小问题......” “我游戏的退出键怎么没了？！” “我操作的游戏的角色怎么突然有了自己的意识，和我抢身体的控制权了！？” ------------- “她是无数次起点与终点的聚合。” “她是光明的天使，也是黑夜的屠夫。” “她带来狂乱的血与火，但在她走过的地方，鲜花与希望共同盛开。” “她就是...就是...” ——《答案之书》 ------------- 白霏霏：“声明一下，血与火不是我带来的！”",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o46c2283e139d920988ff6fc3a1db1e26~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784749783&x-signature=QcA336byugH08TAD4kwJ3O3LGcA%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o46c2283e139d920988ff6fc3a1db1e26~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784836019&x-signature=cGbNHCPvI601tD2Z2hvZgMlr2tQ%3D",
           "url": "https://fanqienovel.com/page/7592279900040465433"
         },
         {
           "title": "诸神愚戏",
           "author": "一月九十秋",
-          "reads": "99.1万",
+          "reads": "100.3万",
           "intro": "我做人有2个原则： 1.从不骗人 2.从不相信任何人说的话，包括我自己 “先生，我想提醒您，您说的第二点跟第一点冲突了。” “哪里冲突？” “您既然从不骗人，为何不相信自己说的话呢？” “哦，抱歉，忘了说，我没把自己当人。” “？” ... 自我介绍一下，我叫程实，从不骗人的程实。 什么，你没听说过我？ 没关系，你只是还没被我骗过。 很快，你就会记得了。 ... 书名《诸神愚戏》，其他均为推广。 【神明末世+排位游戏+多命途职业组合+欢乐脑洞+沾点克系+无限流+偏群像】 无系统，不无敌，非爽文，介意慎入 ...",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o456671fab473706eac056e1ae403e5c3~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784749783&x-signature=6u0e2oQBtrCpgQSzL6j1S3OvPF0%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o456671fab473706eac056e1ae403e5c3~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784836019&x-signature=y1FvQ4okz4uhku7eNrJQWuKc1fo%3D",
           "url": "https://fanqienovel.com/page/7338034838672247833"
-        },
-        {
-          "title": "大一实习，你跑去749收容怪物",
-          "author": "我爱罗的沙",
-          "reads": "81.9万",
-          "intro": "【杀伐果断】【那有怪物是好的啊】【怪物都该死】【心狠手辣】 　　陆鼎大一暑假，本想趁着这个时间去实习一下，顺带赚点生活费，谁知道实习的工地挖出了一颗会流血的石头。 　　工人纷纷逃离，只有陆鼎提着个冲击钻就上了。 　　穿越到这个世界快二十年，他的金手指怪物收容监狱早已准备就位，但由于这二十年来一只怪物也没有遇到，陆鼎的耐心早就被磨平。 　　现在遇到了怪物，陆鼎心中就一个念头，不是干死怪物，就是被怪物干死。 　　加入749，借着749局的渠道寻找怪物，收容怪物。 　　从此，749多了一个手下从无活口的调查员。 　　一只只存在与传说中的妖魔鬼怪现世，陆鼎挨个碾杀。 　　【收容南山顽石，获得斤车之道，无物不斩】 　　【收容黑老太太，获得千钧之力，掌可推山】 　　【收容飞蜈蚣，获得蜈蚣定风术，飞天遁地】 　　749局：“不到万不得已，千万不能让陆鼎接任务，咱们749的宗旨是关押收容，他一出手留不下活口！！” 　　749局，我们的口号是【我们收容，我们关押】 　　陆鼎：【虽然我是749的调查员，但我不为收容，只为击杀】",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o368422f6d81aefa1e4c42491681bf9d1~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784749783&x-signature=DPeZZZQCvnRuSBaoZ%2Blk81pxfak%3D",
-          "url": "https://fanqienovel.com/page/7421167583522458648"
         },
         {
           "title": "嘉豪就变强？操场雨中舞剑开天门",
           "author": "落叶之刃",
-          "reads": "92.3万",
+          "reads": "98.2万",
           "intro": "【嘉豪？剑豪！！】+【无敌】+【逼王】 陆明穿越到平行世界，十八岁觉醒系统，本以为要走上人生巅峰。 结果，觉醒的是竟然是嘉豪成神系统。 于是陆明开始了他的嘉豪操作。 “十年前的仇，难道不报了吗？” “不是说操场刷新嘉豪吗？走两圈也没看见啊？” “豪从天降！愤怒狰狞！” 但陆明绞尽脑汁，不如系统随手一豪。 【发布任务：雨中舞剑】 【奖励：斩天剑道】 全校人都笑疯了：“这人脑子有病吧？下雨天在操场舞剑？” 当真正的怪物降临时。 全校尖叫，恐惧蔓延。 所有人都以为自己要死在这里的时候。 陆明：“看好了，这一豪，会很帅。” 陆明一剑挥出，剑气贯穿天地！！！ 上千人呆若木鸡：“他…他一剑把天劈开了？？” 陆明：“你们的豪度太低，永远无法理解我现在的状态。” 全校人：“…” 无数年后，异魔之主入侵。 山河崩碎，日月坠落，整个世界的强者都在绝望中颤抖。 那遮天蔽日的魔影俯瞰众生。 然后陆明拔剑，异魔之主，连同它身后百万里的虚空，一起被抹去。 无数人震惊：“你……你根本不是嘉豪！” 陆明：“抱歉，假如我伪豪一辈子呢？” “？”",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o08d1dfafa5148c6fe45392b2224d4a55~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784749783&x-signature=Sc%2FnSu%2F8hSVBK%2FjqRZ87bvZZXIM%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o08d1dfafa5148c6fe45392b2224d4a55~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784836019&x-signature=BmtFxUZfZXpWCwGPWqlfbJWer3g%3D",
           "url": "https://fanqienovel.com/page/7638538561230228504"
+        },
+        {
+          "title": "大一实习，你跑去749收容怪物",
+          "author": "我爱罗的沙",
+          "reads": "82.1万",
+          "intro": "【杀伐果断】【那有怪物是好的啊】【怪物都该死】【心狠手辣】 　　陆鼎大一暑假，本想趁着这个时间去实习一下，顺带赚点生活费，谁知道实习的工地挖出了一颗会流血的石头。 　　工人纷纷逃离，只有陆鼎提着个冲击钻就上了。 　　穿越到这个世界快二十年，他的金手指怪物收容监狱早已准备就位，但由于这二十年来一只怪物也没有遇到，陆鼎的耐心早就被磨平。 　　现在遇到了怪物，陆鼎心中就一个念头，不是干死怪物，就是被怪物干死。 　　加入749，借着749局的渠道寻找怪物，收容怪物。 　　从此，749多了一个手下从无活口的调查员。 　　一只只存在与传说中的妖魔鬼怪现世，陆鼎挨个碾杀。 　　【收容南山顽石，获得斤车之道，无物不斩】 　　【收容黑老太太，获得千钧之力，掌可推山】 　　【收容飞蜈蚣，获得蜈蚣定风术，飞天遁地】 　　749局：“不到万不得已，千万不能让陆鼎接任务，咱们749的宗旨是关押收容，他一出手留不下活口！！” 　　749局，我们的口号是【我们收容，我们关押】 　　陆鼎：【虽然我是749的调查员，但我不为收容，只为击杀】",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o368422f6d81aefa1e4c42491681bf9d1~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784836019&x-signature=9ymurj36m103o4IHUOVBw3jIxag%3D",
+          "url": "https://fanqienovel.com/page/7421167583522458648"
         },
         {
           "title": "序列：吃神者",
           "author": "不要大脑要小脑",
-          "reads": "76.8万",
+          "reads": "71.5万",
           "intro": "【已出版质量保证，架空高武+群像权谋+不套娃慢节奏大设定+都说越看越好看】 巨鸟吞日，万象剧变。诡异不死神明，人类超能序列。 人人都想成为这个世界的神，可他们不得要领。都说吃什么补什么，吃饭是永远不可能成神的。 想要成神，就得吃神！ 嗯？！什么叫我觉醒了【吃神者】序列？！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o43da4425bd3b338cef72fa545aaff9c1~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784749783&x-signature=7x%2FO2iPbqIBoTY1VRUqLbdRV09g%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o43da4425bd3b338cef72fa545aaff9c1~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784836019&x-signature=KaAuq8TzRPpj4RXO7J6mBu5pQZk%3D",
           "url": "https://fanqienovel.com/page/7346057588347259929"
         },
         {
           "title": "你们刷怪啊，刷我干嘛！",
           "author": "喜欢吃橘子",
-          "reads": "60.3万",
+          "reads": "60.7万",
           "intro": "【已签实体出版：无系统、剧情流、不慢热、不无脑、快节奏、惊险刺激，拳拳到肉，怪物阵营视角！】 自打【神序001——卧底】这串信息出现在脑海中，江夏就觉得自己不是正常人了，不管吃什么，不管吃多少，都没有一点饱腹感。 饿，饿的就快丧失理智！ 直到校花18岁生日宴那天，他在她身上闻到了同类的气息，也知道了吃饱的方法是什么。 此后，他发现身边很多人都有同类的气息，家人，朋友，医生，环卫工…… 不！ 他跟他们不是同类！ 他是卧底！ （跪求先看三章，如果不好看，算我输！）",
-          "cover": "https://p9-reading-sign.fqnovelpic.com/novel-pic/p2o76b6acc31de1b5f4675e0abf2939a0fe~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784749783&x-signature=%2Bpb9RL%2BRZN3jtBbLbmN8PtKZQfs%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o76b6acc31de1b5f4675e0abf2939a0fe~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784836019&x-signature=K2ehhnJecM9JdDrJ2kEbNozKqvE%3D",
           "url": "https://fanqienovel.com/page/7462405945180572697"
         },
         {
           "title": "我，亿万天赋，天才不过见我门槛",
           "author": "猫鱼书",
-          "reads": "50万",
+          "reads": "48.5万",
           "intro": "【星空高武】【无女主无暧昧，只有战斗爽！】【复制天赋】【已有完本两百万字高武小说，放心食用】 星际时代，人族遍布寰宇。 星际殖民、宇宙飞船、外星异族、域外邪神......接踵而至。 陈羽带着一块面板而来，只需交手战斗便可复制对手天赋。 【刀法宗师】：刀法悟性为常人两百倍，天生刀眼，有一定几率顿悟。 【武道极品根骨】：修炼速度为常人两百倍，武道前三境无瓶颈。 【邪神眷属】：展露本相，扭曲四周生灵思想，吞噬邪神信仰。 【千幻神通】、【龙体凤血】、【影杀之力】...... 顶尖悟性、罕见神体，异族本命天赋、乃至邪神权柄......陈羽统统可以复制！ 在这群星璀璨的时代，万族天骄并立，陈羽遥望那立于万族顶点的天才强者，不由咧嘴笑道： “天才？天才不过是见我的门槛！” “你们的天赋很好，但现在......我也有了！” “甚至......比原版更强！”",
-          "cover": "https://p9-reading-sign.fqnovelpic.com/novel-pic/p2o1f894ba87e8989e911ff040e3a889308~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784749783&x-signature=CI31XVlz8N1bhudwxDv9Xa%2BklYc%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o1f894ba87e8989e911ff040e3a889308~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784836019&x-signature=VZvlU4uMsVbbOzAu92nSmNKhDYo%3D",
           "url": "https://fanqienovel.com/page/7633410676018400281"
-        },
-        {
-          "title": "自首后，国家发现我活了两千年",
-          "author": "唯曲悦丹田",
-          "reads": "41.6万",
-          "intro": "捡到一本长生日记后，我决定冒充长生者自首。 结果第二天，我的眼睛变成了深渊................",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o1c4adf6deb0c64454a760d0a90a01f46~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784749787&x-signature=i9XQ6yvLUNpB4slIpYnogKnIzdE%3D",
-          "url": "https://fanqienovel.com/page/7622968080859139096"
         },
         {
           "title": "开局地摊卖大力",
           "author": "弈青锋",
-          "reads": "44.7万",
+          "reads": "45万",
           "intro": "【大力动漫7.29日开播，番茄搜书名看pv】地球进入灵气复苏时代，人类开启异能觉醒！江南开局觉醒最强地摊系统，大力药水？解毒小黄豆？幸运樱桃？供不应求！世界顶级神豪、首富、人气主播、巅峰强者纷纷前来求购。江南：“我对钱亿点都不感兴趣！我只想坑……额，我的愿望是世界和平！” 新书《别叫我恶魔》火热连载中，已肥可宰。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/859efeb8ede52332e566691a1147b14b~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784749787&x-signature=SiHKHgqn8fSkZXr0gRlJ%2FB7B0so%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/859efeb8ede52332e566691a1147b14b~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784836023&x-signature=NQvIdP75hcTf5ecKs%2FILPON%2BMmw%3D",
           "url": "https://fanqienovel.com/page/6838480082219043843"
         },
         {
           "title": "天物觉醒：我能刻印一切",
           "author": "御风而行的葉子",
-          "reads": "41.3万",
+          "reads": "41.2万",
           "intro": "【已签出版放心食用】【青春物语】【人均有脑】【绝对好看】【魔术】【角色鲜明】【无女主】 我叫尽飞尘，披着少年的桑榆晚景，我曾以为我会浑噩一生，靠着纳税人养一辈子，我曾以为这就会是我的结局。 然而，这一切都在一个下雨的午后结束了。 青春是盛大的舞台。在那一场雨落狂流的黄昏，舞台像我伸手，我渐渐在其中着了迷……",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2odc825833b15846db183a4385fe6c5824~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784749787&x-signature=qUgSJu0aSg34pmF7NKLQBTB3DR4%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2odc825833b15846db183a4385fe6c5824~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784836023&x-signature=VYNo15Ts4u%2BUvoIa%2BmyRQTzQ75o%3D",
           "url": "https://fanqienovel.com/page/7380211153592388632"
+        },
+        {
+          "title": "自首后，国家发现我活了两千年",
+          "author": "唯曲悦丹田",
+          "reads": "34.9万",
+          "intro": "捡到一本长生日记后，我决定冒充长生者自首。 结果第二天，我的眼睛变成了深渊................",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o1c4adf6deb0c64454a760d0a90a01f46~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784836023&x-signature=98eBmWQB3XLwJCefbDHNujAlhps%3D",
+          "url": "https://fanqienovel.com/page/7622968080859139096"
         },
         {
           "title": "杀戮都市！",
           "author": "百里孤烟",
-          "reads": "41.6万",
+          "reads": "41.9万",
           "intro": "【杀伐果断＋高武＋搞笑＋杀戮之王＋剧情流爽文】 遥远的钟声敲响！战争的号角盘旋！ 苍鹰俯视大地！秃鹫啖食众生！ 审判之剑高悬！古老君王降临！ 杀戮！荒诞末世的序章！ 杀戮！虚假盛世的终章！ 上世纪末，光明军与永夜军挑起的那场浩大而又惨烈的诸神之乱最终以光明军胜利画上了潦草的句号，可在本世纪末，永夜军残存势力卷土重来，光明摇摇欲坠，永夜侵蚀大地，古老神明降下神谕：太厄食日，黑白颠倒，七王重聚，审判降临！ 方新无意间觉醒了SSS级杀戮天赋，失踪许久的祖父忽然传来消息，让方新凌晨对着镜子半个小时。 凌晨，方新对着镜子，转身之际，镜子里的方新横卧王座，面带笑意。 你即是我，我即是你。 我是零号审判者！ 七王之首，杀戮之王！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o034e33ac47e1643f750da800875a5ee2~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784749787&x-signature=7LTMs3dR7t08MttNOBclUmzRvps%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o034e33ac47e1643f750da800875a5ee2~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784836023&x-signature=LxQQd%2BmqTJ%2BfGoADnAXVmOzR%2BQ8%3D",
           "url": "https://fanqienovel.com/page/7414060596531825689"
         },
         {
           "title": "全球僵尸降临，你说道士序列没用",
           "author": "一盏明月灯",
-          "reads": "38.7万",
+          "reads": "37.7万",
           "intro": "紫僵、白僵、黑僵、绿僵、毛僵、飞僵、游僵、伏僵、不化骨、魃……这是一个全球僵尸降临的世界！ 许易穿越而来，觉醒了道士序列。 可却被指责道士序列不如火属序列？ 许易挠了挠头，看着自己的龙虎斩邪符、金光神咒、赶尸术、先天五雷正法…… 那我一道先天五雷丢下来砸死数十只不化骨的时候，你们为啥跪的这么整齐？ 【道士——天师——龙虎天师——上古炼气士！】 【符法、咒法、雷法、奇门、遁甲、赶尸……御剑青冥！】",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2offb82b72a7997033141cd9333f08b461~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784749787&x-signature=sNHMdM1Xwp5B6%2BMwX8rtYCKfHRI%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2offb82b72a7997033141cd9333f08b461~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784836023&x-signature=khjgIh8Y2t3b5uU4%2B%2BCXtGqcnS0%3D",
           "url": "https://fanqienovel.com/page/7589673170848713752"
-        },
-        {
-          "title": "国运求生，我靠情报系统养活国家",
-          "author": "雾海",
-          "reads": "38.8万",
-          "intro": "【国运+直播+荒野求生+蛮荒】 高等文明封锁蓝星资源！ 蛮荒求生直播开启，开拓者与国家国运彻底绑定！ 选手死亡或排名垫底，所属国将遭受天灾！ 龙国开拓者出生地恶劣，国内地震、极寒频发，彻底沦为全球笑柄。 开拓者林安，开局更被投送至S级禁区【永冬苔原】！ 零下六十度、白灾、魔兽…… 大夏国举国绝望，综合评价跌至冰点！ 外网疯狂嘲讽： “龙国国运已尽，撑不过三天！” 然而，在必死的绝境中，林安绑定了【每日情报系统】 【今日情报】： 前方八十米有遗留物资！ 传说级生存盲盒在三公里外！ S级天然庇护所坐标..... 当其国家选手还为生火发愁、被魔兽追杀时， 大夏直播间的画风却逐渐崩坏： 林安躺在恒温溶洞里，穿魔兽皮裘，架起石锅，涮起了魔兽肉！ “卧槽！这货在禁区度假呢？！” “别国选手啃树皮，林神的肉多到吃不完了？” 随着林安一次次将稀有物资具现回国。 龙国灾难消失，空气改善，全民体质飞升！ 各国观众从嘲讽到震惊， 当龙国举国穿越时，林安已站在冰霜巨龙的头顶，打造出令高等文明都颤抖的神级国度！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o9ee49c45d083b75d40f42eaf50140eb7~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784749787&x-signature=pw3LCCO2%2FUqP40%2Bvo5KNTpAu1wg%3D",
-          "url": "https://fanqienovel.com/page/7559051966647634969"
         },
         {
           "title": "全民：从觉醒特勤处开始搜打撤",
           "author": "扑街蜘蛛呀",
-          "reads": "39.2万",
+          "reads": "38.7万",
           "intro": "【评分刚开，后面会涨】【内附插图，放心观看】开局穿越到正在经历灾变，全民拓荒者时代的蓝星。 别人眼中的无等级初始技能，却是因为楚鸿的到来，意外觉醒了金手指【特勤司】，只需要将现实的秘境收录，就可以在特勤司进行无限跑刀。 当别人还在进入秘境而担惊受怕的时候。 楚鸿却是另外一幅画风。 绝密单三，崖顶疫院， “落地BOSS牢区，开局狂扎强化针，一分钟狂吃【疗养大楼】大免保，两分钟闪击【停车场】小免保，三分钟炫完【员工宿舍】......” 别人：嘘，小心点，别搞出来动静惊动Boss。 楚鸿：“落地鼠鼠得吃位？吃屁的保险，直接落地C4，所有人给我嗨起来！直接跟走地下，闪击BOSS老巢！” 当经历了无数个秘境，面对各国的采访。 楚鸿微微一笑：“刚出现的秘境你就让我第一个进去，说我是怯战的老鼠，我不挑你的理，但等我从特勤司出来，把这个秘境跑了成千上万次，你们应该叫我什么？” 那一天，当无数秘境破碎，里面的怪物好似倾巢洪水般涌出，全世界都陷入绝望的时候。 楚鸿屹立苍天之上。 身后红光漫天。 “打开吧，我的收藏室！”",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ofb34c04dc4eb4010e6ad41b64405c9db~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784749787&x-signature=AHOjx4j%2Fxrzd5YYqDCz8wDAwlWY%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ofb34c04dc4eb4010e6ad41b64405c9db~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784836023&x-signature=sXxmo0zP1vciMwM5w3SyBp5pU0g%3D",
           "url": "https://fanqienovel.com/page/7642339403737615384"
+        },
+        {
+          "title": "国运求生，我靠情报系统养活国家",
+          "author": "雾海",
+          "reads": "39.3万",
+          "intro": "【国运+直播+荒野求生+蛮荒】 高等文明封锁蓝星资源！ 蛮荒求生直播开启，开拓者与国家国运彻底绑定！ 选手死亡或排名垫底，所属国将遭受天灾！ 龙国开拓者出生地恶劣，国内地震、极寒频发，彻底沦为全球笑柄。 开拓者林安，开局更被投送至S级禁区【永冬苔原】！ 零下六十度、白灾、魔兽…… 大夏国举国绝望，综合评价跌至冰点！ 外网疯狂嘲讽： “龙国国运已尽，撑不过三天！” 然而，在必死的绝境中，林安绑定了【每日情报系统】 【今日情报】： 前方八十米有遗留物资！ 传说级生存盲盒在三公里外！ S级天然庇护所坐标..... 当其国家选手还为生火发愁、被魔兽追杀时， 大夏直播间的画风却逐渐崩坏： 林安躺在恒温溶洞里，穿魔兽皮裘，架起石锅，涮起了魔兽肉！ “卧槽！这货在禁区度假呢？！” “别国选手啃树皮，林神的肉多到吃不完了？” 随着林安一次次将稀有物资具现回国。 龙国灾难消失，空气改善，全民体质飞升！ 各国观众从嘲讽到震惊， 当龙国举国穿越时，林安已站在冰霜巨龙的头顶，打造出令高等文明都颤抖的神级国度！",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o9ee49c45d083b75d40f42eaf50140eb7~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784836023&x-signature=fZ9e7hIImcI46NVnbFLqEImNWxU%3D",
+          "url": "https://fanqienovel.com/page/7559051966647634969"
+        },
+        {
+          "title": "刚转职法师，技能成精了什么鬼？",
+          "author": "九五六一",
+          "reads": "38.9万",
+          "intro": "（评分刚出偏低，后面会涨） 【爽文】+【豪门背景】+【技能拟人化】 林默穿越到全民转职的世界，觉醒为无元素亲和的【白板法师】。 没有特定天赋，无法学习高阶的元素系技能。 好在家世显赫，索性林默准备躺平当个悠闲的豪门二世祖。 然而就在这时，他的技能成精了！ 【“火球术”认为自己拥有禁咒之姿，不甘心只当个打火机！】 【为了证明自己，它主动离家出走，开始疯狂屠戮！】 【恭喜！你的“火球术”自行推演，领悟出‘多重爆裂火球’！】 【恭喜！你的“火球术”自行推演，领悟出‘爆炎螺旋龙弹’！】 【……】 【恭喜！你的“火球术”领悟火之真谛，进化为——灭世红莲！】 不仅如此，随着林默等级提升，新学的技能也一个个变得不对劲起来…… 当别的法师还在苦哈哈地杀怪练级时，林默正躺在遮阳伞下喝着冰镇果汁，而他的技能们早已杀疯了！ …… 数年后，深渊裂开，万亿魔神降临，举世绝望。 林默无奈叹气，“都别抢了，今天……准许你们无限火力。” 下一秒，天地失色。 火土水雷木光暗时间空间……全系禁咒如烟花般绽放！ 亿万魔神在无尽禁咒的光辉中湮灭。 魔神颤声嘶吼：“你到底是什么怪物？！” 林默吐个烟圈，无奈耸肩： “说了多少遍，我真只是个法爷",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o2f17fef1cf99f90ae1bb64f628b9f0f3~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784836023&x-signature=%2FPa1SrhNpgoyA9HMee9mpI51%2Fn4%3D",
+          "url": "https://fanqienovel.com/page/7585448189356936216"
         },
         {
           "title": "高武：长枪黑炎镇妖魔",
           "author": "南墙下的黑猫",
-          "reads": "38.5万",
-          "intro": "【天才+碾压局+日常+爽文】【评分刚出，会涨】 “《东煌国妖类暂行管理条例》越界伤人者，杀无赦。” 暗巷里，年仅18岁的高三学生沈长安，看着眼前的妖物，面无表情地背诵着条例。 “哪来的学生？给我弄死他！” 沈长安叹了口气，随手将背上的黑木吉他盒砸在地上。 里面没有吉他，只有一杆重达百斤的漆黑双截枪。 什么省城天骄？什么千年大妖？什么滔天大魔？ 既然这长夜妖魔横行，规矩崩坏。 那我沈长安，就以镇夜司掌灯人之名，用手里的枪和黑炎，跟妖魔讲讲规矩！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2of674dee4bc6b7b01762e81d924b202a2~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784749787&x-signature=Z9G956HZ9i7skxwyqS%2Bhtp0BZdI%3D",
+          "reads": "38.7万",
+          "intro": "【天才+碾压局+日常+爽文】【评分刚出，会涨】 “《东煌国妖类暂行管理条例》越界伤人者，杀无赦。” 暗巷里，年仅18岁的高三学生沈长安，看着眼前的妖物，面无表情地背诵着条例。 ------------- 十八年前，京城上空裂开无数深渊裂缝，魔物如潮水般涌出。那一天，被称为“黑天鹅事件“。那一天，一个婴儿被遗弃在人群之中。 十八年后，一个名叫沈长安的少年从青州走出。 十五岁执掌青州镇夜司。十八岁坠入深渊，所有人都以为他死了，直到一年后他从深渊里走出来。 世家大族欺上门来？掀了半边府邸。深渊裂隙想吞噬大地？他独自堵在裂口上，寸步不让。 而他只想查清一件事，十几年前那天晚上，到底发生了什么。当他终于触碰到真相的边缘时，才发现整个东煌修行界的水，比他想象的要深得多。 ....................................... 这个时代需要一个英雄，但至于这个英雄是谁——这并不重要。",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2of674dee4bc6b7b01762e81d924b202a2~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784836023&x-signature=uRLqnz4Fc2fUbn%2Bdj7dq%2FMCgU4E%3D",
           "url": "https://fanqienovel.com/page/7644545496853253144"
         },
         {
           "title": "每日增重亿点点，老子体重亿万吨",
           "author": "心地善良的胖虎",
-          "reads": "38万",
+          "reads": "39.4万",
           "intro": "【都市高武+体修+系统+质量进化+扮猪吃虎+废物逆袭+热血+爽文+不圣母】 本书又名《震惊！原来这世界是新手村？》 评分刚出，后边会涨！ 50章之前节奏稍慢，搞笑暴爽！越往后格局越炸！ 学霸苏铭觉醒了F级天赋【日益沉重】。 效果：每天增重1%。副作用：骨质疏松！ 被S级天才抢走女友？被全校嘲讽的人形秤砣？ 直到星空最强作弊器【质量无限进化】觉醒！ 他的体重和密度开始狂飙！ 十吨、百吨、千吨……！ “叮！恭喜宿主完成新手教程，正式开启天体演化序列！” 纳尼！？ 搞了半天，这世界只是个新手村？！ 觉醒者一到九阶，天赋F到SSS，全是系统做的本地化阉割版？！ 当土著们还在玩火玩水时，苏铭的细胞已堪比星核！ 那么，村外的世界……又该是何等风景呢？ …… 班主任：苏同学，老师当年是为了磨砺你心性啊！ 柳如烟：苏铭，只有你才配得上我，我们重新开始好不好？ 众天骄：你管这叫F级？那我们他妈算什么？ 帝都校长：老夫教了一辈子法则，才知道宇宙的尽头是物理！ 女武神：在苏铭面前，连光都跑不了。 联邦元帅：此子一人，可镇星河。 源兽王：快逃回空间裂缝！那个叫苏铭的人类张嘴了……！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o07420afcc761dffc2063466478c31c85~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784749787&x-signature=nr70BAOaDv9%2BjXnEYnOVLT14KUM%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o07420afcc761dffc2063466478c31c85~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784836023&x-signature=KXPGW4I0QhfcZVQyPMf1b5q3Dso%3D",
           "url": "https://fanqienovel.com/page/7629347810764131390"
-        },
-        {
-          "title": "刚转职法师，技能成精了什么鬼？",
-          "author": "九五六一",
-          "reads": "39.2万",
-          "intro": "（评分刚出偏低，后面会涨） 【爽文】+【豪门背景】+【技能拟人化】 林默穿越到全民转职的世界，觉醒为无元素亲和的【白板法师】。 没有特定天赋，无法学习高阶的元素系技能。 好在家世显赫，索性林默准备躺平当个悠闲的豪门二世祖。 然而就在这时，他的技能成精了！ 【“火球术”认为自己拥有禁咒之姿，不甘心只当个打火机！】 【为了证明自己，它主动离家出走，开始疯狂屠戮！】 【恭喜！你的“火球术”自行推演，领悟出‘多重爆裂火球’！】 【恭喜！你的“火球术”自行推演，领悟出‘爆炎螺旋龙弹’！】 【……】 【恭喜！你的“火球术”领悟火之真谛，进化为——灭世红莲！】 不仅如此，随着林默等级提升，新学的技能也一个个变得不对劲起来…… 当别的法师还在苦哈哈地杀怪练级时，林默正躺在遮阳伞下喝着冰镇果汁，而他的技能们早已杀疯了！ …… 数年后，深渊裂开，万亿魔神降临，举世绝望。 林默无奈叹气，“都别抢了，今天……准许你们无限火力。” 下一秒，天地失色。 火土水雷木光暗时间空间……全系禁咒如烟花般绽放！ 亿万魔神在无尽禁咒的光辉中湮灭。 魔神颤声嘶吼：“你到底是什么怪物？！” 林默吐个烟圈，无奈耸肩： “说了多少遍，我真只是个法爷",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o2f17fef1cf99f90ae1bb64f628b9f0f3~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1784749787&x-signature=UTtKYCl1%2FcfnbfwES3QOF0CfzZ4%3D",
-          "url": "https://fanqienovel.com/page/7585448189356936216"
         }
       ]
     }
