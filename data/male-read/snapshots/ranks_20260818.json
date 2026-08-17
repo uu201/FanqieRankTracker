@@ -1,43 +1,8 @@
 {
-  "type": "all",
   "date": "2026-08-18",
-  "prev_date": "2026-08-17",
   "categories": [
     {
       "name": "西方奇幻",
-      "trend": {
-        "new_count": 0,
-        "dropped_count": 0,
-        "new_books": [],
-        "dropped_books": [],
-        "top_risers": [
-          {
-            "title": "巫师：让你学知识，你杀穿万界？",
-            "change": "+1"
-          }
-        ],
-        "top_fallers": [
-          {
-            "title": "什么！我们家居然是邪神后裔？",
-            "change": "-1"
-          }
-        ],
-        "reads_growth": [
-          {
-            "title": "人在诡异，靠第四天灾登顶至高",
-            "growth": "+1.4万"
-          },
-          {
-            "title": "巫师：让你学知识，你杀穿万界？",
-            "growth": "+1.0万"
-          },
-          {
-            "title": "西幻：从鹰人部落到天使帝国",
-            "growth": "+7000"
-          }
-        ],
-        "summary": "《巫师：让你学知识，你杀穿万界？》排名上升+1位；《人在诡异，靠第四天灾登顶至高》阅读量+1.4万。"
-      },
       "books": [
         {
           "title": "西幻：从鹰人部落到天使帝国",
@@ -203,62 +168,6 @@
     },
     {
       "name": "东方仙侠",
-      "trend": {
-        "new_count": 1,
-        "dropped_count": 1,
-        "new_books": [
-          "宝塔仙缘"
-        ],
-        "dropped_books": [
-          {
-            "title": "死对头证道成仙了，怎么办？！",
-            "intro": "斗了五千年的死对头突然成仙了，怎么办？在线等，挺急的！ 想他张明渊，堂堂大乘修士，青云天圣主，竟被一届女流踩在脚下，受尽屈辱。 他发誓，一定要那个女人，狠狠狠狠地为其付出血的代价！"
-          }
-        ],
-        "top_risers": [
-          {
-            "title": "带嫂子修仙记",
-            "change": "+3"
-          },
-          {
-            "title": "邪皇降世，从废物皇子开始",
-            "change": "+1"
-          },
-          {
-            "title": "从金丹仙族开始的老祖之路！",
-            "change": "+1"
-          }
-        ],
-        "top_fallers": [
-          {
-            "title": "这！这是谁把杨婵放我府上的？",
-            "change": "-1"
-          },
-          {
-            "title": "百岁修仙：从觉醒天灵根开始",
-            "change": "-1"
-          },
-          {
-            "title": "同学们选武侠仙侠，我选洪荒世界",
-            "change": "-1"
-          }
-        ],
-        "reads_growth": [
-          {
-            "title": "我只想砍死各位，或者被各位砍死",
-            "growth": "+4.6万"
-          },
-          {
-            "title": "凡人修仙，捡个仙子做老婆",
-            "growth": "+3.8万"
-          },
-          {
-            "title": "带嫂子修仙记",
-            "growth": "+2.4万"
-          }
-        ],
-        "summary": "新增1本上榜；1本掉出（《死对头证道成仙了，怎么办？！》）；《带嫂子修仙记》排名上升+3位；《我只想砍死各位，或者被各位砍死》阅读量+4.6万。"
-      },
       "books": [
         {
           "title": "凡骨",
@@ -424,55 +333,6 @@
     },
     {
       "name": "科幻末世",
-      "trend": {
-        "new_count": 0,
-        "dropped_count": 0,
-        "new_books": [],
-        "dropped_books": [],
-        "top_risers": [
-          {
-            "title": "全民求生：从建造城市开始",
-            "change": "+1"
-          },
-          {
-            "title": "高武：憋了十八年，我开口即神明",
-            "change": "+1"
-          },
-          {
-            "title": "开局传送废土，我选择上交国家",
-            "change": "+1"
-          }
-        ],
-        "top_fallers": [
-          {
-            "title": "庇护所进化论",
-            "change": "-1"
-          },
-          {
-            "title": "我提前三天被丢进了末世",
-            "change": "-1"
-          },
-          {
-            "title": "死亡列车：开局SSS级天赋！",
-            "change": "-1"
-          }
-        ],
-        "reads_growth": [
-          {
-            "title": "小区求生：每人每天给我一块面包",
-            "growth": "+1.9万"
-          },
-          {
-            "title": "全民求生：从建造城市开始",
-            "growth": "+1.5万"
-          },
-          {
-            "title": "激活传送门，开局与国家合作！",
-            "growth": "+1.3万"
-          }
-        ],
-        "summary": "《全民求生：从建造城市开始》排名上升+1位；《小区求生：每人每天给我一块面包》阅读量+1.9万。"
-      },
       "books": [
         {
           "title": "末日生存方案供应商",
@@ -638,29 +498,6 @@
     },
     {
       "name": "都市日常",
-      "trend": {
-        "new_count": 0,
-        "dropped_count": 0,
-        "new_books": [],
-        "dropped_books": [],
-        "top_risers": [],
-        "top_fallers": [],
-        "reads_growth": [
-          {
-            "title": "双胞胎校花是病娇？我养的！",
-            "growth": "+1.9万"
-          },
-          {
-            "title": "中亿万大奖，我选择隐瞒试探人心",
-            "growth": "+1.7万"
-          },
-          {
-            "title": "我的沪上野妻",
-            "growth": "+1.7万"
-          }
-        ],
-        "summary": "《双胞胎校花是病娇？我养的！》阅读量+1.9万。"
-      },
       "books": [
         {
           "title": "天眼风水师",
@@ -826,47 +663,6 @@
     },
     {
       "name": "都市修真",
-      "trend": {
-        "new_count": 0,
-        "dropped_count": 0,
-        "new_books": [],
-        "dropped_books": [],
-        "top_risers": [
-          {
-            "title": "桃花美人村",
-            "change": "+1"
-          },
-          {
-            "title": "都市：修仙十年，下山即无敌",
-            "change": "+1"
-          },
-          {
-            "title": "娱乐圈风水秘闻",
-            "change": "+1"
-          }
-        ],
-        "top_fallers": [
-          {
-            "title": "乡村神医林辰",
-            "change": "-3"
-          }
-        ],
-        "reads_growth": [
-          {
-            "title": "神驴下凡，携山野奇遇带全村致富",
-            "growth": "+1.6万"
-          },
-          {
-            "title": "高手下山，我家师姐太宠我了",
-            "growth": "+8000"
-          },
-          {
-            "title": "高手下山：师父逼我去娶女总裁",
-            "growth": "+8000"
-          }
-        ],
-        "summary": "《桃花美人村》排名上升+1位；《神驴下凡，携山野奇遇带全村致富》阅读量+1.6万。"
-      },
       "books": [
         {
           "title": "国术：每日结算，从黄包车夫开始",
@@ -1032,55 +828,6 @@
     },
     {
       "name": "都市高武",
-      "trend": {
-        "new_count": 0,
-        "dropped_count": 0,
-        "new_books": [],
-        "dropped_books": [],
-        "top_risers": [
-          {
-            "title": "我，亿万天赋，天才不过见我门槛",
-            "change": "+2"
-          },
-          {
-            "title": "赦夜人",
-            "change": "+1"
-          },
-          {
-            "title": "觉醒痛觉共享，所有人都吓哭了",
-            "change": "+1"
-          }
-        ],
-        "top_fallers": [
-          {
-            "title": "我都宇宙之主了，你们还在地球？",
-            "change": "-2"
-          },
-          {
-            "title": "开局地摊卖大力",
-            "change": "-1"
-          },
-          {
-            "title": "天物觉醒：我能刻印一切",
-            "change": "-1"
-          }
-        ],
-        "reads_growth": [
-          {
-            "title": "我，亿万天赋，天才不过见我门槛",
-            "growth": "+7.7万"
-          },
-          {
-            "title": "时停起手，邪神也得给我跪下！",
-            "growth": "+5.9万"
-          },
-          {
-            "title": "赦夜人",
-            "growth": "+3.6万"
-          }
-        ],
-        "summary": "《我，亿万天赋，天才不过见我门槛》排名上升+2位；《我，亿万天赋，天才不过见我门槛》阅读量+7.7万。"
-      },
       "books": [
         {
           "title": "时停起手，邪神也得给我跪下！",
@@ -1246,29 +993,6 @@
     },
     {
       "name": "历史古代",
-      "trend": {
-        "new_count": 0,
-        "dropped_count": 0,
-        "new_books": [],
-        "dropped_books": [],
-        "top_risers": [],
-        "top_fallers": [],
-        "reads_growth": [
-          {
-            "title": "大唐长生者，但开局在玄武门？",
-            "growth": "+1.6万"
-          },
-          {
-            "title": "魏家孽种成首辅，全族跪求我认祖",
-            "growth": "+1.3万"
-          },
-          {
-            "title": "让你辅佐曹操，你天天骂他送死",
-            "growth": "+9000"
-          }
-        ],
-        "summary": "《大唐长生者，但开局在玄武门？》阅读量+1.6万。"
-      },
       "books": [
         {
           "title": "冒姓琅琊",
@@ -1434,51 +1158,6 @@
     },
     {
       "name": "战神赘婿",
-      "trend": {
-        "new_count": 0,
-        "dropped_count": 0,
-        "new_books": [],
-        "dropped_books": [],
-        "top_risers": [
-          {
-            "title": "都市至尊狂兵",
-            "change": "+1"
-          },
-          {
-            "title": "上门姑爷",
-            "change": "+1"
-          },
-          {
-            "title": "隐居三年，出狱即无敌",
-            "change": "+1"
-          }
-        ],
-        "top_fallers": [
-          {
-            "title": "捧我成天下第一婿",
-            "change": "-2"
-          },
-          {
-            "title": "兵王做了小保安",
-            "change": "-1"
-          }
-        ],
-        "reads_growth": [
-          {
-            "title": "农村女婿",
-            "growth": "+1.0万"
-          },
-          {
-            "title": "战龙令",
-            "growth": "+6000"
-          },
-          {
-            "title": "这个保镖有点冷",
-            "growth": "+6000"
-          }
-        ],
-        "summary": "《都市至尊狂兵》排名上升+1位；《农村女婿》阅读量+1.0万。"
-      },
       "books": [
         {
           "title": "农村女婿",
@@ -1644,54 +1323,6 @@
     },
     {
       "name": "都市种田",
-      "trend": {
-        "new_count": 1,
-        "dropped_count": 1,
-        "new_books": [
-          "重生00：开局白捡六千万闯天家"
-        ],
-        "dropped_books": [
-          {
-            "title": "重生80，分家后带妻女吃香喝辣",
-            "intro": "【年代+重生+家长里短+养娃宠妻+日常+发家致富+经营+美食】 　　1980年，四十六岁的林国强重生了。 　　上辈子，他是人人夸赞的老好人。 　　血汗钱借给大哥做生意，退伍安置费给三弟娶媳妇，五妹的学"
-          }
-        ],
-        "top_risers": [
-          {
-            "title": "年代：地狱开局，我是资本家少爷",
-            "change": "+2"
-          }
-        ],
-        "top_fallers": [
-          {
-            "title": "穿越保安，有个比我大三岁的老婆",
-            "change": "-1"
-          },
-          {
-            "title": "重生1993，暗海",
-            "change": "-1"
-          },
-          {
-            "title": "说好不谈恋爱，我成首富你哭什么",
-            "change": "-1"
-          }
-        ],
-        "reads_growth": [
-          {
-            "title": "两界倒爷：从1988到2025",
-            "growth": "+3.2万"
-          },
-          {
-            "title": "狩猎北大荒：投亲路上遇到狼拦路",
-            "growth": "+2.3万"
-          },
-          {
-            "title": "年代：地狱开局，我是资本家少爷",
-            "growth": "+1.9万"
-          }
-        ],
-        "summary": "新增1本上榜；1本掉出（《重生80，分家后带妻女吃香喝辣》）；《年代：地狱开局，我是资本家少爷》排名上升+2位；《两界倒爷：从1988到2025》阅读量+3.2万。"
-      },
       "books": [
         {
           "title": "年代1960：穿越南锣鼓巷，",
@@ -1857,47 +1488,6 @@
     },
     {
       "name": "传统玄幻",
-      "trend": {
-        "new_count": 0,
-        "dropped_count": 0,
-        "new_books": [],
-        "dropped_books": [],
-        "top_risers": [
-          {
-            "title": "力量每天增加百分之一我徒手爆星",
-            "change": "+1"
-          },
-          {
-            "title": "囚天塔！",
-            "change": "+1"
-          }
-        ],
-        "top_fallers": [
-          {
-            "title": "丹道第一圣",
-            "change": "-1"
-          },
-          {
-            "title": "从武道杀到修仙",
-            "change": "-1"
-          }
-        ],
-        "reads_growth": [
-          {
-            "title": "北侯世子：反派的我背景逆天",
-            "growth": "+1.2万"
-          },
-          {
-            "title": "一剑霸天",
-            "growth": "+6000"
-          },
-          {
-            "title": "力量每天增加百分之一我徒手爆星",
-            "growth": "+6000"
-          }
-        ],
-        "summary": "《力量每天增加百分之一我徒手爆星》排名上升+1位；《北侯世子：反派的我背景逆天》阅读量+1.2万。"
-      },
       "books": [
         {
           "title": "惊鸿",
@@ -2063,29 +1653,6 @@
     },
     {
       "name": "历史脑洞",
-      "trend": {
-        "new_count": 0,
-        "dropped_count": 0,
-        "new_books": [],
-        "dropped_books": [],
-        "top_risers": [],
-        "top_fallers": [],
-        "reads_growth": [
-          {
-            "title": "穿越乱世：每天一份拼好饭",
-            "growth": "+4.8万"
-          },
-          {
-            "title": "镇国驸马爷",
-            "growth": "+3.1万"
-          },
-          {
-            "title": "大秦：我，嬴政！开局面壁穿越者",
-            "growth": "+1.6万"
-          }
-        ],
-        "summary": "《穿越乱世：每天一份拼好饭》阅读量+4.8万。"
-      },
       "books": [
         {
           "title": "大秦：我，嬴政！开局面壁穿越者",
@@ -2251,47 +1818,6 @@
     },
     {
       "name": "悬疑脑洞",
-      "trend": {
-        "new_count": 0,
-        "dropped_count": 0,
-        "new_books": [],
-        "dropped_books": [],
-        "top_risers": [
-          {
-            "title": "死亡游戏：开局欺诈师，假扮神明",
-            "change": "+2"
-          },
-          {
-            "title": "全民学校求生：所有学校沦为地狱",
-            "change": "+1"
-          }
-        ],
-        "top_fallers": [
-          {
-            "title": "我沟通未来，杀穿这个末世！",
-            "change": "-2"
-          },
-          {
-            "title": "我创立的组织，被重生者曝光了！",
-            "change": "-1"
-          }
-        ],
-        "reads_growth": [
-          {
-            "title": "警告！邪神眷属正在杀入诡异副本",
-            "growth": "+4.1万"
-          },
-          {
-            "title": "骇夜：我在恐怖游戏里暴富",
-            "growth": "+1.4万"
-          },
-          {
-            "title": "序列超凡：我老婆是诡异大佬",
-            "growth": "+9000"
-          }
-        ],
-        "summary": "《死亡游戏：开局欺诈师，假扮神明》排名上升+2位；《警告！邪神眷属正在杀入诡异副本》阅读量+4.1万。"
-      },
       "books": [
         {
           "title": "十日终焉",
@@ -2457,43 +1983,6 @@
     },
     {
       "name": "都市脑洞",
-      "trend": {
-        "new_count": 0,
-        "dropped_count": 0,
-        "new_books": [],
-        "dropped_books": [],
-        "top_risers": [
-          {
-            "title": "系统延迟一坤年，我成了全球股东",
-            "change": "+1"
-          },
-          {
-            "title": "十岁混圈，小爷娱乐圈圈霸",
-            "change": "+1"
-          }
-        ],
-        "top_fallers": [
-          {
-            "title": "自律就变帅！高冷校花绷不住了！",
-            "change": "-2"
-          }
-        ],
-        "reads_growth": [
-          {
-            "title": "系统想害我，我选择上交国家",
-            "growth": "+2.4万"
-          },
-          {
-            "title": "系统延迟一坤年，我成了全球股东",
-            "growth": "+2.4万"
-          },
-          {
-            "title": "入伍四次！我被原部队拉进黑名单",
-            "growth": "+1.5万"
-          }
-        ],
-        "summary": "《系统延迟一坤年，我成了全球股东》排名上升+1位；《系统想害我，我选择上交国家》阅读量+2.4万。"
-      },
       "books": [
         {
           "title": "系统想害我，我选择上交国家",
@@ -2659,29 +2148,6 @@
     },
     {
       "name": "玄幻脑洞",
-      "trend": {
-        "new_count": 0,
-        "dropped_count": 0,
-        "new_books": [],
-        "dropped_books": [],
-        "top_risers": [],
-        "top_fallers": [],
-        "reads_growth": [
-          {
-            "title": "从变身少女开始斩妖除魔",
-            "growth": "+2.1万"
-          },
-          {
-            "title": "谁把我仙侠游戏退出键扣了？",
-            "growth": "+2.0万"
-          },
-          {
-            "title": "天道酬勤，从杀猪匠练成人间武圣",
-            "growth": "+1.5万"
-          }
-        ],
-        "summary": "《从变身少女开始斩妖除魔》阅读量+2.1万。"
-      },
       "books": [
         {
           "title": "这个游戏不对劲，我挖矿成神！",
@@ -2847,43 +2313,6 @@
     },
     {
       "name": "悬疑灵异",
-      "trend": {
-        "new_count": 0,
-        "dropped_count": 0,
-        "new_books": [],
-        "dropped_books": [],
-        "top_risers": [
-          {
-            "title": "破案微苦，我姐超甜",
-            "change": "+2"
-          }
-        ],
-        "top_fallers": [
-          {
-            "title": "请叫我鬼差大人",
-            "change": "-1"
-          },
-          {
-            "title": "法医：与死者同行",
-            "change": "-1"
-          }
-        ],
-        "reads_growth": [
-          {
-            "title": "编外法医：重案组抢疯了！",
-            "growth": "+1.4万"
-          },
-          {
-            "title": "破案微苦，我姐超甜",
-            "growth": "+9000"
-          },
-          {
-            "title": "校花尸变咋办？不怕！我专业对口",
-            "growth": "+7000"
-          }
-        ],
-        "summary": "《破案微苦，我姐超甜》排名上升+2位；《编外法医：重案组抢疯了！》阅读量+1.4万。"
-      },
       "books": [
         {
           "title": "我以狐仙镇百鬼",
@@ -3049,47 +2478,6 @@
     },
     {
       "name": "抗战谍战",
-      "trend": {
-        "new_count": 0,
-        "dropped_count": 0,
-        "new_books": [],
-        "dropped_books": [],
-        "top_risers": [
-          {
-            "title": "军阀：老爹听劝，从旅长杀成大帅",
-            "change": "+1"
-          },
-          {
-            "title": "四合院：我从四三年开始打鬼子",
-            "change": "+1"
-          }
-        ],
-        "top_fallers": [
-          {
-            "title": "军阀：我奉化人，当个总统怎么了",
-            "change": "-1"
-          },
-          {
-            "title": "什么是军统第一行动高手啊？",
-            "change": "-1"
-          }
-        ],
-        "reads_growth": [
-          {
-            "title": "军阀：老爹听劝，从旅长杀成大帅",
-            "growth": "+1.2万"
-          },
-          {
-            "title": "强闯军区被捕？我带国家去抗战！",
-            "growth": "+1.1万"
-          },
-          {
-            "title": "亮剑：军校毕业，我给老李当参谋",
-            "growth": "+1.0万"
-          }
-        ],
-        "summary": "《军阀：老爹听劝，从旅长杀成大帅》排名上升+1位；《军阀：老爹听劝，从旅长杀成大帅》阅读量+1.2万。"
-      },
       "books": [
         {
           "title": "谍战：我当恶霸能爆奖励！",
@@ -3255,47 +2643,6 @@
     },
     {
       "name": "游戏体育",
-      "trend": {
-        "new_count": 0,
-        "dropped_count": 0,
-        "new_books": [],
-        "dropped_books": [],
-        "top_risers": [
-          {
-            "title": "列车求生，我能升华一切！",
-            "change": "+3"
-          }
-        ],
-        "top_fallers": [
-          {
-            "title": "武侠游戏，开局九阳神功震惊全球",
-            "change": "-1"
-          },
-          {
-            "title": "网游：神级刺客，我即是暗影！",
-            "change": "-1"
-          },
-          {
-            "title": "游戏降临，只有我能氪金！",
-            "change": "-1"
-          }
-        ],
-        "reads_growth": [
-          {
-            "title": "列车求生，我能升华一切！",
-            "growth": "+7.4万"
-          },
-          {
-            "title": "武侠游戏，开局九阳神功震惊全球",
-            "growth": "+9000"
-          },
-          {
-            "title": "游戏入侵：我一路杀到诸神颤抖",
-            "growth": "+5000"
-          }
-        ],
-        "summary": "《列车求生，我能升华一切！》排名上升+3位；《列车求生，我能升华一切！》阅读量+7.4万。"
-      },
       "books": [
         {
           "title": "全民公路求生：我的房车无限进化",
@@ -3461,47 +2808,6 @@
     },
     {
       "name": "动漫衍生",
-      "trend": {
-        "new_count": 0,
-        "dropped_count": 0,
-        "new_books": [],
-        "dropped_books": [],
-        "top_risers": [
-          {
-            "title": "火影：人在木叶村，开局觉醒木遁",
-            "change": "+1"
-          },
-          {
-            "title": "救命！我这是农场！不是饲育屋！",
-            "change": "+1"
-          }
-        ],
-        "top_fallers": [
-          {
-            "title": "一人：陆家保镖，一掌拍碎龙虎山",
-            "change": "-1"
-          },
-          {
-            "title": "战锤40k搜打撤，塔暗州",
-            "change": "-1"
-          }
-        ],
-        "reads_growth": [
-          {
-            "title": "转生火影，卡普模版",
-            "growth": "+2.9万"
-          },
-          {
-            "title": "奥特：最强债主！借债十倍返还！",
-            "growth": "+2.0万"
-          },
-          {
-            "title": "综漫：留学千叶的我兼职光之巨人",
-            "growth": "+7000"
-          }
-        ],
-        "summary": "《火影：人在木叶村，开局觉醒木遁》排名上升+1位；《转生火影，卡普模版》阅读量+2.9万。"
-      },
       "books": [
         {
           "title": "奥特：最强债主！借债十倍返还！",
@@ -3667,29 +2973,6 @@
     },
     {
       "name": "男频衍生",
-      "trend": {
-        "new_count": 0,
-        "dropped_count": 0,
-        "new_books": [],
-        "dropped_books": [],
-        "top_risers": [],
-        "top_fallers": [],
-        "reads_growth": [
-          {
-            "title": "名义：汉东棋局，由我来打破！",
-            "growth": "+1.7万"
-          },
-          {
-            "title": "四合院：从转业开始进步",
-            "growth": "+7000"
-          },
-          {
-            "title": "四合院：我叫易中河",
-            "growth": "+5000"
-          }
-        ],
-        "summary": "《名义：汉东棋局，由我来打破！》阅读量+1.7万。"
-      },
       "books": [
         {
           "title": "名义：散装汉东，打造明星城市！",
