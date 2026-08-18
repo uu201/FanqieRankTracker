@@ -1,4 +1,4 @@
-name: Daily Fanqie Rank Scraper
+name: AI Summary Only
 
 permissions:
   contents: write
@@ -13,13 +13,26 @@ env:
   TZ: Asia/Shanghai
 
 on:
-  schedule:
-    # 每天 UTC 18:17 (北京时间次日 02:17) 触发，避开整点高峰
-    - cron: '17 18 * * *'
-  workflow_dispatch: # 允许手动在界面上点击 Run workflow
+  workflow_dispatch:
+    inputs:
+      target_date:
+        description: '目标日期 (YYYY-MM-DD)，留空使用各榜单最新快照'
+        required: false
+        default: ''
+        type: string
+      board:
+        description: '榜单 slug，留空处理全部启用榜单'
+        required: false
+        default: ''
+        type: string
+      force:
+        description: '强制重新生成已有 AI 总结'
+        required: false
+        default: true
+        type: boolean
 
 jobs:
-  scrape-and-commit:
+  ai-summary:
     runs-on: ubuntu-22.04
     environment:
       name: github-pages
@@ -37,33 +50,38 @@ jobs:
         python-version: '3.9'
         cache: 'pip'
 
-    - name: Install Dependencies
-      run: |
-        python -m pip install --upgrade pip
-        pip install -r requirements.txt
-        playwright install --with-deps chromium
+    - name: Install AI Dependency
+      run: python -m pip install --upgrade pip && pip install openai
 
-    - name: Run Scraper (all enabled boards)
-      run: python scrape_fanqie_ranks.py
+    - name: Generate AI Summaries
       env:
-        GITHUB_ACTIONS: true
-
-    - name: Build Latest Data with AI Summary
-      run: pip install openai && python scripts/build_latest.py
-      env:
+        TARGET_DATE: ${{ inputs.target_date }}
+        BOARD: ${{ inputs.board }}
+        FORCE: ${{ inputs.force }}
         API_BASE_URL: ${{ secrets.API_BASE_URL }}
         API_KEY: ${{ secrets.API_KEY }}
         API_MODEL: ${{ secrets.API_MODEL }}
         API_REQUEST_INTERVAL_SECONDS: ${{ vars.API_REQUEST_INTERVAL_SECONDS || '15' }}
+      run: |
+        args=()
+        if [ "$FORCE" = "true" ]; then
+          args+=(--force)
+        fi
+        if [ -n "$TARGET_DATE" ]; then
+          args+=(--date "$TARGET_DATE")
+        fi
+        if [ -n "$BOARD" ]; then
+          args+=(--board "$BOARD")
+        fi
+        python scripts/build_latest.py "${args[@]}"
 
     - name: Commit and Push Changes
       uses: stefanzweifel/git-auto-commit-action@v5
       with:
-        commit_message: "[Auto] Update Fanqie daily ranks"
+        commit_message: "[AI] Update summaries (${{ inputs.target_date || 'latest' }})"
         file_pattern: data api
         branch: main
 
-    # ---- Deploy to GitHub Pages (inline, 绕过 GITHUB_TOKEN 不触发其他 workflow 的限制) ----
     - name: Setup Pages
       uses: actions/configure-pages@v5
       with:

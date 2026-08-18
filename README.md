@@ -46,15 +46,17 @@
 
 ### 第三步：配置 Secrets（可选，开启 AI 分析）
 
-进入仓库 → **Settings** → **Secrets and variables** → **Actions** → **New repository secret**，添加以下三个 Secret：
+进入仓库 → **Settings** → **Secrets and variables** → **Actions**，添加以下三个 Secret；如需调整请求频率，再添加一个 Repository Variable：
 
-| Secret 名称 | 说明 | 示例 |
+| 配置项 | 说明 | 示例 |
 |---|---|---|
 | `API_BASE_URL` | OpenAI 兼容 API 的地址 | `https://api.openai.com/v1` |
 | `API_KEY` | API 密钥 | `sk-xxxxxxxxxxxxx` |
 | `API_MODEL` | 模型名称 | `gpt-4o-mini` |
+| `API_REQUEST_INTERVAL_SECONDS` | Repository Variable，连续 AI 请求的最小间隔（秒） | `15` |
 
-> **💡 提示：** 任何 OpenAI 兼容接口均可使用（如 Moonshot / DeepSeek / 自建服务等）。如果不配置这三个 Secret，系统将自动使用基于规则的摘要替代 AI 分析，**不影响核心功能**。
+> **💡 提示：** 任何 OpenAI 兼容接口均可使用（如 Moonshot / DeepSeek / 自建服务等）。如果不配置前三个 Secret，系统将自动使用基于规则的摘要替代 AI 分析，**不影响核心功能**。
+> 免费模型如果仍返回 429，可将 `API_REQUEST_INTERVAL_SECONDS` 设置为 `30` 或更高；连续限流后本轮会自动停止 AI 请求并保留规则摘要。
 
 ### 第四步：手动触发首次运行
 
@@ -63,6 +65,10 @@
 3. 等待 Workflow 运行完成（约 3–5 分钟）
 
 运行成功后，`data/<榜单>/` 目录下会自动生成数据文件，打开 GitHub Pages 链接即可看到看板。
+
+### 单独执行 AI 总结
+
+如果不需要重新爬取榜单，只想重新生成 AI 分析，进入 **Actions** → **AI Summary Only** → **Run workflow**。可填写目标日期和榜单 slug，并选择是否强制重生成；运行完成后会自动提交 `data` / `api` 变更并重新部署 Pages。
 
 ### 第五步：坐等自动更新
 

@@ -79,6 +79,7 @@ jobs:
         API_BASE_URL: ${{ secrets.API_BASE_URL }}
         API_KEY: ${{ secrets.API_KEY }}
         API_MODEL: ${{ secrets.API_MODEL }}
+        API_REQUEST_INTERVAL_SECONDS: ${{ vars.API_REQUEST_INTERVAL_SECONDS || '15' }}
 
     - name: Commit and Push Changes
       uses: stefanzweifel/git-auto-commit-action@v5

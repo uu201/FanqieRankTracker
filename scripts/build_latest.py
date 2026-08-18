@@ -225,9 +225,45 @@ def build_ai_prompt(cat_name: str, cat: dict, trend: dict) -> str:
 要求：每个板块2-3句话，总字数250字以内。语言简洁专业，像行业快报。"""
 
 
-BATCH_SIZE = 3  # 每批合并的分类数
+BATCH_SIZE = 6  # 每批合并的分类数，减少免费 API 的请求次数
+API_REQUEST_INTERVAL_SECONDS = max(
+    0.0, float(os.environ.get("API_REQUEST_INTERVAL_SECONDS", "15"))
+)
 
 MARKET_PERIODS = [("7", 7), ("14", 14), ("30", 30), ("all", None)]
+
+
+_last_api_request_at = 0.0
+
+
+def _wait_for_api_slot() -> None:
+    """限制连续请求速度，避免免费端点触发 RPM 限制。"""
+    global _last_api_request_at
+    import time
+
+    elapsed = time.monotonic() - _last_api_request_at
+    if _last_api_request_at and elapsed < API_REQUEST_INTERVAL_SECONDS:
+        time.sleep(API_REQUEST_INTERVAL_SECONDS - elapsed)
+    _last_api_request_at = time.monotonic()
+
+
+def _is_rate_limit_error(error: Exception) -> bool:
+    """识别 OpenAI SDK 和 OpenCode 返回的 429 限流错误。"""
+    status_code = getattr(error, "status_code", None)
+    response = getattr(error, "response", None)
+    if status_code is None and response is not None:
+        status_code = getattr(response, "status_code", None)
+    return status_code == 429 or "FreeUsageLimitError" in str(error)
+
+
+def _retry_after_seconds(error: Exception, default: float = 60.0) -> float:
+    response = getattr(error, "response", None)
+    headers = getattr(response, "headers", {}) if response is not None else {}
+    value = headers.get("retry-after") or headers.get("Retry-After")
+    try:
+        return max(1.0, min(float(value), 900.0)) if value else default
+    except (TypeError, ValueError):
+        return default
 
 # 注意：赛道分组(genre_groups)与题材关键词(keywords)已移至 boards_config.py，
 # 按榜单传入下方相关函数，不再使用模块级常量。
@@ -742,7 +778,8 @@ def parse_json_object(text: str) -> dict:
 
 def enrich_market_summary_with_ai(payload: dict, api_key: str,
                                   base_url: str, model: str,
-                                  board_name: str = "番茄新书榜") -> dict:
+                                  board_name: str = "番茄新书榜",
+                                  rate_limit_state: dict = None) -> dict:
     """使用 AI 改写全站热点总结；失败时保留规则兜底。"""
     try:
         from openai import OpenAI
@@ -752,6 +789,7 @@ def enrich_market_summary_with_ai(payload: dict, api_key: str,
 
     try:
         client = OpenAI(api_key=api_key, base_url=base_url, timeout=120.0)
+        _wait_for_api_slot()
         response = client.chat.completions.create(
             model=model,
             messages=[{"role": "user", "content": build_market_ai_prompt(payload, board_name)}],
@@ -765,6 +803,8 @@ def enrich_market_summary_with_ai(payload: dict, api_key: str,
                 payload["periods"][key]["source"] = "ai"
         print("✅ 全站热点 AI 总结已生成")
     except Exception as e:
+        if _is_rate_limit_error(e) and rate_limit_state is not None:
+            rate_limit_state["rate_limited"] = True
         print(f"⚠️  全站热点 AI 总结失败，使用规则兜底: {e}")
 
     return payload
@@ -791,12 +831,13 @@ def generate_ai_summaries(categories: list, trends: dict,
                           existing_trends: dict = None,
                           trend_path: str = None,
                           trend_date: str = "",
-                          prev_date: str = "") -> dict:
+                          prev_date: str = "",
+                          rate_limit_state: dict = None) -> dict:
     """通过 OpenAI 兼容 API 为每个分类生成 AI 总结。
 
     采用批量合并策略（每 BATCH_SIZE 个分类一次调用）减少 API 调用次数，
     并在每批成功后增量保存，避免中途失败丢失已完成的结果。
-    批量失败的分类会自动降级为逐个重试。
+    普通批量失败的分类会自动降级为逐个重试；429 限流时停止后续请求并使用规则摘要。
     """
     try:
         from openai import OpenAI
@@ -838,6 +879,7 @@ def generate_ai_summaries(categories: list, trends: dict,
         for i in range(0, len(pending), BATCH_SIZE)
     ]
     failed_cats = []  # 批量失败后需单独重试的分类
+    rate_limit_hit = False
 
     print(f"  📦 共 {len(pending)} 个分类，分 {len(batches)} 批处理"
           f"（每批最多 {BATCH_SIZE} 个）")
@@ -853,6 +895,7 @@ def generate_ai_summaries(categories: list, trends: dict,
         batch_success = False
         for attempt in range(1, max_retries + 1):
             try:
+                _wait_for_api_slot()
                 response = client.chat.completions.create(
                     model=model,
                     messages=[{"role": "user", "content": prompt}],
@@ -890,6 +933,18 @@ def generate_ai_summaries(categories: list, trends: dict,
 
             except Exception as e:
                 print(f"    ⚠️  第 {attempt} 次失败: {e}")
+                if _is_rate_limit_error(e):
+                    if attempt < max_retries:
+                        import time
+                        delay = _retry_after_seconds(e)
+                        print(f"    ⏳ 检测到 429，{delay:.0f} 秒后重试")
+                        time.sleep(delay)
+                    else:
+                        rate_limit_hit = True
+                        if rate_limit_state is not None:
+                            rate_limit_state["rate_limited"] = True
+                        print("    ⛔ 免费 API 仍在限流，停止本轮 AI 请求")
+                    continue
                 if attempt < max_retries:
                     import time
                     time.sleep(5 * attempt)
@@ -898,9 +953,14 @@ def generate_ai_summaries(categories: list, trends: dict,
             print(f"    ❌ 批量生成失败（已重试 {max_retries} 次），"
                   f"将逐个重试")
             failed_cats.extend(batch)
+        if rate_limit_hit:
+            # 不再将剩余批次拆成单分类请求，避免 429 时进一步放大流量。
+            for remaining_batch in batches[batch_idx + 1:]:
+                failed_cats.extend(remaining_batch)
+            break
 
     # 3. 对失败的分类逐个重试（降级为单分类 prompt）
-    if failed_cats:
+    if failed_cats and not rate_limit_hit:
         print(f"\n  🔄 逐个重试 {len(failed_cats)} 个失败分类...")
         for cat_name, cat, trend in failed_cats:
             prompt = build_ai_prompt(cat_name, cat, trend)
@@ -908,6 +968,7 @@ def generate_ai_summaries(categories: list, trends: dict,
             success = False
             for attempt in range(1, max_retries + 1):
                 try:
+                    _wait_for_api_slot()
                     response = client.chat.completions.create(
                         model=model,
                         messages=[{"role": "user", "content": prompt}],
@@ -940,6 +1001,14 @@ def generate_ai_summaries(categories: list, trends: dict,
                     trends[cat_name]["summary"] = generate_trend_summary_text(
                         cat_name, trend
                     )
+
+    if rate_limit_hit:
+        for cat_name, cat, trend in failed_cats:
+            old = existing_trends.get(cat_name, {}).get("summary", "")
+            trends[cat_name]["summary"] = (
+                old if old and not is_rule_summary(old)
+                else generate_trend_summary_text(cat_name, trend)
+            )
 
     return trends
 
@@ -1015,7 +1084,7 @@ def build_board(board: dict, base_dir: str, args, api_creds: dict) -> dict:
         }
 
     # AI 总结
-    if api_creds:
+    if api_creds and not api_creds.get("rate_limited"):
         print(f"  正在使用 {api_creds['model']} 生成 AI 总结...")
         trends = generate_ai_summaries(
             latest_data["categories"], trends,
@@ -1023,6 +1092,7 @@ def build_board(board: dict, base_dir: str, args, api_creds: dict) -> dict:
             force=args.force, existing_trends=existing_trends,
             trend_path=trend_path, trend_date=latest_data["date"],
             prev_date=prev_date,
+            rate_limit_state=api_creds,
         )
     else:
         for cat_name, trend in trends.items():
@@ -1063,10 +1133,10 @@ def build_board(board: dict, base_dir: str, args, api_creds: dict) -> dict:
     market_payload = build_market_summary_payload(
         output, trends_dir, board.get("genre_groups"), board.get("keywords", [])
     )
-    if api_creds:
+    if api_creds and not api_creds.get("rate_limited"):
         market_payload = enrich_market_summary_with_ai(
             market_payload, api_creds["key"], api_creds["base_url"],
-            api_creds["model"], name
+            api_creds["model"], name, rate_limit_state=api_creds
         )
     write_json(os.path.join(data_dir, "market_summary.json"), market_payload)
     print("  ✅ 全站热点: market_summary.json")
