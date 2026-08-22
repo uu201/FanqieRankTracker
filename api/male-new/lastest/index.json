@@ -1,13 +1,13 @@
 {
   "slug": "male-new",
-  "date": "2026-08-22",
-  "prev_date": "2026-08-21",
+  "date": "2026-08-23",
+  "prev_date": "2026-08-22",
   "types": [
     {
       "type": "all",
       "url": "api/male-new/lastest/all.json",
       "category_count": 19,
-      "book_count": 360
+      "book_count": 380
     },
     {
       "type": "西方奇幻",
@@ -97,7 +97,7 @@
     {
       "type": "动漫衍生",
       "url": "api/male-new/lastest/%E5%8A%A8%E6%BC%AB%E8%A1%8D%E7%94%9F.json",
-      "book_count": 0
+      "book_count": 20
     },
     {
       "type": "男频衍生",
