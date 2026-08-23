@@ -1,13 +1,13 @@
 {
   "slug": "male-read",
-  "date": "2026-08-23",
-  "prev_date": "2026-08-22",
+  "date": "2026-08-24",
+  "prev_date": "2026-08-23",
   "types": [
     {
       "type": "all",
       "url": "api/male-read/lastest/all.json",
       "category_count": 19,
-      "book_count": 380
+      "book_count": 360
     },
     {
       "type": "西方奇幻",
@@ -87,7 +87,7 @@
     {
       "type": "抗战谍战",
       "url": "api/male-read/lastest/%E6%8A%97%E6%88%98%E8%B0%8D%E6%88%98.json",
-      "book_count": 20
+      "book_count": 0
     },
     {
       "type": "游戏体育",
