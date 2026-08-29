@@ -1,216 +1,191 @@
 {
   "type": "悬疑灵异",
-  "date": "2026-08-29",
-  "prev_date": "2026-08-28",
+  "date": "2026-08-30",
+  "prev_date": "2026-08-29",
   "category": {
     "name": "悬疑灵异",
     "trend": {
-      "new_count": 1,
-      "dropped_count": 1,
-      "new_books": [
-        "北派散土往事"
-      ],
-      "dropped_books": [
-        {
-          "title": "你一个交警，抢刑侦的案子合适吗",
-          "intro": "穿越平行世界，变成了一个警校毕业生。 徐麟接到分配单位的时候，一脸茫然。 他一个从刑侦专业全优满分毕业的准刑警，被分配到了交警队，这是几个意思？ 不让我干刑侦是吧？ 那好办，我交警也是可以抢刑侦的活儿"
-        }
-      ],
-      "top_risers": [
-        {
-          "title": "人在游神，见鬼起乩增损二将",
-          "change": "+1"
-        },
-        {
-          "title": "模拟犯罪十万次，我竟成王牌神探",
-          "change": "+1"
-        }
-      ],
-      "top_fallers": [
-        {
-          "title": "掐指一算，你是逃犯！",
-          "change": "-2"
-        },
-        {
-          "title": "美恐：我，人间真神",
-          "change": "-1"
-        }
-      ],
+      "new_count": 0,
+      "dropped_count": 0,
+      "new_books": [],
+      "dropped_books": [],
+      "top_risers": [],
+      "top_fallers": [],
       "reads_growth": [
         {
           "title": "完美犯罪？在我的眼里全是破绽！",
-          "growth": "+1.7万"
+          "growth": "+9000"
+        },
+        {
+          "title": "北派散土往事",
+          "growth": "+4000"
         },
         {
           "title": "人在游神，见鬼起乩增损二将",
-          "growth": "+5000"
-        },
-        {
-          "title": "东北出马笔记",
-          "growth": "+1000"
+          "growth": "+3000"
         }
       ],
-      "summary": "新增1本上榜；1本掉出（《你一个交警，抢刑侦的案子合适吗》）；《人在游神，见鬼起乩增损二将》排名上升+1位；《完美犯罪？在我的眼里全是破绽！》阅读量+1.7万。"
+      "summary": "《完美犯罪？在我的眼里全是破绽！》阅读量+9000。"
     },
     "books": [
       {
         "title": "我以狐仙镇百鬼",
         "author": "紫梦游龙",
-        "reads": "80.7万",
+        "reads": "80.4万",
         "intro": "我出生那天，在我家院子周围落下了十九道雷，有个算命先生说，我是天生妖胎，一生命犯十八劫，不是别人死就是我死，结果那算命先生在我出生第一天就应了我的劫，抱着我刚出了村口就突然暴毙！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/05cb5f60d9bea6c19a94f9a27a763ce7~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788573384&x-signature=q%2FSBuLNIF46UQ%2BLhN03xKhzYkXY%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/05cb5f60d9bea6c19a94f9a27a763ce7~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788642382&x-signature=2YNyes2qJi5h8rjXBIgWx%2BlzrfY%3D",
         "url": "https://fanqienovel.com/page/7087872099557051400"
       },
       {
         "title": "镇龙棺，阎王命",
         "author": "匪夷",
-        "reads": "46.1万",
+        "reads": "45.3万",
         "intro": "我被挑断筋脉，封棺活埋，可他们不知道，我是阎王命！ 【民俗恐怖，风水符咒，香火供奉】 风水相术，画皮招魂，走阴赶尸，痋术降头，纹阴刺符，悬丝傀儡，蜡封红门， 坟头岭上狗刨坑，河神庙里鬼吃席，五雷正法可破秽，胡黄白柳请道兵， 纸扎客不点活人，二皮匠炼缝皮针，苗疆养蛊，南洋养小鬼…",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o46897b9759abdb93d98b54fd9c1230bd~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788573384&x-signature=mSaSa8q5l8XYfI%2Bpa%2FjHmr2CIpU%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o46897b9759abdb93d98b54fd9c1230bd~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788642382&x-signature=LvQPjZPRp%2Bt9j9y7MGWyRVjyWMw%3D",
         "url": "https://fanqienovel.com/page/7287726057069743138"
       },
       {
         "title": "编外法医：重案组抢疯了！",
         "author": "Joye喵",
         "reads": "43.3万",
-        "intro": "预告一下，本剧无CP，在93章的时候，被各位大神读者给投没了，所以放心看吧 火化炉的门都开了。 温则鸣一把按住推车：\"这人是被杀的。\" 所有人都笑了——一个连编制都没有的法医助理。 三天后，凶手落网。 从此，城南分局的白板上，名字一个一个亮起来。 省厅要人，重案组抢人。 局长拍桌：这法医，谁也别想挖走！ 有带入系统是为了避免破积案造成对前辈的不敬，其实大家不要搭理系统，正常看文就行了",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ob27eaad982d0c0d97c5a28a7ae9b09a8~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788573384&x-signature=DCeNfy%2FPtCyUKSgo5tu0teMjbtc%3D",
+        "intro": "【无CP·刑侦·单元案】 上辈子他干了二十年法医，倒在最后一个案子上。 再次睁眼，读完临床医学，市局法医中心社会化用工，一个月四千八，没编制。 报到第一天，师父只给了他六个字：少说话，多看。 【关于CP】前期确实起过苗头。读者投票，投没了。作者服从民意，已经掐干净，往后不会再有感情线。全书单机，专心办案。",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ob27eaad982d0c0d97c5a28a7ae9b09a8~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788642382&x-signature=H6qjx0TMLY33skhcnVI450%2Fstx4%3D",
         "url": "https://fanqienovel.com/page/7644187755781573656"
       },
       {
         "title": "天师在此，奇门风水震天下",
         "author": "大茄子",
-        "reads": "37.5万",
+        "reads": "36.9万",
         "intro": "【奇门风水，民间秘术，咒术，邪术，巫术，奇门遁甲，九宫命格，牵羊憋宝，祝由术！】 俗话说，一名二运三风水，风水对人的影响非常大，如财运，身体，姻缘，家庭，都有着很大的影响。 如果一个人很勤劳，不怕吃苦，兜里却依然没有钱，不是他命运不好，就是家里风水有问题。 想不想改变命运，想不想暴富，想的话，就翻开第一页继续往下看……",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/769786ef7bf06064411cd2cb3fe921e7~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788573384&x-signature=d5awylFJoFoRa2sOtKK3JI2h81Y%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/769786ef7bf06064411cd2cb3fe921e7~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788642382&x-signature=yzFsGYfhjJx1O5y%2BRrTdxzx%2FNMM%3D",
         "url": "https://fanqienovel.com/page/7166580408522378292"
       },
       {
         "title": "校花尸变咋办？不怕！我专业对口",
         "author": "后端工程师",
-        "reads": "33万",
+        "reads": "32.8万",
         "intro": "【灵异+恐怖+都市传说+鬼故事+无敌+单女主】 校花同桌上课尸变怎么办？ 多半是装的，亲一顿就好了。 嗯？不是装的？？？ ...... 陆九阳很懵。 上一秒他还是鏖战亿万鬼潮、以身封魔的茅山末代天师， 下一秒竟重生成了一个普通高一学生。 这个世界科技发达，岁月静好，鬼怪只存在于传说之中。 就连茅山，都成了网红打卡的风景区。 累了，乏了，卷不动了。 上一世战斗了几十年想要创造的世界就摆在眼前。 这一世，他只想摆烂，算算命，过上平凡且枯燥的生活。 直到绝美校花泪眼婆娑地拉住他： “陆同学，我好像…被我太爷爷抓伤…” “太爷爷？” “嗯，死了一百年的太爷爷。” 陆九阳：“？？？” 望着眼前尸毒攻心的校花，陆九阳叹了口气。 单手结印！虚空画符！ “业务生疏了，不过…问题不大。” “专业对口，我超强的！” 可谁能想到，校花尸变只是开始。 山城红衣女孩夜夜敲门。 空难录音中传来非人低语。 消失十年的一路公交车再度启程。 百年高校凌晨歌唱的白衣老师。 无数都市传闻变为现实！ “不对啊？这世界不是没鬼吗？！” “就我一个道士怎么扛？？？” “既然如此......” “开坛做法，符咒拉满，物理超度，全都扬了！”",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o78b8e501fb081e2ca3fab3e8104be205~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788573384&x-signature=%2BfB4enK6bMvytzWjJ3HGr9%2BP6Gs%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o78b8e501fb081e2ca3fab3e8104be205~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788642382&x-signature=zAwTLlczG3PJAIAFFv%2FhUSWZt%2B8%3D",
         "url": "https://fanqienovel.com/page/7543933469701721112"
       },
       {
         "title": "完美犯罪？在我的眼里全是破绽！",
         "author": "只抽半颗烟的老登",
-        "reads": "30.5万",
+        "reads": "31.4万",
         "intro": "【刑侦破案】【连环奇案】【烧脑推理】【快节奏】【弱系统】【单女主】 齐封，警校毕业后刚准备大展拳，却被师父死死按在省厅档案室。 本以为一身才华无处施展之时..... S市爆发大案！ 一段视频中凶手的细微动作！ 一根隐藏暗处的化纤布料！ 一辆沾着微量血迹的超市手推车！ 一个监控死角里，踩过水渍的半枚模糊鞋印。 齐封看着监控里凶手直视镜头的挑衅眼神，冷笑一声。 你想玩猫鼠游戏？抱歉，在我的眼睛里，你连一根毛都藏不住！ 已完结案件：《玩偶藏尸案》《杀人抛尸案》《连环仇杀案》《连环卧轨自杀案》《密室杀人案》《迷雾山庄连环案》《省城爆炸案》",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ob2ad4044481590f67c8837bfc642c33a~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788573384&x-signature=WOKG1qS7i4aoBuDKcpe56KAk%2FRw%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ob2ad4044481590f67c8837bfc642c33a~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788642382&x-signature=ItTT4oRLCN7k%2F7lvLbIqlBEfKkA%3D",
         "url": "https://fanqienovel.com/page/7637415246868515902"
       },
       {
         "title": "邪物典当铺：只收凶物",
         "author": "虫下月半",
-        "reads": "26.8万",
+        "reads": "26.5万",
         "intro": "【传统灵异+中式民俗+偏门买卖+邪物怪谈】无CP 这是一家古怪的当铺，专收具有特殊价值的阴邪之物！ 死人嘴里的压口钱，刽子手的刀、坟头菇、肉灵芝、昆仑胎......邪物可害人亦可助人！ 经当铺的手一当一卖，便能变邪为宝！ 升官发财、消灾解难、甚至逆天改命！ 事物没有好坏之分，永不满足的只有人心...... 某些深夜，这家当铺还许多诡异的客人光顾......",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oa2c14a9e3f17c79aa07a255784a11b65~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788573384&x-signature=cXu19jlYLuQQP2P7gkr06Rit%2Bvk%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oa2c14a9e3f17c79aa07a255784a11b65~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788642382&x-signature=oVLlA3hrL5C2UCQz0GC2NmNkIlU%3D",
         "url": "https://fanqienovel.com/page/7379164201303952409"
       },
       {
         "title": "尸生子，鬼抬棺",
         "author": "界玉",
-        "reads": "25万",
+        "reads": "24.7万",
         "intro": "古老偏僻的地方，总会发生许多诡异、恐怖的事情。 　　而这些事情，就发生在华九难身边。 　　甚至华九难就是这些事情的一部分。 　　比如，他是尸生子！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/a20fff6c8549be7167981d0c3595ba81~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788573384&x-signature=YgYBNtARCoa7whI3Gbu%2FOryDDEg%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/a20fff6c8549be7167981d0c3595ba81~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788642382&x-signature=93QoJxV%2F47lIbrXhrwyxqSEr64U%3D",
         "url": "https://fanqienovel.com/page/7024903102301998111"
       },
       {
         "title": "邪神墨然！",
         "author": "三风11",
-        "reads": "22.5万",
+        "reads": "22.3万",
         "intro": "午夜医院的断头鬼为何频频祈祷？ 荒芜山村的人皮鬼为何不断哀嚎？ 单身公寓的长发女鬼又为何半夜惨叫？ 这一切不是人性的扭曲，更不是道德的沦丧，而是……某人犯病了！ 身处恐怖复苏，厉鬼横行的时代，身穿病服的白渊淡然一笑，自语道： “该给厉鬼来点小小的精神病震撼了！”",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/fc34b99dacb5bb83a892650fc3e47b27~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788573384&x-signature=NaBvcEnByRV%2FqgAWdjzwXOYUkUk%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/fc34b99dacb5bb83a892650fc3e47b27~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788642382&x-signature=uaY%2BwYHNWbkPIZ%2BFs7ZOBByvbcw%3D",
         "url": "https://fanqienovel.com/page/7287479909398613032"
       },
       {
         "title": "分手后，我把前女友炼成僵尸！",
         "author": "因帅被罚破产",
-        "reads": "19.2万",
+        "reads": "18.9万",
         "intro": "《破案》、《鬼故事》、《民间传统》 苏云，先秦一脉阴阳家传人。 熟人介绍相亲，认识了女友。 分手后，苏云准备将其炼成僵尸。 就在第七天快炼制成功时，警花却破门而入，将苏云当杀人犯抓进警局。 苏云：“冤枉啊！我前女友可是空姐，肤白貌美大长腿，我哪里会杀她？” “是她自己自杀前，要求我将她炼成僵尸的！” 无论怎么解释，警花只相信科学。 苏云无奈：“要不我将证人请来解释？” “你的证人？” “没错，我前女友…” 苏云挥手作法，阴风吹过，前女友尸体睁开眼自己动了。 苏云：“现在信了吧？我真没有杀人！” 警花与一众警员麻了，看着墙上《科学办案》四个字陷入沉思。 苏云无罪释放！ 数天后，警花亲自找上门。 “苏先生，这里有个大案，还请您出手！” 苏云：我有的选吗？ 随后，医院太平间尸体蹦迪，吓尿一众医生。 在苏云出手下，一件又一件悬疑大案破解，警局领导大为震惊！ “碰上苏先生真是我们局子福气啊！” 苏云：“碰上你们，是老子晦气！” 数年后，一众外国邪教为非作歹，玄门无力支撑时。 苏云振臂一挥，带着被养成旱魃的前女友，横扫所有邪教… 噢！上帝，你看看他干了什么事！ 天！他竟把吸血鬼写上了食谱！ …",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o321a65b59a37140c4549e1a977acaca3~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788573384&x-signature=JyCjnvp8qmfG0CA5f78N1aLQFt0%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o321a65b59a37140c4549e1a977acaca3~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788642382&x-signature=adg7ArxB4%2FQew6cmZCp%2B2%2B%2FNXYw%3D",
         "url": "https://fanqienovel.com/page/7428990775863561241"
       },
       {
         "title": "请叫我鬼差大人",
         "author": "徐二家的猫",
-        "reads": "18.5万",
+        "reads": "18.2万",
         "intro": "永夜过后，恐怖复苏。 十里荒坟，诡异的歌声。 寻找双臂的老人，无头的婴儿... 他们不停的拼接着自己的身体，爆发出更恐怖的气息。 荒土中，一只断手，都可以毁天灭地。 在这种黑暗，绝望的环境下，一座若隐若现的邮局... 一名神秘的年轻人，一辆行驶于虚空的邮车... 一封又一封血红色的信件，成为了人们口中的禁忌... ————鬼差。 PS：无女主或者单女主（不要乱猜，至少不是周涵）",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o334dad984c08b620210723e1dc165054~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788573387&x-signature=cv%2BVTt1GZinId9zxCSXRdrnaeUk%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o334dad984c08b620210723e1dc165054~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788642386&x-signature=fPLenGDBtmLhPRE4u207YVsdC%2FI%3D",
         "url": "https://fanqienovel.com/page/6942441629332540423"
       },
       {
         "title": "法医：与死者同行",
         "author": "我不是曹魏",
-        "reads": "18.4万",
+        "reads": "18.1万",
         "intro": "刚毕业加入刑警队的法医沈明发现，他的眼睛总能看到一些别人难以注意到的细节。 在案发现场中的重要线索，在沈明的眼中总是闪着奇怪的红色边框。 那么问题来了，有框的情况下你打不打？ 我叫沈明，一个与死者同行的开挂法医。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/8d2fa64c7c6698d650b2b26f41f642f3~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788573387&x-signature=W4CGhtDe5dZr7PWmyD%2BB6Bpnqrc%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/8d2fa64c7c6698d650b2b26f41f642f3~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788642386&x-signature=d4CeNAvX%2Bae%2BDf9ZzJOGEHdg6vc%3D",
         "url": "https://fanqienovel.com/page/7589493688540089368"
       },
       {
         "title": "东北出马笔记",
         "author": "吴半仙",
-        "reads": "18万",
+        "reads": "18.1万",
         "intro": "一块红布三尺三，老堂人马老堂仙，有朝一日出深山，名扬四海万家传！ 八十年代，我出生在东北农村，七岁那年大仙说我命犯三灾八难，将来会出马顶香，我不信，却屡遭磨难。为了谋生，我当过服务员，跑过业务，开过出租……但命运就像施加了诅咒，我身边不断发生各种邪乎事，无奈之下，我成了一个出马仙。 （本文取材真实故事改编，相关人物、剧情皆为虚构，请勿盲目照进现实，谨防上当。）",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/3036e6c6c56335ce9ba395170e197d08~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788573387&x-signature=c1RijV4dVD2gWYpZr%2F8JOrQlO4A%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/3036e6c6c56335ce9ba395170e197d08~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788642386&x-signature=YtIlaCmAU1UDxxzBgVQRGHcxGRw%3D",
         "url": "https://fanqienovel.com/page/7101613458101111812"
       },
       {
         "title": "人在游神，见鬼起乩增损二将",
         "author": "仲夏将至",
-        "reads": "17.6万",
+        "reads": "17.9万",
         "intro": "【灵异+妈祖+民俗+游神+官将首+阴阳禁忌】 闽地人常说，上头不答应的事，妈祖答应就行了。 清明怀上，冬至出生的林海恩，天生阴阳命、通灵体，命数极重。 孤魂野鬼侵扰，纷纷想鸠占鹊巢，李桃代疆。 为求那一丝活命机会，稳婆奶奶带着刚出生的林海恩，来妈祖庙掷圣杯。 三次圣杯，妈祖庇佑，林海恩活了下来。 ...... 多年平安无事，直到新春游神。 穿着官将首服饰的林海恩，猛然见到人群中潜藏的恶鬼大黑佛母，霎时双眼变为竖瞳。 顶起日头香，脚踏三步赞，增损二将，只杀不渡。 摇头，起乩！！！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o6368038a123401e81b717ab42f7efa9a~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788573387&x-signature=au8XrswRy1yn7psmDKjv5qCoJlY%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o6368038a123401e81b717ab42f7efa9a~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788642386&x-signature=EVMdjA37IG4Urcjp%2F7FlcsbEyD8%3D",
         "url": "https://fanqienovel.com/page/7403577865482030142"
       },
       {
         "title": "美恐：我，人间真神",
         "author": "白黄白",
-        "reads": "16.6万",
+        "reads": "16.1万",
         "intro": "【风格偏轻松诙谐，不是那种严肃压抑的类型】 这是一个由美恐影视混杂融合的世界。 洛恩自浑浑噩噩中苏醒，面前是一台老式电视机，屏幕中央的木偶咧开嘴：“我想跟你们玩个游戏。” 平整的公路旁跑出了食人魔，露营的水晶湖爬出了杀人狂杰森，短暂歇脚的榆树街流传着弗莱迪的故事，寂静岭的灰烬飘到了纽约，地狱里七十二柱魔神蠢蠢欲动。 好消息是，他发现自己亲手杀死的怪物，其力量将化为己用。 杀了一只食人魔，他的力量超越了泰森；杀了一只狼人，他的嗅觉能追踪百里之外的血迹；杀了一只高阶恶魔，地狱在他面前关上了门。 起初，人间称呼他为猎食者，天堂视他为异类，地狱视他为死敌。 后来，他们意识到，这不是天使与恶魔的时代，这是猎食者的时代。 【目前已有：电锯惊魂、致命弯道、惊声尖叫、德州电锯杀人狂3D、十三号星期五、柜魔、鬼玩人、生化危机、沉默的羔羊、玉米田的孩子、镜中人、猛鬼街、黑夜传说、珍奇柜……持续更新中】",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2odddf48096d8d0d6ee458772ce86b440a~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788573387&x-signature=f8DE3OrDxwJ60FPR6f1F8N6gZjQ%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2odddf48096d8d0d6ee458772ce86b440a~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788642386&x-signature=bkZhVZyfu0EjucCc1tSKg%2BiY8Pc%3D",
         "url": "https://fanqienovel.com/page/7660178481057123353"
       },
       {
         "title": "破案微苦，我姐超甜",
         "author": "KISS云中",
-        "reads": "16万",
+        "reads": "14.9万",
         "intro": "林轩重生了。 没系统，没作弊器，没有金手指。 但老天爷给了他一个变态的身体。 命运的齿轮也在这一刻开始转动。 …… 木倾甜：姐夫，你有梦想吗？ 林轩：有，我想装逼。 木倾甜：…… 林轩：装逼是对尊严的渴望，是对现实的幻想，是对向往的权利，不装逼和咸鱼有什么区别……哎呀，媳妇儿你打我干嘛？ 木倾颜：粗鄙。 林轩：对哈，身为读书人，这特喵叫人前显圣。 木倾颜：…… 从此，林轩在推理破案的刑侦路上，越浪越远！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oee9ac5b7286af570e5f5c97473e0714a~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788573387&x-signature=0S3SuCVpWx1J3zgyi4KAa4TM9aw%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oee9ac5b7286af570e5f5c97473e0714a~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788642386&x-signature=hRbVIleM4DosQ1PVuZLRqtsOodM%3D",
         "url": "https://fanqienovel.com/page/7352020954081397822"
       },
       {
         "title": "诡异降神师：我的娃娃真能显灵",
         "author": "云会笑",
-        "reads": "15.2万",
+        "reads": "15.1万",
         "intro": "【书里有鬼！】【黑暗文风！】【反派人设！】【都市灵异！】【恐怖美学！】【开局无敌！】 诡异娃娃电锯分尸，红衣厉鬼机场索命，十里长街百鬼捉人，火葬场里死者复生，废弃医院群尸乱舞...... 以上都不是我的遭遇，而是我的作品。 我叫杨宁，灵门传人，职业降神师，专卖通灵娃娃，真能显灵的那种。 携满身厉鬼、百余红衣，我从地狱归来重返人间，为这个世界带来一场诡异盛宴。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o68f8e9036fbc227ea87b1fc4bc635736~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788573387&x-signature=ZF9qCo4yJVJiTQ3pc3aKIqygU7s%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o68f8e9036fbc227ea87b1fc4bc635736~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788642386&x-signature=qVeL%2FE9JdcTNVMiezZufXIfkyOQ%3D",
         "url": "https://fanqienovel.com/page/7231622035749735483"
       },
       {
         "title": "模拟犯罪十万次，我竟成王牌神探",
         "author": "初秋微寒",
-        "reads": "14.6万",
+        "reads": "14.4万",
         "intro": "【刑侦+犯罪+无敌+全能+硬核侦探】 能制造完美案件的凶手，定也是超级神探。 本该成为完美罪犯的苏铭，满分考入刑侦大队，选择走在打击罪犯第一线。 看遍万起卷宗，细读亿起案件。 所有犯罪在其眼中，如同小儿科般错漏百出，一个简单的细节漏洞都能直指罪犯！ 接连破获众人眼中的完美犯罪和多年悬案，清理盘踞的跨国犯罪组织。 当罪犯？不可能的！ 不如当个侦探缉凶，守护正义！！！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o7c1ad2733ad182d63d7428cff24fcca6~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788573387&x-signature=RT358b6hK8RaNJtSPoDC55WBtGU%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o7c1ad2733ad182d63d7428cff24fcca6~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788642386&x-signature=hz3MEhWvvfvfa7tRlfRKIVH3Hn4%3D",
         "url": "https://fanqienovel.com/page/7254152548817308731"
       },
       {
         "title": "北派散土往事",
         "author": "老三番茄酱",
-        "reads": "14.6万",
+        "reads": "15万",
         "intro": "【盗墓+鉴宝+江湖+日常】【盗墓违法，切勿以身试法！】 我是陆九峰，我没想过成名，我只想活命。接下来我要讲的，是我亲历的那段见不得光的日子。信不信由你，反正，这就是真实的江湖。（点烟）：进来之前先说好，江湖路远，进去了就没有回头路……",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oe22fd6491244f2138aa300001dbfe475~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788573387&x-signature=Xdrjj6SUhYtRH%2FVo07epyWc4%2FdQ%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oe22fd6491244f2138aa300001dbfe475~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788642386&x-signature=c%2FmSKyr%2FYRphzlZv2oAAn3SNBSQ%3D",
         "url": "https://fanqienovel.com/page/7640245321859075134"
       },
       {
         "title": "掐指一算，你是逃犯！",
         "author": "花红柳绿",
-        "reads": "14.3万",
+        "reads": "13.9万",
         "intro": "顶级天师苏尘穿越到90年代，成了同名的鳏夫。 妻子刚死，五个孩子嗷嗷待哺，找遍家里也只有十块钱。 苏尘果断拿着钱去了市里最热闹的春明街，找了报纸写上：算命，备注：不准不要钱。 “阿嫲，你女儿不是失踪，在你女婿家灶台里哦。” 一天后，翠城城郊一民屋灶台挖出死尸传遍街市。 “妹子，等会儿你男友给你的烟别抽。” 半小时后，街市口发生枪战，警车带走了穷凶极恶的毒贩。 “叔，你儿子跟你媳妇在大战呢，现在回去还能看现场。” 十分钟后，楼上赤裸的年轻男子一跃而下，慌忙想逃，被围住。 …… 有不信邪的男人去算命。 苏尘掐指一算：“你是逃犯！” 渐渐地，春明街上的人都知道，苏尘何止会算命？这后生仔牛着呢。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o928cc301cf6e7bbd60abcdaf03b46b63~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788573387&x-signature=0GnEKUZIiv49Vuvp%2FFN46Q4MbYE%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o928cc301cf6e7bbd60abcdaf03b46b63~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788642386&x-signature=s1DFnCrd3FewOK0HewisAfLH7CY%3D",
         "url": "https://fanqienovel.com/page/7300518925157010458"
       }
     ]
@@ -219,212 +194,187 @@
     {
       "name": "悬疑灵异",
       "trend": {
-        "new_count": 1,
-        "dropped_count": 1,
-        "new_books": [
-          "北派散土往事"
-        ],
-        "dropped_books": [
-          {
-            "title": "你一个交警，抢刑侦的案子合适吗",
-            "intro": "穿越平行世界，变成了一个警校毕业生。 徐麟接到分配单位的时候，一脸茫然。 他一个从刑侦专业全优满分毕业的准刑警，被分配到了交警队，这是几个意思？ 不让我干刑侦是吧？ 那好办，我交警也是可以抢刑侦的活儿"
-          }
-        ],
-        "top_risers": [
-          {
-            "title": "人在游神，见鬼起乩增损二将",
-            "change": "+1"
-          },
-          {
-            "title": "模拟犯罪十万次，我竟成王牌神探",
-            "change": "+1"
-          }
-        ],
-        "top_fallers": [
-          {
-            "title": "掐指一算，你是逃犯！",
-            "change": "-2"
-          },
-          {
-            "title": "美恐：我，人间真神",
-            "change": "-1"
-          }
-        ],
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
+        "top_risers": [],
+        "top_fallers": [],
         "reads_growth": [
           {
             "title": "完美犯罪？在我的眼里全是破绽！",
-            "growth": "+1.7万"
+            "growth": "+9000"
+          },
+          {
+            "title": "北派散土往事",
+            "growth": "+4000"
           },
           {
             "title": "人在游神，见鬼起乩增损二将",
-            "growth": "+5000"
-          },
-          {
-            "title": "东北出马笔记",
-            "growth": "+1000"
+            "growth": "+3000"
           }
         ],
-        "summary": "新增1本上榜；1本掉出（《你一个交警，抢刑侦的案子合适吗》）；《人在游神，见鬼起乩增损二将》排名上升+1位；《完美犯罪？在我的眼里全是破绽！》阅读量+1.7万。"
+        "summary": "《完美犯罪？在我的眼里全是破绽！》阅读量+9000。"
       },
       "books": [
         {
           "title": "我以狐仙镇百鬼",
           "author": "紫梦游龙",
-          "reads": "80.7万",
+          "reads": "80.4万",
           "intro": "我出生那天，在我家院子周围落下了十九道雷，有个算命先生说，我是天生妖胎，一生命犯十八劫，不是别人死就是我死，结果那算命先生在我出生第一天就应了我的劫，抱着我刚出了村口就突然暴毙！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/05cb5f60d9bea6c19a94f9a27a763ce7~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788573384&x-signature=q%2FSBuLNIF46UQ%2BLhN03xKhzYkXY%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/05cb5f60d9bea6c19a94f9a27a763ce7~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788642382&x-signature=2YNyes2qJi5h8rjXBIgWx%2BlzrfY%3D",
           "url": "https://fanqienovel.com/page/7087872099557051400"
         },
         {
           "title": "镇龙棺，阎王命",
           "author": "匪夷",
-          "reads": "46.1万",
+          "reads": "45.3万",
           "intro": "我被挑断筋脉，封棺活埋，可他们不知道，我是阎王命！ 【民俗恐怖，风水符咒，香火供奉】 风水相术，画皮招魂，走阴赶尸，痋术降头，纹阴刺符，悬丝傀儡，蜡封红门， 坟头岭上狗刨坑，河神庙里鬼吃席，五雷正法可破秽，胡黄白柳请道兵， 纸扎客不点活人，二皮匠炼缝皮针，苗疆养蛊，南洋养小鬼…",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o46897b9759abdb93d98b54fd9c1230bd~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788573384&x-signature=mSaSa8q5l8XYfI%2Bpa%2FjHmr2CIpU%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o46897b9759abdb93d98b54fd9c1230bd~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788642382&x-signature=LvQPjZPRp%2Bt9j9y7MGWyRVjyWMw%3D",
           "url": "https://fanqienovel.com/page/7287726057069743138"
         },
         {
           "title": "编外法医：重案组抢疯了！",
           "author": "Joye喵",
           "reads": "43.3万",
-          "intro": "预告一下，本剧无CP，在93章的时候，被各位大神读者给投没了，所以放心看吧 火化炉的门都开了。 温则鸣一把按住推车：\"这人是被杀的。\" 所有人都笑了——一个连编制都没有的法医助理。 三天后，凶手落网。 从此，城南分局的白板上，名字一个一个亮起来。 省厅要人，重案组抢人。 局长拍桌：这法医，谁也别想挖走！ 有带入系统是为了避免破积案造成对前辈的不敬，其实大家不要搭理系统，正常看文就行了",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ob27eaad982d0c0d97c5a28a7ae9b09a8~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788573384&x-signature=DCeNfy%2FPtCyUKSgo5tu0teMjbtc%3D",
+          "intro": "【无CP·刑侦·单元案】 上辈子他干了二十年法医，倒在最后一个案子上。 再次睁眼，读完临床医学，市局法医中心社会化用工，一个月四千八，没编制。 报到第一天，师父只给了他六个字：少说话，多看。 【关于CP】前期确实起过苗头。读者投票，投没了。作者服从民意，已经掐干净，往后不会再有感情线。全书单机，专心办案。",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ob27eaad982d0c0d97c5a28a7ae9b09a8~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788642382&x-signature=H6qjx0TMLY33skhcnVI450%2Fstx4%3D",
           "url": "https://fanqienovel.com/page/7644187755781573656"
         },
         {
           "title": "天师在此，奇门风水震天下",
           "author": "大茄子",
-          "reads": "37.5万",
+          "reads": "36.9万",
           "intro": "【奇门风水，民间秘术，咒术，邪术，巫术，奇门遁甲，九宫命格，牵羊憋宝，祝由术！】 俗话说，一名二运三风水，风水对人的影响非常大，如财运，身体，姻缘，家庭，都有着很大的影响。 如果一个人很勤劳，不怕吃苦，兜里却依然没有钱，不是他命运不好，就是家里风水有问题。 想不想改变命运，想不想暴富，想的话，就翻开第一页继续往下看……",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/769786ef7bf06064411cd2cb3fe921e7~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788573384&x-signature=d5awylFJoFoRa2sOtKK3JI2h81Y%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/769786ef7bf06064411cd2cb3fe921e7~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788642382&x-signature=yzFsGYfhjJx1O5y%2BRrTdxzx%2FNMM%3D",
           "url": "https://fanqienovel.com/page/7166580408522378292"
         },
         {
           "title": "校花尸变咋办？不怕！我专业对口",
           "author": "后端工程师",
-          "reads": "33万",
+          "reads": "32.8万",
           "intro": "【灵异+恐怖+都市传说+鬼故事+无敌+单女主】 校花同桌上课尸变怎么办？ 多半是装的，亲一顿就好了。 嗯？不是装的？？？ ...... 陆九阳很懵。 上一秒他还是鏖战亿万鬼潮、以身封魔的茅山末代天师， 下一秒竟重生成了一个普通高一学生。 这个世界科技发达，岁月静好，鬼怪只存在于传说之中。 就连茅山，都成了网红打卡的风景区。 累了，乏了，卷不动了。 上一世战斗了几十年想要创造的世界就摆在眼前。 这一世，他只想摆烂，算算命，过上平凡且枯燥的生活。 直到绝美校花泪眼婆娑地拉住他： “陆同学，我好像…被我太爷爷抓伤…” “太爷爷？” “嗯，死了一百年的太爷爷。” 陆九阳：“？？？” 望着眼前尸毒攻心的校花，陆九阳叹了口气。 单手结印！虚空画符！ “业务生疏了，不过…问题不大。” “专业对口，我超强的！” 可谁能想到，校花尸变只是开始。 山城红衣女孩夜夜敲门。 空难录音中传来非人低语。 消失十年的一路公交车再度启程。 百年高校凌晨歌唱的白衣老师。 无数都市传闻变为现实！ “不对啊？这世界不是没鬼吗？！” “就我一个道士怎么扛？？？” “既然如此......” “开坛做法，符咒拉满，物理超度，全都扬了！”",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o78b8e501fb081e2ca3fab3e8104be205~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788573384&x-signature=%2BfB4enK6bMvytzWjJ3HGr9%2BP6Gs%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o78b8e501fb081e2ca3fab3e8104be205~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788642382&x-signature=zAwTLlczG3PJAIAFFv%2FhUSWZt%2B8%3D",
           "url": "https://fanqienovel.com/page/7543933469701721112"
         },
         {
           "title": "完美犯罪？在我的眼里全是破绽！",
           "author": "只抽半颗烟的老登",
-          "reads": "30.5万",
+          "reads": "31.4万",
           "intro": "【刑侦破案】【连环奇案】【烧脑推理】【快节奏】【弱系统】【单女主】 齐封，警校毕业后刚准备大展拳，却被师父死死按在省厅档案室。 本以为一身才华无处施展之时..... S市爆发大案！ 一段视频中凶手的细微动作！ 一根隐藏暗处的化纤布料！ 一辆沾着微量血迹的超市手推车！ 一个监控死角里，踩过水渍的半枚模糊鞋印。 齐封看着监控里凶手直视镜头的挑衅眼神，冷笑一声。 你想玩猫鼠游戏？抱歉，在我的眼睛里，你连一根毛都藏不住！ 已完结案件：《玩偶藏尸案》《杀人抛尸案》《连环仇杀案》《连环卧轨自杀案》《密室杀人案》《迷雾山庄连环案》《省城爆炸案》",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ob2ad4044481590f67c8837bfc642c33a~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788573384&x-signature=WOKG1qS7i4aoBuDKcpe56KAk%2FRw%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ob2ad4044481590f67c8837bfc642c33a~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788642382&x-signature=ItTT4oRLCN7k%2F7lvLbIqlBEfKkA%3D",
           "url": "https://fanqienovel.com/page/7637415246868515902"
         },
         {
           "title": "邪物典当铺：只收凶物",
           "author": "虫下月半",
-          "reads": "26.8万",
+          "reads": "26.5万",
           "intro": "【传统灵异+中式民俗+偏门买卖+邪物怪谈】无CP 这是一家古怪的当铺，专收具有特殊价值的阴邪之物！ 死人嘴里的压口钱，刽子手的刀、坟头菇、肉灵芝、昆仑胎......邪物可害人亦可助人！ 经当铺的手一当一卖，便能变邪为宝！ 升官发财、消灾解难、甚至逆天改命！ 事物没有好坏之分，永不满足的只有人心...... 某些深夜，这家当铺还许多诡异的客人光顾......",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oa2c14a9e3f17c79aa07a255784a11b65~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788573384&x-signature=cXu19jlYLuQQP2P7gkr06Rit%2Bvk%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oa2c14a9e3f17c79aa07a255784a11b65~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788642382&x-signature=oVLlA3hrL5C2UCQz0GC2NmNkIlU%3D",
           "url": "https://fanqienovel.com/page/7379164201303952409"
         },
         {
           "title": "尸生子，鬼抬棺",
           "author": "界玉",
-          "reads": "25万",
+          "reads": "24.7万",
           "intro": "古老偏僻的地方，总会发生许多诡异、恐怖的事情。 　　而这些事情，就发生在华九难身边。 　　甚至华九难就是这些事情的一部分。 　　比如，他是尸生子！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/a20fff6c8549be7167981d0c3595ba81~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788573384&x-signature=YgYBNtARCoa7whI3Gbu%2FOryDDEg%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/a20fff6c8549be7167981d0c3595ba81~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788642382&x-signature=93QoJxV%2F47lIbrXhrwyxqSEr64U%3D",
           "url": "https://fanqienovel.com/page/7024903102301998111"
         },
         {
           "title": "邪神墨然！",
           "author": "三风11",
-          "reads": "22.5万",
+          "reads": "22.3万",
           "intro": "午夜医院的断头鬼为何频频祈祷？ 荒芜山村的人皮鬼为何不断哀嚎？ 单身公寓的长发女鬼又为何半夜惨叫？ 这一切不是人性的扭曲，更不是道德的沦丧，而是……某人犯病了！ 身处恐怖复苏，厉鬼横行的时代，身穿病服的白渊淡然一笑，自语道： “该给厉鬼来点小小的精神病震撼了！”",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/fc34b99dacb5bb83a892650fc3e47b27~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788573384&x-signature=NaBvcEnByRV%2FqgAWdjzwXOYUkUk%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/fc34b99dacb5bb83a892650fc3e47b27~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788642382&x-signature=uaY%2BwYHNWbkPIZ%2BFs7ZOBByvbcw%3D",
           "url": "https://fanqienovel.com/page/7287479909398613032"
         },
         {
           "title": "分手后，我把前女友炼成僵尸！",
           "author": "因帅被罚破产",
-          "reads": "19.2万",
+          "reads": "18.9万",
           "intro": "《破案》、《鬼故事》、《民间传统》 苏云，先秦一脉阴阳家传人。 熟人介绍相亲，认识了女友。 分手后，苏云准备将其炼成僵尸。 就在第七天快炼制成功时，警花却破门而入，将苏云当杀人犯抓进警局。 苏云：“冤枉啊！我前女友可是空姐，肤白貌美大长腿，我哪里会杀她？” “是她自己自杀前，要求我将她炼成僵尸的！” 无论怎么解释，警花只相信科学。 苏云无奈：“要不我将证人请来解释？” “你的证人？” “没错，我前女友…” 苏云挥手作法，阴风吹过，前女友尸体睁开眼自己动了。 苏云：“现在信了吧？我真没有杀人！” 警花与一众警员麻了，看着墙上《科学办案》四个字陷入沉思。 苏云无罪释放！ 数天后，警花亲自找上门。 “苏先生，这里有个大案，还请您出手！” 苏云：我有的选吗？ 随后，医院太平间尸体蹦迪，吓尿一众医生。 在苏云出手下，一件又一件悬疑大案破解，警局领导大为震惊！ “碰上苏先生真是我们局子福气啊！” 苏云：“碰上你们，是老子晦气！” 数年后，一众外国邪教为非作歹，玄门无力支撑时。 苏云振臂一挥，带着被养成旱魃的前女友，横扫所有邪教… 噢！上帝，你看看他干了什么事！ 天！他竟把吸血鬼写上了食谱！ …",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o321a65b59a37140c4549e1a977acaca3~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788573384&x-signature=JyCjnvp8qmfG0CA5f78N1aLQFt0%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o321a65b59a37140c4549e1a977acaca3~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788642382&x-signature=adg7ArxB4%2FQew6cmZCp%2B2%2B%2FNXYw%3D",
           "url": "https://fanqienovel.com/page/7428990775863561241"
         },
         {
           "title": "请叫我鬼差大人",
           "author": "徐二家的猫",
-          "reads": "18.5万",
+          "reads": "18.2万",
           "intro": "永夜过后，恐怖复苏。 十里荒坟，诡异的歌声。 寻找双臂的老人，无头的婴儿... 他们不停的拼接着自己的身体，爆发出更恐怖的气息。 荒土中，一只断手，都可以毁天灭地。 在这种黑暗，绝望的环境下，一座若隐若现的邮局... 一名神秘的年轻人，一辆行驶于虚空的邮车... 一封又一封血红色的信件，成为了人们口中的禁忌... ————鬼差。 PS：无女主或者单女主（不要乱猜，至少不是周涵）",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o334dad984c08b620210723e1dc165054~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788573387&x-signature=cv%2BVTt1GZinId9zxCSXRdrnaeUk%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o334dad984c08b620210723e1dc165054~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788642386&x-signature=fPLenGDBtmLhPRE4u207YVsdC%2FI%3D",
           "url": "https://fanqienovel.com/page/6942441629332540423"
         },
         {
           "title": "法医：与死者同行",
           "author": "我不是曹魏",
-          "reads": "18.4万",
+          "reads": "18.1万",
           "intro": "刚毕业加入刑警队的法医沈明发现，他的眼睛总能看到一些别人难以注意到的细节。 在案发现场中的重要线索，在沈明的眼中总是闪着奇怪的红色边框。 那么问题来了，有框的情况下你打不打？ 我叫沈明，一个与死者同行的开挂法医。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/8d2fa64c7c6698d650b2b26f41f642f3~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788573387&x-signature=W4CGhtDe5dZr7PWmyD%2BB6Bpnqrc%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/8d2fa64c7c6698d650b2b26f41f642f3~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788642386&x-signature=d4CeNAvX%2Bae%2BDf9ZzJOGEHdg6vc%3D",
           "url": "https://fanqienovel.com/page/7589493688540089368"
         },
         {
           "title": "东北出马笔记",
           "author": "吴半仙",
-          "reads": "18万",
+          "reads": "18.1万",
           "intro": "一块红布三尺三，老堂人马老堂仙，有朝一日出深山，名扬四海万家传！ 八十年代，我出生在东北农村，七岁那年大仙说我命犯三灾八难，将来会出马顶香，我不信，却屡遭磨难。为了谋生，我当过服务员，跑过业务，开过出租……但命运就像施加了诅咒，我身边不断发生各种邪乎事，无奈之下，我成了一个出马仙。 （本文取材真实故事改编，相关人物、剧情皆为虚构，请勿盲目照进现实，谨防上当。）",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/3036e6c6c56335ce9ba395170e197d08~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788573387&x-signature=c1RijV4dVD2gWYpZr%2F8JOrQlO4A%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/3036e6c6c56335ce9ba395170e197d08~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788642386&x-signature=YtIlaCmAU1UDxxzBgVQRGHcxGRw%3D",
           "url": "https://fanqienovel.com/page/7101613458101111812"
         },
         {
           "title": "人在游神，见鬼起乩增损二将",
           "author": "仲夏将至",
-          "reads": "17.6万",
+          "reads": "17.9万",
           "intro": "【灵异+妈祖+民俗+游神+官将首+阴阳禁忌】 闽地人常说，上头不答应的事，妈祖答应就行了。 清明怀上，冬至出生的林海恩，天生阴阳命、通灵体，命数极重。 孤魂野鬼侵扰，纷纷想鸠占鹊巢，李桃代疆。 为求那一丝活命机会，稳婆奶奶带着刚出生的林海恩，来妈祖庙掷圣杯。 三次圣杯，妈祖庇佑，林海恩活了下来。 ...... 多年平安无事，直到新春游神。 穿着官将首服饰的林海恩，猛然见到人群中潜藏的恶鬼大黑佛母，霎时双眼变为竖瞳。 顶起日头香，脚踏三步赞，增损二将，只杀不渡。 摇头，起乩！！！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o6368038a123401e81b717ab42f7efa9a~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788573387&x-signature=au8XrswRy1yn7psmDKjv5qCoJlY%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o6368038a123401e81b717ab42f7efa9a~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788642386&x-signature=EVMdjA37IG4Urcjp%2F7FlcsbEyD8%3D",
           "url": "https://fanqienovel.com/page/7403577865482030142"
         },
         {
           "title": "美恐：我，人间真神",
           "author": "白黄白",
-          "reads": "16.6万",
+          "reads": "16.1万",
           "intro": "【风格偏轻松诙谐，不是那种严肃压抑的类型】 这是一个由美恐影视混杂融合的世界。 洛恩自浑浑噩噩中苏醒，面前是一台老式电视机，屏幕中央的木偶咧开嘴：“我想跟你们玩个游戏。” 平整的公路旁跑出了食人魔，露营的水晶湖爬出了杀人狂杰森，短暂歇脚的榆树街流传着弗莱迪的故事，寂静岭的灰烬飘到了纽约，地狱里七十二柱魔神蠢蠢欲动。 好消息是，他发现自己亲手杀死的怪物，其力量将化为己用。 杀了一只食人魔，他的力量超越了泰森；杀了一只狼人，他的嗅觉能追踪百里之外的血迹；杀了一只高阶恶魔，地狱在他面前关上了门。 起初，人间称呼他为猎食者，天堂视他为异类，地狱视他为死敌。 后来，他们意识到，这不是天使与恶魔的时代，这是猎食者的时代。 【目前已有：电锯惊魂、致命弯道、惊声尖叫、德州电锯杀人狂3D、十三号星期五、柜魔、鬼玩人、生化危机、沉默的羔羊、玉米田的孩子、镜中人、猛鬼街、黑夜传说、珍奇柜……持续更新中】",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2odddf48096d8d0d6ee458772ce86b440a~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788573387&x-signature=f8DE3OrDxwJ60FPR6f1F8N6gZjQ%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2odddf48096d8d0d6ee458772ce86b440a~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788642386&x-signature=bkZhVZyfu0EjucCc1tSKg%2BiY8Pc%3D",
           "url": "https://fanqienovel.com/page/7660178481057123353"
         },
         {
           "title": "破案微苦，我姐超甜",
           "author": "KISS云中",
-          "reads": "16万",
+          "reads": "14.9万",
           "intro": "林轩重生了。 没系统，没作弊器，没有金手指。 但老天爷给了他一个变态的身体。 命运的齿轮也在这一刻开始转动。 …… 木倾甜：姐夫，你有梦想吗？ 林轩：有，我想装逼。 木倾甜：…… 林轩：装逼是对尊严的渴望，是对现实的幻想，是对向往的权利，不装逼和咸鱼有什么区别……哎呀，媳妇儿你打我干嘛？ 木倾颜：粗鄙。 林轩：对哈，身为读书人，这特喵叫人前显圣。 木倾颜：…… 从此，林轩在推理破案的刑侦路上，越浪越远！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oee9ac5b7286af570e5f5c97473e0714a~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788573387&x-signature=0S3SuCVpWx1J3zgyi4KAa4TM9aw%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oee9ac5b7286af570e5f5c97473e0714a~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788642386&x-signature=hRbVIleM4DosQ1PVuZLRqtsOodM%3D",
           "url": "https://fanqienovel.com/page/7352020954081397822"
         },
         {
           "title": "诡异降神师：我的娃娃真能显灵",
           "author": "云会笑",
-          "reads": "15.2万",
+          "reads": "15.1万",
           "intro": "【书里有鬼！】【黑暗文风！】【反派人设！】【都市灵异！】【恐怖美学！】【开局无敌！】 诡异娃娃电锯分尸，红衣厉鬼机场索命，十里长街百鬼捉人，火葬场里死者复生，废弃医院群尸乱舞...... 以上都不是我的遭遇，而是我的作品。 我叫杨宁，灵门传人，职业降神师，专卖通灵娃娃，真能显灵的那种。 携满身厉鬼、百余红衣，我从地狱归来重返人间，为这个世界带来一场诡异盛宴。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o68f8e9036fbc227ea87b1fc4bc635736~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788573387&x-signature=ZF9qCo4yJVJiTQ3pc3aKIqygU7s%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o68f8e9036fbc227ea87b1fc4bc635736~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788642386&x-signature=qVeL%2FE9JdcTNVMiezZufXIfkyOQ%3D",
           "url": "https://fanqienovel.com/page/7231622035749735483"
         },
         {
           "title": "模拟犯罪十万次，我竟成王牌神探",
           "author": "初秋微寒",
-          "reads": "14.6万",
+          "reads": "14.4万",
           "intro": "【刑侦+犯罪+无敌+全能+硬核侦探】 能制造完美案件的凶手，定也是超级神探。 本该成为完美罪犯的苏铭，满分考入刑侦大队，选择走在打击罪犯第一线。 看遍万起卷宗，细读亿起案件。 所有犯罪在其眼中，如同小儿科般错漏百出，一个简单的细节漏洞都能直指罪犯！ 接连破获众人眼中的完美犯罪和多年悬案，清理盘踞的跨国犯罪组织。 当罪犯？不可能的！ 不如当个侦探缉凶，守护正义！！！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o7c1ad2733ad182d63d7428cff24fcca6~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788573387&x-signature=RT358b6hK8RaNJtSPoDC55WBtGU%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o7c1ad2733ad182d63d7428cff24fcca6~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788642386&x-signature=hz3MEhWvvfvfa7tRlfRKIVH3Hn4%3D",
           "url": "https://fanqienovel.com/page/7254152548817308731"
         },
         {
           "title": "北派散土往事",
           "author": "老三番茄酱",
-          "reads": "14.6万",
+          "reads": "15万",
           "intro": "【盗墓+鉴宝+江湖+日常】【盗墓违法，切勿以身试法！】 我是陆九峰，我没想过成名，我只想活命。接下来我要讲的，是我亲历的那段见不得光的日子。信不信由你，反正，这就是真实的江湖。（点烟）：进来之前先说好，江湖路远，进去了就没有回头路……",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oe22fd6491244f2138aa300001dbfe475~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788573387&x-signature=Xdrjj6SUhYtRH%2FVo07epyWc4%2FdQ%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oe22fd6491244f2138aa300001dbfe475~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788642386&x-signature=c%2FmSKyr%2FYRphzlZv2oAAn3SNBSQ%3D",
           "url": "https://fanqienovel.com/page/7640245321859075134"
         },
         {
           "title": "掐指一算，你是逃犯！",
           "author": "花红柳绿",
-          "reads": "14.3万",
+          "reads": "13.9万",
           "intro": "顶级天师苏尘穿越到90年代，成了同名的鳏夫。 妻子刚死，五个孩子嗷嗷待哺，找遍家里也只有十块钱。 苏尘果断拿着钱去了市里最热闹的春明街，找了报纸写上：算命，备注：不准不要钱。 “阿嫲，你女儿不是失踪，在你女婿家灶台里哦。” 一天后，翠城城郊一民屋灶台挖出死尸传遍街市。 “妹子，等会儿你男友给你的烟别抽。” 半小时后，街市口发生枪战，警车带走了穷凶极恶的毒贩。 “叔，你儿子跟你媳妇在大战呢，现在回去还能看现场。” 十分钟后，楼上赤裸的年轻男子一跃而下，慌忙想逃，被围住。 …… 有不信邪的男人去算命。 苏尘掐指一算：“你是逃犯！” 渐渐地，春明街上的人都知道，苏尘何止会算命？这后生仔牛着呢。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o928cc301cf6e7bbd60abcdaf03b46b63~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788573387&x-signature=0GnEKUZIiv49Vuvp%2FFN46Q4MbYE%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o928cc301cf6e7bbd60abcdaf03b46b63~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788642386&x-signature=s1DFnCrd3FewOK0HewisAfLH7CY%3D",
           "url": "https://fanqienovel.com/page/7300518925157010458"
         }
       ]
