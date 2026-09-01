@@ -1,52 +1,44 @@
 {
   "type": "抗战谍战",
-  "date": "2026-09-01",
-  "prev_date": "2026-08-31",
+  "date": "2026-09-02",
+  "prev_date": "2026-09-01",
   "category": {
     "name": "抗战谍战",
     "trend": {
       "new_count": 2,
       "dropped_count": 2,
       "new_books": [
-        "少帅夺我家业，我在东北拥兵百万",
-        "谍战：人在军统，手下全是穿越者"
+        "1936：一只乌鸦的谍战岁月",
+        "军阀：孙家弃子，民国第一巴图鲁"
       ],
       "dropped_books": [
         {
-          "title": "谍战杀神：暗鸦所至皆地狱",
-          "intro": "1940年代，暗流涌动的谍海之中，林轩横空出世。 作为军统最神秘、最致命的“暗鸦杀手组”新任组长，他行事毫无底线，杀伐果断，闻风丧胆的“活阎王”。 面对76号和特高课的天罗地网，他不按常理出牌，放弃常"
+          "title": "抗战：开局十个装甲师，横推列强",
+          "intro": "李浩开局穿越抗战时期的平行世界，觉醒系统获得十个满编装甲师。 KV-1重型坦克，T-34坦克，T-26喷火坦克，装甲集群暴揍小鬼子。 步兵？不好意思，哥们儿只有装甲师。 步坦协同那都是火力不足才用的，"
         },
         {
-          "title": "抗战：从冒牌货到大元帅",
-          "intro": "【抗日救国】＋【冒牌货】＋【猥琐发育】＋【后期高燃】 松沪血战中，吴青和四个狐朋狗友侥幸活了下来。 半路上，他们捡到了一件军官大衣，大胆的想法油然而生： 当逃兵也是死，不如当个冒牌货，苟下去！！ 在一"
+          "title": "孤兵1938",
+          "intro": "负责阻击的680团1营即将被日寇包围，不能都为了死而死，团长选择了勤务兵石头，以去给旅长送信为由，让石头离开了阵地。主力已提前撤退，并根据敌情改变行军方向。夜幕中，石头迷失方向，成为散落在敌后的孤兵—"
         }
       ],
       "top_risers": [
         {
+          "title": "我俾斯麦，从近卫军团到重建帝国",
+          "change": "+4"
+        },
+        {
+          "title": "抗战：我狙击能力超强",
+          "change": "+3"
+        },
+        {
           "title": "穿越从南洋开始崛起",
-          "change": "+6"
-        },
-        {
-          "title": "四合院：刘海中弟弟，下属李云龙",
           "change": "+2"
-        },
-        {
-          "title": "穿越成国公，咋就是封建余孽了？",
-          "change": "+1"
         }
       ],
       "top_fallers": [
         {
-          "title": "你管这叫警察？重炮都架租界口了",
-          "change": "-1"
-        },
-        {
-          "title": "四合院：李云龙上司，傻柱亲叔叔",
-          "change": "-1"
-        },
-        {
           "title": "天幕：开局放二战但是虚构史学",
-          "change": "-1"
+          "change": "-6"
         }
       ],
       "reads_growth": [
@@ -55,151 +47,135 @@
           "growth": "+1.4万"
         },
         {
-          "title": "抗战：鬼子翻译？不，我代号财神",
-          "growth": "+1.1万"
+          "title": "谍战：人在军统，手下全是穿越者",
+          "growth": "+8000"
         },
         {
-          "title": "抗战：我狙击能力超强",
-          "growth": "+9000"
+          "title": "你管这叫警察？重炮都架租界口了",
+          "growth": "+7000"
         }
       ],
-      "summary": "新增2本上榜；2本掉出（《谍战杀神：暗鸦所至皆地狱》、《抗战：从冒牌货到大元帅》）；《穿越从南洋开始崛起》排名上升+6位；《穿越成国公，咋就是封建余孽了？》阅读量+1.4万。"
+      "summary": "新增2本上榜；2本掉出（《抗战：开局十个装甲师，横推列强》、《孤兵1938》）；《我俾斯麦，从近卫军团到重建帝国》排名上升+4位；《穿越成国公，咋就是封建余孽了？》阅读量+1.4万。"
     },
     "books": [
       {
         "title": "别人穿四合院，我为啥上战场",
         "author": "中兵",
-        "reads": "51.2万",
+        "reads": "49.1万",
         "intro": "外企投行打工的陈浩因飞机失事穿越到1951年138军一个小兵陈三狗身上，别人过来都是进四合院，而他却面临着最残酷的朝鲜战场。获得卫国争光系统的他懵懵懂懂的踏上战场，一个普通现代人到这个赤红年代成为合格战士的故事。本书不会有太多的胡同里的家长里短，也没有狂怼打脸众禽的情节，他缺钱，从国外弄，他喜欢古董，从国外抢，一个现代人既然来到这个年代，不做出点为国为民的事迹岂不白来一趟？",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/ai/p2o0f9b9bdb2875d2dfbcd966875da06316~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788822080&x-signature=zAL%2B5A8rh8i%2B6Vgu4e%2Bl3k80pFQ%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/ai/p2o0f9b9bdb2875d2dfbcd966875da06316~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788901978&x-signature=vNIiDpo3NOWEA7DEuZpjV5AuJcI%3D",
         "url": "https://fanqienovel.com/page/7665606419873287192"
       },
       {
         "title": "穿越成国公，咋就是封建余孽了？",
         "author": "思函麟玉",
-        "reads": "20.8万",
+        "reads": "22.2万",
         "intro": "本书不是圣母文，圣母者勿要进来乱数据和吾等道心！！！ 苏立穿越了，享受到了，上辈子做梦也不敢想的骄奢淫欲的生活，他暗暗发誓，谁也不能，破坏这天上掉下来的馅饼，谁破坏，他干死谁！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o6c1aff5c14ae237df2f37a6a6319c2cf~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788822080&x-signature=RG%2Bl8fmt%2FM2a0%2FKHRzLPiGpPEoA%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o6c1aff5c14ae237df2f37a6a6319c2cf~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788901978&x-signature=omQu6Okb51fyL5G1h%2FhAUIHttnY%3D",
         "url": "https://fanqienovel.com/page/7667113325930499096"
       },
       {
         "title": "你管这叫警察？重炮都架租界口了",
         "author": "吾叹逍遥",
-        "reads": "18.2万",
+        "reads": "18.9万",
         "intro": "1931年的上海滩，租界林立，帮派横行。 　　斧头帮、青帮、洪帮只手遮天，洋人大班颐指气使，倭国浪人当街杀人无人敢管。 李少泽穿越而来，在码头扛了一年苦力，终于激活了系统。 　　开局就任警察分局长，麾下一百荷枪实弹的精锐警员，只是这系统商店里的装备似乎有点不对劲。重炮坦克、武装直升机，甚至还有航空母舰？ 　别的警察不敢抓的人，他抓。别的局不敢管的事，他管。别人管得了的，他更得管！ 　　洋人巡捕房抗议？重炮架在租界门口，看谁还敢吭声。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o0bc5b33ea940a83352a66f30b81d08a0~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788822080&x-signature=GB73f1fmynl4o0QiEFuVzx8kpLQ%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o0bc5b33ea940a83352a66f30b81d08a0~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788901978&x-signature=NYnYpfZ2bwOrJcEcM1WAlgS3XSA%3D",
         "url": "https://fanqienovel.com/page/7666114972983757849"
       },
       {
         "title": "民国：张家逆子，我才是东北王",
         "author": "喜欢丽鱼的青莲妖火",
-        "reads": "14.9万",
+        "reads": "13.7万",
         "intro": "重生奉系军阀之子，张学铭发誓，不让前世悲剧发生，东北两千多万同胞的苦难不再重演！ 张学铭：“大哥，这辈子我不会再让你被囚禁几十年！”",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o0103095dcbb023e6314f365d191b2d58~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788822080&x-signature=UW0wrEBqh%2B2%2BwzOO6qy9LLcGc4I%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o0103095dcbb023e6314f365d191b2d58~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788901978&x-signature=mdASBxxXt%2BGGnWDfbGEkgQ%2B4p1w%3D",
         "url": "https://fanqienovel.com/page/7664596398326680638"
       },
       {
         "title": "要当总统了，你跟我说系统来了？",
         "author": "网文小咖",
-        "reads": "12.5万",
+        "reads": "11.4万",
         "intro": "一觉醒来，成为了20军少军长。 1949年末，历史的洪流无可阻挡，被派往南洋支援的20军少军长杨瑞，磨刀霍霍向南洋，既然回不去了，那就不回了。 杨瑞表示，没有人比我更懂建国。 建国前期的准备？ 高筑墙，缓称王，广积粮，只是没有人告诉我，建国当总统后，系统才会觉醒？ 无妨。 锦上添花，近程变远程，远程变全球覆盖，也不错。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2of9bd1595887a92c99742f902c4cb7387~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788822080&x-signature=zVirnuYtQ6pkMzmf3jqDyWP39J8%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2of9bd1595887a92c99742f902c4cb7387~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788901978&x-signature=BhrV9lCxuPqwEnTGhRynGSXbDc4%3D",
         "url": "https://fanqienovel.com/page/7670125518770949182"
       },
       {
         "title": "抗战：这个系统不正经",
         "author": "浪哥划船不用桨",
-        "reads": "10.7万",
+        "reads": "10.3万",
         "intro": "（多女主）介意者误入+（杀伐果断）+(生存)。1941年王守义穿越到中条山战场为了一句诺言，千里回北平，开启一段波澜壮阔的人生。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ofe53780709b8885239633bc1743dc73f~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788822080&x-signature=K24iYXsn2l9dmWZyHkFDYF5OXfg%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ofe53780709b8885239633bc1743dc73f~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788901978&x-signature=HRG2bk7Qay6IMpZrQO9Mo%2B%2Fbu5A%3D",
         "url": "https://fanqienovel.com/page/7663394963933105214"
       },
       {
         "title": "抗战：鬼子翻译？不，我代号财神",
         "author": "三十而立的男人",
-        "reads": "9.8万",
+        "reads": "10.5万",
         "intro": "1941年，六月份的晋省。 清醒过来的楚峰，发现自己竟然成为榆次县日军梅川少佐的翻译官。 “什么？我成鬼子翻译官？当汉奸了？！！！” 楚峰人都傻了！ “我一个根正苗红的五好青年，让我当汉奸？” 就在他准备揭竿而起，干一票大的的时候，原身体的记忆让他瞬间乖巧如哈士奇！ “代号财神？” “哦，我不是汉奸，而是情报人员！” “那没事了！” 这时，神坑财神系统激活！ 只要坑惨日伪军，就能获得奖励。 不限于虚报损耗、截留军粮、挪用军火、做烂账面、克扣军饷、中饱私囊等一系列神坑操作。 日伪军越惨，系统评分越高，奖励越丰厚！ 看着系统的能力，楚峰眼睛亮了。 “叮咚！恭喜宿主收到伪军李团长的10根小黄鱼的孝敬，获得F级奖励：僵尸猪肉罐头*300罐！” “叮咚！恭喜宿主利用巴豆粉，让日伪军拉虚脱了，并里应外合，坑死1500名日伪军，获得S级奖励：120毫米迫击炮*10套！（每套包括1门炮，500发炮弹！）” 当楚峰开始发力，鬼子和伪军先疯了！ “不是，八路军顿顿吃肉，我们吃糠咽菜，这对吗？” “八嘎！八路怎么对我们了如指掌，不对，有间谍！” 八路军笑了！ 司令员：“啥？财神同志又给咱们送回一条火炮生产线？”",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o828bad3e08a03333cccfd780c5c51224~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788822080&x-signature=RibcmNQfi2mrNN63zHyZITN2jLU%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o828bad3e08a03333cccfd780c5c51224~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788901978&x-signature=7Thnpy%2FDo45RaOO1%2FKq2vfchWQw%3D",
         "url": "https://fanqienovel.com/page/7667879900103068696"
       },
       {
         "title": "四合院：李云龙上司，傻柱亲叔叔",
         "author": "一心人",
-        "reads": "8.4万",
+        "reads": "8.3万",
         "intro": "穿越1934的红色年代，九岁的何大明顺走家里一根金条，毅然参加革命。 重生就是他最大金手指，作为何大清的亲弟弟，他却走出了截然不同的人生！ 长征，抗日，解放··· 二十四岁的他，成为三野最年轻军长，李云龙上级！ 15年后，他重回四合院，见到了自己的哥哥何大清，侄子何雨柱，侄女何雨水。 也见到了四合院中的众禽····",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ofbfaa628cff6125c5aab1e076721c6b5~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788822080&x-signature=Pgrm9RVAS%2BwSxeXMCapcSP76GKc%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ofbfaa628cff6125c5aab1e076721c6b5~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788901978&x-signature=4aBc6UNaId3WRphI9AKs1wijx68%3D",
         "url": "https://fanqienovel.com/page/7669043019315678232"
       },
       {
         "title": "亮剑：李云龙十四岁入黄埔一期",
         "author": "楚云飞在此",
-        "reads": "6.9万",
+        "reads": "6.8万",
         "intro": "[亮剑+黄埔+无系统+军阀混战+二战+手搓+楚总长] 国科大李幼彬穿越到一九二四年的李云龙 开局竟然要去拉帮套，不行，我要入黄埔一期，和驴长当校友，从黄埔一期到分兵、过草地、抗日再到对越自卫反击战。 用一腔热血守护华夏家园 用战功，铸就无上荣光 …… 精彩的故事都会铺垫，更多理性思考，而非纯无脑爽。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o43bcaade82853dc50f827cc3579324a4~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788822080&x-signature=NptBmVuITNzNu9KKR%2FOUYK9CWQo%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o43bcaade82853dc50f827cc3579324a4~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788901978&x-signature=qHeiRDMrjM94z842QdoiK8UZIhw%3D",
         "url": "https://fanqienovel.com/page/7650470867511544856"
-      },
-      {
-        "title": "抗战：开局十个装甲师，横推列强",
-        "author": "酸奶疙瘩巴",
-        "reads": "6.1万",
-        "intro": "李浩开局穿越抗战时期的平行世界，觉醒系统获得十个满编装甲师。 KV-1重型坦克，T-34坦克，T-26喷火坦克，装甲集群暴揍小鬼子。 步兵？不好意思，哥们儿只有装甲师。 步坦协同那都是火力不足才用的，老子直接火炮洗地坦克冲锋，空军点名，主打一个量管饱火力压制。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ofcac00ddbe59cd75d81dc680733e26a3~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788822080&x-signature=UqjKCPJwB4a1QxC3MIkuDg6wRXw%3D",
-        "url": "https://fanqienovel.com/page/7625911580877671448"
-      },
-      {
-        "title": "孤兵1938",
-        "author": "尚笑",
-        "reads": "5.5万",
-        "intro": "负责阻击的680团1营即将被日寇包围，不能都为了死而死，团长选择了勤务兵石头，以去给旅长送信为由，让石头离开了阵地。主力已提前撤退，并根据敌情改变行军方向。夜幕中，石头迷失方向，成为散落在敌后的孤兵——",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o5da86852c78e641141ee84a7f3a523be~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788822084&x-signature=g5O6q6duSknMScxqR1MGJkL0Y%2BY%3D",
-        "url": "https://fanqienovel.com/page/7662756512766381080"
       },
       {
         "title": "穿越从南洋开始崛起",
         "author": "南狄",
-        "reads": "4.1万",
+        "reads": "4.2万",
         "intro": "【战后中南半岛建国】【南洋扩张】【种田发育】【开辟南天华夏】 一道白光，将李晌和他的四个厂子以及工人带到了1945年。 彼时，世界正处于冷战的前夜，暗地里的交锋却早已开始。 在红旗席卷大陆的时候，李晌也同时在中南半岛搅动风云， 天下风云出我辈！堂堂汉室血脉岂能止步不前？ 此生，当为子孙后代再谋划一片安身立命之地， 至少，要让汉字在中南半岛之上闪耀，再续我五千年文明。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oc52e5a6cf994d3b146d4be202401b21d~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788822084&x-signature=JlaY2WNICBCaUpYRAGld7vTdrHE%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oc52e5a6cf994d3b146d4be202401b21d~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788901978&x-signature=1TzSC%2FxMGYlp22LWsoTh0TSNzik%3D",
         "url": "https://fanqienovel.com/page/7664314955583196222"
-      },
-      {
-        "title": "天幕：开局放二战但是虚构史学",
-        "author": "被迫上岗作家",
-        "reads": "3.3万",
-        "intro": "天穹异象降临1922年，来自未来的战争影像与真假参半的天幕投射全世界。 各国被迫提前窥见往后数十年那虚假世界大战的走向：军国疯狂扩张又因率先覆灭，各自走向截然不同的终局，远东与欧洲战场的战略博弈层层铺开。 谁也不知道这个天幕背后的主人，既微笑又悲伤。 （简介无力请移正文）",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2of3bf0bba513772c9db651b5ba2c5ba5f~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788822084&x-signature=PMZXx6Y%2FM9N2%2FOa%2BDLDLfw%2FO5rc%3D",
-        "url": "https://fanqienovel.com/page/7643687896137862168"
       },
       {
         "title": "抗战：我狙击能力超强",
         "author": "阳阳阳梨",
-        "reads": "6万",
+        "reads": "6.7万",
         "intro": "【抗战】+【穿越】+【系统】+【孤狼】+【爽文】+【无女主】 1937年，一个动荡的时代，一个黑暗的时代 男主谢天华，本是游戏宅大学生 竟意外穿越而来，绑定最强狙击系统 日军屠村？我干 日军抢粮？我干 日军抢人？我还干 谢天华不断游走在各大战场，每声枪响，便是鬼子的丧钟 “一发之恶魔”被鬼子广为流传，闻者无不胆寒",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oc600b3fe9ef09f8a2391a61a61e2e2f0~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788822084&x-signature=F5uTW4alMgdqFXL4PEHT0Ns%2B94c%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oc600b3fe9ef09f8a2391a61a61e2e2f0~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788901982&x-signature=GaL2ybSrqBbPKWgqLIbfW8oYFBY%3D",
         "url": "https://fanqienovel.com/page/7669702267167050814"
+      },
+      {
+        "title": "我俾斯麦，从近卫军团到重建帝国",
+        "author": "爱吃拇指饼干的绮罗",
+        "reads": "3.2万",
+        "intro": "【纯手搓】+【绝没有任何AI】+【严肃历史】+【战争题材】+【群像文】 1918年帝国骤然崩塌，一觉起来成为俾斯麦最小的孙子，面对已经完蛋的帝国，在皇帝已经跑路的情况下，奥托·俾斯麦率领手下的第一近卫团奋起抗击，“帝国没了我就重造一个帝国，就如同我祖父所走的路一样”，多年之后帝国再次出现在大陆之上时，他遥望着那片海峡平静的说道。",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o0c56f1c9071f1e4be1ef5facfa4f38db~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788901982&x-signature=NkDlZpaN7uH7P4Pm%2F84aIM%2FS7bk%3D",
+        "url": "https://fanqienovel.com/page/7659616895024237593"
+      },
+      {
+        "title": "1936：一只乌鸦的谍战岁月",
+        "author": "白菜秧子",
+        "reads": "3.9万",
+        "intro": "【马甲】+【分身】+【空间搬运】+【基建办厂】+【拉队伍】 穿越到1936年，变成一只拥有空间的乌鸦。 本以为自己这辈子就这样了，但乌鸦发现，自己可以不断的凝结精神种子，代替将死之人的身份。 修自行车的军统特工…… 在军法处当差的日本贵族…… 驻守边境的滇军连长…… 乌鸦发现，自己花钱越来越厉害了，每个月几十万美元似乎都不够用。 但另一方面，河内的鬼子麻了：“你一个步兵团为什么会有两百门105榴弹炮？”",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o928d3601133fc0a0dd90478857bb1290~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788901982&x-signature=B9rr8NBmSIRTi4716etWWFhZA%2B4%3D",
+        "url": "https://fanqienovel.com/page/7670416719701101592"
       },
       {
         "title": "四合院：刘海中弟弟，下属李云龙",
         "author": "一心人",
         "reads": "3.5万",
         "intro": "【亮剑融合情满四合院世界观】 穿越1932波澜壮阔的红色年代， 10岁的刘海川偷走家里的金条，毅然选择投奔革命。 重生对历史的了解就是他最大金手指，作为刘海川的亲弟弟，他却走出全新的人生！ 长征，抗日，解放，抗法援越，抗米援朝··· 二十五岁的他，已是三野副兵团级，李云龙，赵刚的上级！ 离家17年后，他满身勋章，重回南锣鼓巷的四合院，见到了自己的哥哥刘海川，侄子刘光奇，刘光天。 也意外见到了四合院中被吓得瑟瑟发抖的众禽，易中海，贾张氏，何大清，何雨柱，秦淮茹····· 而不知不觉间，他的名字也和这个波澜壮阔，激情燃烧的红色岁月铭刻在了一起···",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ob5e77a48141f53f2fd21d7cbdd62a5e1~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788822084&x-signature=o7x8fo%2BQkJCF%2Fmd44aP9xSAKmGo%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ob5e77a48141f53f2fd21d7cbdd62a5e1~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788901982&x-signature=6f7wRvjD3ecJyajQ7MW6GRV8PMY%3D",
         "url": "https://fanqienovel.com/page/7670844892490239000"
-      },
-      {
-        "title": "我俾斯麦，从近卫军团到重建帝国",
-        "author": "爱吃拇指饼干的绮罗",
-        "reads": "3.4万",
-        "intro": "【纯手搓】+【绝没有任何AI】+【严肃历史】+【战争题材】+【群像文】 1918年帝国骤然崩塌，一觉起来成为俾斯麦最小的孙子，面对已经完蛋的帝国，在皇帝已经跑路的情况下，奥托·俾斯麦率领手下的第一近卫团奋起抗击，“帝国没了我就重造一个帝国，就如同我祖父所走的路一样”，多年之后帝国再次出现在大陆之上时，他遥望着那片海峡平静的说道。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o0c56f1c9071f1e4be1ef5facfa4f38db~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788822084&x-signature=z9%2F%2Fnl6%2Bf3uWXHSpZmBUbj%2BBr9A%3D",
-        "url": "https://fanqienovel.com/page/7659616895024237593"
       },
       {
         "title": "少帅夺我家业，我在东北拥兵百万",
         "author": "张辣辣爱吃汉巴味德",
-        "reads": "3.8万",
+        "reads": "4.2万",
         "intro": "看黑龙江大帅吴俊生的养子，吴泰来，在父亲死后，如何逆转天崩开局，打出一片天地。【张辣辣出品·必属佳品】【铁血东北军】【种田抗日】【实时战争配图】抗战区LV5级作家，质量有保障！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oabd478634bb72ab93fc03cb28e9f68e5~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788822084&x-signature=%2BBGdn68zkO%2BIDAP1EcwB6T2SLAw%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oabd478634bb72ab93fc03cb28e9f68e5~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788901982&x-signature=Hv4WapO80RapU0l8HJUDPBAXgnk%3D",
         "url": "https://fanqienovel.com/page/7675002698608954392"
       },
       {
@@ -207,24 +183,40 @@
         "author": "科达鸭鸭鸭",
         "reads": "3.4万",
         "intro": "零下四十度。 陈满仓双手冻疮烂成洞，全连当他是结巴废物兵，扔去炊事班烧火。没人知道，这具十九岁新兵壳子里，是穿越来的特种军士长，脑子里藏着100立方米美式装备——M1卡宾枪堆成山，盘尼西林羊绒大衣应有尽有。 只能靠\"运气好\"掏。 狼林山战友冻僵，他\"去后山找老乡\"抱回五套美军冬装；M24坦克压过来全连绝望，他抱着巴祖卡从废卡车后钻出来，一发入魂。史密斯师长咆哮：\"这些武器到底哪来的？！\" 炊事班长老周，嘴硬心软，总偷偷塞他热糊糊。美军炮火烧来那秒，老周把他死死压在身下，后背炸烂了，气若游丝：\"满仓……替我把美国鬼子赶出去……别让娃们再冻着……\" 手凉了。 追击溃兵，他\"迷路\"端掉北极熊团指挥部，赵连长冲过来抓他手腕——陈满仓条件反射反手擒拿，一招制住。 赵连长盯着他眼：\"陈满仓，你到底是谁？\" \"你到底是谁？\"",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o0b58959108953fdad2510cfd8610465b~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788822084&x-signature=iyt1PntbYaZVMfL5C%2BUfBaizwY8%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o0b58959108953fdad2510cfd8610465b~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788901982&x-signature=FPaXshAp0Ugn4YbGXaaoByAhTZo%3D",
         "url": "https://fanqienovel.com/page/7671261971202706494"
       },
       {
         "title": "谍战：人在军统，手下全是穿越者",
         "author": "我真的想飞一次",
-        "reads": "3.5万",
+        "reads": "4.3万",
         "intro": "【谍战影综】+【天道让别人替我酬勤系统】+【手下全员穿越者】 　　风华一朝穿越民国，开局成了上海即将沦陷前夜，留守潜伏的调查统计局上海站行动处处长。 　　却不曾想手下各个都非池中之物。 　　苏景，上海站行动处一组组长，于三天前的行动中受伤昏迷，一觉醒来不仅瞬间痊愈，还成了百发百中的神枪手，代号丧钟。 　　叶凡，行动处二组组员，从之前的废物关系户一朝蜕变，成为了上海站的格斗之王，代号无常。 　　林默，......代号戏神。 　　陆羽，......代号神医。 　　风华彻底麻了，好好好，人均穿越者是吧？ 　　那就......挂来！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o589493f0b03d7913829bc370e59c0137~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788822084&x-signature=d4ANLMMgTko31d1pFFK1B48rm8U%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o589493f0b03d7913829bc370e59c0137~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788901982&x-signature=pCZhtOpHqlhH4U6jQ6PSppMxkD0%3D",
         "url": "https://fanqienovel.com/page/7673905170459135038"
       },
       {
         "title": "抗战：打扫战场我们是专业的",
         "author": "家庭妇男我",
-        "reads": "2.9万",
+        "reads": "2.8万",
         "intro": "现代和平精英玩家苏道穿越抗战，落地成盒的盒子，是金手指《灵躯盒》。可甄别善恶，收集被打死鬼子肉身兑换积攒积分。 李云龙“道长，借我重炮，平安县城我给你拿下！” 战区司令“道长装备借我，对面师团保准歼灭，那个能不能先欠着” 敌军大佐“劳烦道长为勇士们超度了” 谁都想不到，所谓超度亡魂，只是收纳遗体攒积分的手段。苏道游走各方势力，手握灵躯商城，乱世步步逆袭。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o29a6f1851d6a0f5d00fbd2ca923bbde7~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788822084&x-signature=5lPLWeBjoLlMYSr3mJLj3%2BgZXsg%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o29a6f1851d6a0f5d00fbd2ca923bbde7~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788901982&x-signature=R%2BI0Y7vx%2BTUAYfcDGk6rL65%2F6fI%3D",
         "url": "https://fanqienovel.com/page/7648198957775998014"
+      },
+      {
+        "title": "天幕：开局放二战但是虚构史学",
+        "author": "被迫上岗作家",
+        "reads": "2.9万",
+        "intro": "天穹异象降临1922年，来自未来的战争影像与真假参半的天幕投射全世界。 各国被迫提前窥见往后数十年那虚假世界大战的走向：军国疯狂扩张又因率先覆灭，各自走向截然不同的终局，远东与欧洲战场的战略博弈层层铺开。 谁也不知道这个天幕背后的主人，既微笑又悲伤。 （简介无力请移正文）",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2of3bf0bba513772c9db651b5ba2c5ba5f~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788901982&x-signature=mr1UOLeDJph4BIUtPT13%2Fz6K68Q%3D",
+        "url": "https://fanqienovel.com/page/7643687896137862168"
+      },
+      {
+        "title": "军阀：孙家弃子，民国第一巴图鲁",
+        "author": "爱吃饭团团",
+        "reads": "3.3万",
+        "intro": "【军阀】【民国】【爽文】【杀伐果断】【无敌】【争霸】 一觉醒来，孙镇霆穿越到平行世界龙国，军阀混战的年代。 二叔是大名鼎鼎的东陵显圣真君，青蛙王子孙殿英。 开局和二叔玄武门对掏，成为孙家正统。 孙镇霆灭镇嵩军，平庙道会，占据豫省，成为豫省督军。 国仇家恨就在眼前，他以豫省为根基，苦心经营。 他改革制度，整编军队，振兴实业，建设基建...... 自从孙镇霆穿越而来之时，龙国已经走上一条前所未有的道路。",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o58a1b205299c79aca48d17a3e3dc1dda~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788901982&x-signature=qb7k7qoVkc5gHq7ti2ip90RCBss%3D",
+        "url": "https://fanqienovel.com/page/7666844093015657496"
       }
     ]
   },
@@ -235,45 +227,37 @@
         "new_count": 2,
         "dropped_count": 2,
         "new_books": [
-          "少帅夺我家业，我在东北拥兵百万",
-          "谍战：人在军统，手下全是穿越者"
+          "1936：一只乌鸦的谍战岁月",
+          "军阀：孙家弃子，民国第一巴图鲁"
         ],
         "dropped_books": [
           {
-            "title": "谍战杀神：暗鸦所至皆地狱",
-            "intro": "1940年代，暗流涌动的谍海之中，林轩横空出世。 作为军统最神秘、最致命的“暗鸦杀手组”新任组长，他行事毫无底线，杀伐果断，闻风丧胆的“活阎王”。 面对76号和特高课的天罗地网，他不按常理出牌，放弃常"
+            "title": "抗战：开局十个装甲师，横推列强",
+            "intro": "李浩开局穿越抗战时期的平行世界，觉醒系统获得十个满编装甲师。 KV-1重型坦克，T-34坦克，T-26喷火坦克，装甲集群暴揍小鬼子。 步兵？不好意思，哥们儿只有装甲师。 步坦协同那都是火力不足才用的，"
           },
           {
-            "title": "抗战：从冒牌货到大元帅",
-            "intro": "【抗日救国】＋【冒牌货】＋【猥琐发育】＋【后期高燃】 松沪血战中，吴青和四个狐朋狗友侥幸活了下来。 半路上，他们捡到了一件军官大衣，大胆的想法油然而生： 当逃兵也是死，不如当个冒牌货，苟下去！！ 在一"
+            "title": "孤兵1938",
+            "intro": "负责阻击的680团1营即将被日寇包围，不能都为了死而死，团长选择了勤务兵石头，以去给旅长送信为由，让石头离开了阵地。主力已提前撤退，并根据敌情改变行军方向。夜幕中，石头迷失方向，成为散落在敌后的孤兵—"
           }
         ],
         "top_risers": [
           {
+            "title": "我俾斯麦，从近卫军团到重建帝国",
+            "change": "+4"
+          },
+          {
+            "title": "抗战：我狙击能力超强",
+            "change": "+3"
+          },
+          {
             "title": "穿越从南洋开始崛起",
-            "change": "+6"
-          },
-          {
-            "title": "四合院：刘海中弟弟，下属李云龙",
             "change": "+2"
-          },
-          {
-            "title": "穿越成国公，咋就是封建余孽了？",
-            "change": "+1"
           }
         ],
         "top_fallers": [
           {
-            "title": "你管这叫警察？重炮都架租界口了",
-            "change": "-1"
-          },
-          {
-            "title": "四合院：李云龙上司，傻柱亲叔叔",
-            "change": "-1"
-          },
-          {
             "title": "天幕：开局放二战但是虚构史学",
-            "change": "-1"
+            "change": "-6"
           }
         ],
         "reads_growth": [
@@ -282,151 +266,135 @@
             "growth": "+1.4万"
           },
           {
-            "title": "抗战：鬼子翻译？不，我代号财神",
-            "growth": "+1.1万"
+            "title": "谍战：人在军统，手下全是穿越者",
+            "growth": "+8000"
           },
           {
-            "title": "抗战：我狙击能力超强",
-            "growth": "+9000"
+            "title": "你管这叫警察？重炮都架租界口了",
+            "growth": "+7000"
           }
         ],
-        "summary": "新增2本上榜；2本掉出（《谍战杀神：暗鸦所至皆地狱》、《抗战：从冒牌货到大元帅》）；《穿越从南洋开始崛起》排名上升+6位；《穿越成国公，咋就是封建余孽了？》阅读量+1.4万。"
+        "summary": "新增2本上榜；2本掉出（《抗战：开局十个装甲师，横推列强》、《孤兵1938》）；《我俾斯麦，从近卫军团到重建帝国》排名上升+4位；《穿越成国公，咋就是封建余孽了？》阅读量+1.4万。"
       },
       "books": [
         {
           "title": "别人穿四合院，我为啥上战场",
           "author": "中兵",
-          "reads": "51.2万",
+          "reads": "49.1万",
           "intro": "外企投行打工的陈浩因飞机失事穿越到1951年138军一个小兵陈三狗身上，别人过来都是进四合院，而他却面临着最残酷的朝鲜战场。获得卫国争光系统的他懵懵懂懂的踏上战场，一个普通现代人到这个赤红年代成为合格战士的故事。本书不会有太多的胡同里的家长里短，也没有狂怼打脸众禽的情节，他缺钱，从国外弄，他喜欢古董，从国外抢，一个现代人既然来到这个年代，不做出点为国为民的事迹岂不白来一趟？",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/ai/p2o0f9b9bdb2875d2dfbcd966875da06316~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788822080&x-signature=zAL%2B5A8rh8i%2B6Vgu4e%2Bl3k80pFQ%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/ai/p2o0f9b9bdb2875d2dfbcd966875da06316~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788901978&x-signature=vNIiDpo3NOWEA7DEuZpjV5AuJcI%3D",
           "url": "https://fanqienovel.com/page/7665606419873287192"
         },
         {
           "title": "穿越成国公，咋就是封建余孽了？",
           "author": "思函麟玉",
-          "reads": "20.8万",
+          "reads": "22.2万",
           "intro": "本书不是圣母文，圣母者勿要进来乱数据和吾等道心！！！ 苏立穿越了，享受到了，上辈子做梦也不敢想的骄奢淫欲的生活，他暗暗发誓，谁也不能，破坏这天上掉下来的馅饼，谁破坏，他干死谁！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o6c1aff5c14ae237df2f37a6a6319c2cf~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788822080&x-signature=RG%2Bl8fmt%2FM2a0%2FKHRzLPiGpPEoA%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o6c1aff5c14ae237df2f37a6a6319c2cf~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788901978&x-signature=omQu6Okb51fyL5G1h%2FhAUIHttnY%3D",
           "url": "https://fanqienovel.com/page/7667113325930499096"
         },
         {
           "title": "你管这叫警察？重炮都架租界口了",
           "author": "吾叹逍遥",
-          "reads": "18.2万",
+          "reads": "18.9万",
           "intro": "1931年的上海滩，租界林立，帮派横行。 　　斧头帮、青帮、洪帮只手遮天，洋人大班颐指气使，倭国浪人当街杀人无人敢管。 李少泽穿越而来，在码头扛了一年苦力，终于激活了系统。 　　开局就任警察分局长，麾下一百荷枪实弹的精锐警员，只是这系统商店里的装备似乎有点不对劲。重炮坦克、武装直升机，甚至还有航空母舰？ 　别的警察不敢抓的人，他抓。别的局不敢管的事，他管。别人管得了的，他更得管！ 　　洋人巡捕房抗议？重炮架在租界门口，看谁还敢吭声。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o0bc5b33ea940a83352a66f30b81d08a0~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788822080&x-signature=GB73f1fmynl4o0QiEFuVzx8kpLQ%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o0bc5b33ea940a83352a66f30b81d08a0~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788901978&x-signature=NYnYpfZ2bwOrJcEcM1WAlgS3XSA%3D",
           "url": "https://fanqienovel.com/page/7666114972983757849"
         },
         {
           "title": "民国：张家逆子，我才是东北王",
           "author": "喜欢丽鱼的青莲妖火",
-          "reads": "14.9万",
+          "reads": "13.7万",
           "intro": "重生奉系军阀之子，张学铭发誓，不让前世悲剧发生，东北两千多万同胞的苦难不再重演！ 张学铭：“大哥，这辈子我不会再让你被囚禁几十年！”",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o0103095dcbb023e6314f365d191b2d58~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788822080&x-signature=UW0wrEBqh%2B2%2BwzOO6qy9LLcGc4I%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o0103095dcbb023e6314f365d191b2d58~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788901978&x-signature=mdASBxxXt%2BGGnWDfbGEkgQ%2B4p1w%3D",
           "url": "https://fanqienovel.com/page/7664596398326680638"
         },
         {
           "title": "要当总统了，你跟我说系统来了？",
           "author": "网文小咖",
-          "reads": "12.5万",
+          "reads": "11.4万",
           "intro": "一觉醒来，成为了20军少军长。 1949年末，历史的洪流无可阻挡，被派往南洋支援的20军少军长杨瑞，磨刀霍霍向南洋，既然回不去了，那就不回了。 杨瑞表示，没有人比我更懂建国。 建国前期的准备？ 高筑墙，缓称王，广积粮，只是没有人告诉我，建国当总统后，系统才会觉醒？ 无妨。 锦上添花，近程变远程，远程变全球覆盖，也不错。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2of9bd1595887a92c99742f902c4cb7387~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788822080&x-signature=zVirnuYtQ6pkMzmf3jqDyWP39J8%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2of9bd1595887a92c99742f902c4cb7387~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788901978&x-signature=BhrV9lCxuPqwEnTGhRynGSXbDc4%3D",
           "url": "https://fanqienovel.com/page/7670125518770949182"
         },
         {
           "title": "抗战：这个系统不正经",
           "author": "浪哥划船不用桨",
-          "reads": "10.7万",
+          "reads": "10.3万",
           "intro": "（多女主）介意者误入+（杀伐果断）+(生存)。1941年王守义穿越到中条山战场为了一句诺言，千里回北平，开启一段波澜壮阔的人生。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ofe53780709b8885239633bc1743dc73f~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788822080&x-signature=K24iYXsn2l9dmWZyHkFDYF5OXfg%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ofe53780709b8885239633bc1743dc73f~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788901978&x-signature=HRG2bk7Qay6IMpZrQO9Mo%2B%2Fbu5A%3D",
           "url": "https://fanqienovel.com/page/7663394963933105214"
         },
         {
           "title": "抗战：鬼子翻译？不，我代号财神",
           "author": "三十而立的男人",
-          "reads": "9.8万",
+          "reads": "10.5万",
           "intro": "1941年，六月份的晋省。 清醒过来的楚峰，发现自己竟然成为榆次县日军梅川少佐的翻译官。 “什么？我成鬼子翻译官？当汉奸了？！！！” 楚峰人都傻了！ “我一个根正苗红的五好青年，让我当汉奸？” 就在他准备揭竿而起，干一票大的的时候，原身体的记忆让他瞬间乖巧如哈士奇！ “代号财神？” “哦，我不是汉奸，而是情报人员！” “那没事了！” 这时，神坑财神系统激活！ 只要坑惨日伪军，就能获得奖励。 不限于虚报损耗、截留军粮、挪用军火、做烂账面、克扣军饷、中饱私囊等一系列神坑操作。 日伪军越惨，系统评分越高，奖励越丰厚！ 看着系统的能力，楚峰眼睛亮了。 “叮咚！恭喜宿主收到伪军李团长的10根小黄鱼的孝敬，获得F级奖励：僵尸猪肉罐头*300罐！” “叮咚！恭喜宿主利用巴豆粉，让日伪军拉虚脱了，并里应外合，坑死1500名日伪军，获得S级奖励：120毫米迫击炮*10套！（每套包括1门炮，500发炮弹！）” 当楚峰开始发力，鬼子和伪军先疯了！ “不是，八路军顿顿吃肉，我们吃糠咽菜，这对吗？” “八嘎！八路怎么对我们了如指掌，不对，有间谍！” 八路军笑了！ 司令员：“啥？财神同志又给咱们送回一条火炮生产线？”",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o828bad3e08a03333cccfd780c5c51224~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788822080&x-signature=RibcmNQfi2mrNN63zHyZITN2jLU%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o828bad3e08a03333cccfd780c5c51224~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788901978&x-signature=7Thnpy%2FDo45RaOO1%2FKq2vfchWQw%3D",
           "url": "https://fanqienovel.com/page/7667879900103068696"
         },
         {
           "title": "四合院：李云龙上司，傻柱亲叔叔",
           "author": "一心人",
-          "reads": "8.4万",
+          "reads": "8.3万",
           "intro": "穿越1934的红色年代，九岁的何大明顺走家里一根金条，毅然参加革命。 重生就是他最大金手指，作为何大清的亲弟弟，他却走出了截然不同的人生！ 长征，抗日，解放··· 二十四岁的他，成为三野最年轻军长，李云龙上级！ 15年后，他重回四合院，见到了自己的哥哥何大清，侄子何雨柱，侄女何雨水。 也见到了四合院中的众禽····",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ofbfaa628cff6125c5aab1e076721c6b5~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788822080&x-signature=Pgrm9RVAS%2BwSxeXMCapcSP76GKc%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ofbfaa628cff6125c5aab1e076721c6b5~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788901978&x-signature=4aBc6UNaId3WRphI9AKs1wijx68%3D",
           "url": "https://fanqienovel.com/page/7669043019315678232"
         },
         {
           "title": "亮剑：李云龙十四岁入黄埔一期",
           "author": "楚云飞在此",
-          "reads": "6.9万",
+          "reads": "6.8万",
           "intro": "[亮剑+黄埔+无系统+军阀混战+二战+手搓+楚总长] 国科大李幼彬穿越到一九二四年的李云龙 开局竟然要去拉帮套，不行，我要入黄埔一期，和驴长当校友，从黄埔一期到分兵、过草地、抗日再到对越自卫反击战。 用一腔热血守护华夏家园 用战功，铸就无上荣光 …… 精彩的故事都会铺垫，更多理性思考，而非纯无脑爽。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o43bcaade82853dc50f827cc3579324a4~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788822080&x-signature=NptBmVuITNzNu9KKR%2FOUYK9CWQo%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o43bcaade82853dc50f827cc3579324a4~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788901978&x-signature=qHeiRDMrjM94z842QdoiK8UZIhw%3D",
           "url": "https://fanqienovel.com/page/7650470867511544856"
-        },
-        {
-          "title": "抗战：开局十个装甲师，横推列强",
-          "author": "酸奶疙瘩巴",
-          "reads": "6.1万",
-          "intro": "李浩开局穿越抗战时期的平行世界，觉醒系统获得十个满编装甲师。 KV-1重型坦克，T-34坦克，T-26喷火坦克，装甲集群暴揍小鬼子。 步兵？不好意思，哥们儿只有装甲师。 步坦协同那都是火力不足才用的，老子直接火炮洗地坦克冲锋，空军点名，主打一个量管饱火力压制。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ofcac00ddbe59cd75d81dc680733e26a3~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788822080&x-signature=UqjKCPJwB4a1QxC3MIkuDg6wRXw%3D",
-          "url": "https://fanqienovel.com/page/7625911580877671448"
-        },
-        {
-          "title": "孤兵1938",
-          "author": "尚笑",
-          "reads": "5.5万",
-          "intro": "负责阻击的680团1营即将被日寇包围，不能都为了死而死，团长选择了勤务兵石头，以去给旅长送信为由，让石头离开了阵地。主力已提前撤退，并根据敌情改变行军方向。夜幕中，石头迷失方向，成为散落在敌后的孤兵——",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o5da86852c78e641141ee84a7f3a523be~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788822084&x-signature=g5O6q6duSknMScxqR1MGJkL0Y%2BY%3D",
-          "url": "https://fanqienovel.com/page/7662756512766381080"
         },
         {
           "title": "穿越从南洋开始崛起",
           "author": "南狄",
-          "reads": "4.1万",
+          "reads": "4.2万",
           "intro": "【战后中南半岛建国】【南洋扩张】【种田发育】【开辟南天华夏】 一道白光，将李晌和他的四个厂子以及工人带到了1945年。 彼时，世界正处于冷战的前夜，暗地里的交锋却早已开始。 在红旗席卷大陆的时候，李晌也同时在中南半岛搅动风云， 天下风云出我辈！堂堂汉室血脉岂能止步不前？ 此生，当为子孙后代再谋划一片安身立命之地， 至少，要让汉字在中南半岛之上闪耀，再续我五千年文明。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oc52e5a6cf994d3b146d4be202401b21d~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788822084&x-signature=JlaY2WNICBCaUpYRAGld7vTdrHE%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oc52e5a6cf994d3b146d4be202401b21d~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788901978&x-signature=1TzSC%2FxMGYlp22LWsoTh0TSNzik%3D",
           "url": "https://fanqienovel.com/page/7664314955583196222"
-        },
-        {
-          "title": "天幕：开局放二战但是虚构史学",
-          "author": "被迫上岗作家",
-          "reads": "3.3万",
-          "intro": "天穹异象降临1922年，来自未来的战争影像与真假参半的天幕投射全世界。 各国被迫提前窥见往后数十年那虚假世界大战的走向：军国疯狂扩张又因率先覆灭，各自走向截然不同的终局，远东与欧洲战场的战略博弈层层铺开。 谁也不知道这个天幕背后的主人，既微笑又悲伤。 （简介无力请移正文）",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2of3bf0bba513772c9db651b5ba2c5ba5f~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788822084&x-signature=PMZXx6Y%2FM9N2%2FOa%2BDLDLfw%2FO5rc%3D",
-          "url": "https://fanqienovel.com/page/7643687896137862168"
         },
         {
           "title": "抗战：我狙击能力超强",
           "author": "阳阳阳梨",
-          "reads": "6万",
+          "reads": "6.7万",
           "intro": "【抗战】+【穿越】+【系统】+【孤狼】+【爽文】+【无女主】 1937年，一个动荡的时代，一个黑暗的时代 男主谢天华，本是游戏宅大学生 竟意外穿越而来，绑定最强狙击系统 日军屠村？我干 日军抢粮？我干 日军抢人？我还干 谢天华不断游走在各大战场，每声枪响，便是鬼子的丧钟 “一发之恶魔”被鬼子广为流传，闻者无不胆寒",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oc600b3fe9ef09f8a2391a61a61e2e2f0~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788822084&x-signature=F5uTW4alMgdqFXL4PEHT0Ns%2B94c%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oc600b3fe9ef09f8a2391a61a61e2e2f0~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788901982&x-signature=GaL2ybSrqBbPKWgqLIbfW8oYFBY%3D",
           "url": "https://fanqienovel.com/page/7669702267167050814"
+        },
+        {
+          "title": "我俾斯麦，从近卫军团到重建帝国",
+          "author": "爱吃拇指饼干的绮罗",
+          "reads": "3.2万",
+          "intro": "【纯手搓】+【绝没有任何AI】+【严肃历史】+【战争题材】+【群像文】 1918年帝国骤然崩塌，一觉起来成为俾斯麦最小的孙子，面对已经完蛋的帝国，在皇帝已经跑路的情况下，奥托·俾斯麦率领手下的第一近卫团奋起抗击，“帝国没了我就重造一个帝国，就如同我祖父所走的路一样”，多年之后帝国再次出现在大陆之上时，他遥望着那片海峡平静的说道。",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o0c56f1c9071f1e4be1ef5facfa4f38db~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788901982&x-signature=NkDlZpaN7uH7P4Pm%2F84aIM%2FS7bk%3D",
+          "url": "https://fanqienovel.com/page/7659616895024237593"
+        },
+        {
+          "title": "1936：一只乌鸦的谍战岁月",
+          "author": "白菜秧子",
+          "reads": "3.9万",
+          "intro": "【马甲】+【分身】+【空间搬运】+【基建办厂】+【拉队伍】 穿越到1936年，变成一只拥有空间的乌鸦。 本以为自己这辈子就这样了，但乌鸦发现，自己可以不断的凝结精神种子，代替将死之人的身份。 修自行车的军统特工…… 在军法处当差的日本贵族…… 驻守边境的滇军连长…… 乌鸦发现，自己花钱越来越厉害了，每个月几十万美元似乎都不够用。 但另一方面，河内的鬼子麻了：“你一个步兵团为什么会有两百门105榴弹炮？”",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o928d3601133fc0a0dd90478857bb1290~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788901982&x-signature=B9rr8NBmSIRTi4716etWWFhZA%2B4%3D",
+          "url": "https://fanqienovel.com/page/7670416719701101592"
         },
         {
           "title": "四合院：刘海中弟弟，下属李云龙",
           "author": "一心人",
           "reads": "3.5万",
           "intro": "【亮剑融合情满四合院世界观】 穿越1932波澜壮阔的红色年代， 10岁的刘海川偷走家里的金条，毅然选择投奔革命。 重生对历史的了解就是他最大金手指，作为刘海川的亲弟弟，他却走出全新的人生！ 长征，抗日，解放，抗法援越，抗米援朝··· 二十五岁的他，已是三野副兵团级，李云龙，赵刚的上级！ 离家17年后，他满身勋章，重回南锣鼓巷的四合院，见到了自己的哥哥刘海川，侄子刘光奇，刘光天。 也意外见到了四合院中被吓得瑟瑟发抖的众禽，易中海，贾张氏，何大清，何雨柱，秦淮茹····· 而不知不觉间，他的名字也和这个波澜壮阔，激情燃烧的红色岁月铭刻在了一起···",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ob5e77a48141f53f2fd21d7cbdd62a5e1~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788822084&x-signature=o7x8fo%2BQkJCF%2Fmd44aP9xSAKmGo%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ob5e77a48141f53f2fd21d7cbdd62a5e1~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788901982&x-signature=6f7wRvjD3ecJyajQ7MW6GRV8PMY%3D",
           "url": "https://fanqienovel.com/page/7670844892490239000"
-        },
-        {
-          "title": "我俾斯麦，从近卫军团到重建帝国",
-          "author": "爱吃拇指饼干的绮罗",
-          "reads": "3.4万",
-          "intro": "【纯手搓】+【绝没有任何AI】+【严肃历史】+【战争题材】+【群像文】 1918年帝国骤然崩塌，一觉起来成为俾斯麦最小的孙子，面对已经完蛋的帝国，在皇帝已经跑路的情况下，奥托·俾斯麦率领手下的第一近卫团奋起抗击，“帝国没了我就重造一个帝国，就如同我祖父所走的路一样”，多年之后帝国再次出现在大陆之上时，他遥望着那片海峡平静的说道。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o0c56f1c9071f1e4be1ef5facfa4f38db~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788822084&x-signature=z9%2F%2Fnl6%2Bf3uWXHSpZmBUbj%2BBr9A%3D",
-          "url": "https://fanqienovel.com/page/7659616895024237593"
         },
         {
           "title": "少帅夺我家业，我在东北拥兵百万",
           "author": "张辣辣爱吃汉巴味德",
-          "reads": "3.8万",
+          "reads": "4.2万",
           "intro": "看黑龙江大帅吴俊生的养子，吴泰来，在父亲死后，如何逆转天崩开局，打出一片天地。【张辣辣出品·必属佳品】【铁血东北军】【种田抗日】【实时战争配图】抗战区LV5级作家，质量有保障！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oabd478634bb72ab93fc03cb28e9f68e5~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788822084&x-signature=%2BBGdn68zkO%2BIDAP1EcwB6T2SLAw%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oabd478634bb72ab93fc03cb28e9f68e5~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788901982&x-signature=Hv4WapO80RapU0l8HJUDPBAXgnk%3D",
           "url": "https://fanqienovel.com/page/7675002698608954392"
         },
         {
@@ -434,24 +402,40 @@
           "author": "科达鸭鸭鸭",
           "reads": "3.4万",
           "intro": "零下四十度。 陈满仓双手冻疮烂成洞，全连当他是结巴废物兵，扔去炊事班烧火。没人知道，这具十九岁新兵壳子里，是穿越来的特种军士长，脑子里藏着100立方米美式装备——M1卡宾枪堆成山，盘尼西林羊绒大衣应有尽有。 只能靠\"运气好\"掏。 狼林山战友冻僵，他\"去后山找老乡\"抱回五套美军冬装；M24坦克压过来全连绝望，他抱着巴祖卡从废卡车后钻出来，一发入魂。史密斯师长咆哮：\"这些武器到底哪来的？！\" 炊事班长老周，嘴硬心软，总偷偷塞他热糊糊。美军炮火烧来那秒，老周把他死死压在身下，后背炸烂了，气若游丝：\"满仓……替我把美国鬼子赶出去……别让娃们再冻着……\" 手凉了。 追击溃兵，他\"迷路\"端掉北极熊团指挥部，赵连长冲过来抓他手腕——陈满仓条件反射反手擒拿，一招制住。 赵连长盯着他眼：\"陈满仓，你到底是谁？\" \"你到底是谁？\"",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o0b58959108953fdad2510cfd8610465b~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788822084&x-signature=iyt1PntbYaZVMfL5C%2BUfBaizwY8%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o0b58959108953fdad2510cfd8610465b~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788901982&x-signature=FPaXshAp0Ugn4YbGXaaoByAhTZo%3D",
           "url": "https://fanqienovel.com/page/7671261971202706494"
         },
         {
           "title": "谍战：人在军统，手下全是穿越者",
           "author": "我真的想飞一次",
-          "reads": "3.5万",
+          "reads": "4.3万",
           "intro": "【谍战影综】+【天道让别人替我酬勤系统】+【手下全员穿越者】 　　风华一朝穿越民国，开局成了上海即将沦陷前夜，留守潜伏的调查统计局上海站行动处处长。 　　却不曾想手下各个都非池中之物。 　　苏景，上海站行动处一组组长，于三天前的行动中受伤昏迷，一觉醒来不仅瞬间痊愈，还成了百发百中的神枪手，代号丧钟。 　　叶凡，行动处二组组员，从之前的废物关系户一朝蜕变，成为了上海站的格斗之王，代号无常。 　　林默，......代号戏神。 　　陆羽，......代号神医。 　　风华彻底麻了，好好好，人均穿越者是吧？ 　　那就......挂来！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o589493f0b03d7913829bc370e59c0137~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788822084&x-signature=d4ANLMMgTko31d1pFFK1B48rm8U%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o589493f0b03d7913829bc370e59c0137~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788901982&x-signature=pCZhtOpHqlhH4U6jQ6PSppMxkD0%3D",
           "url": "https://fanqienovel.com/page/7673905170459135038"
         },
         {
           "title": "抗战：打扫战场我们是专业的",
           "author": "家庭妇男我",
-          "reads": "2.9万",
+          "reads": "2.8万",
           "intro": "现代和平精英玩家苏道穿越抗战，落地成盒的盒子，是金手指《灵躯盒》。可甄别善恶，收集被打死鬼子肉身兑换积攒积分。 李云龙“道长，借我重炮，平安县城我给你拿下！” 战区司令“道长装备借我，对面师团保准歼灭，那个能不能先欠着” 敌军大佐“劳烦道长为勇士们超度了” 谁都想不到，所谓超度亡魂，只是收纳遗体攒积分的手段。苏道游走各方势力，手握灵躯商城，乱世步步逆袭。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o29a6f1851d6a0f5d00fbd2ca923bbde7~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788822084&x-signature=5lPLWeBjoLlMYSr3mJLj3%2BgZXsg%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o29a6f1851d6a0f5d00fbd2ca923bbde7~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788901982&x-signature=R%2BI0Y7vx%2BTUAYfcDGk6rL65%2F6fI%3D",
           "url": "https://fanqienovel.com/page/7648198957775998014"
+        },
+        {
+          "title": "天幕：开局放二战但是虚构史学",
+          "author": "被迫上岗作家",
+          "reads": "2.9万",
+          "intro": "天穹异象降临1922年，来自未来的战争影像与真假参半的天幕投射全世界。 各国被迫提前窥见往后数十年那虚假世界大战的走向：军国疯狂扩张又因率先覆灭，各自走向截然不同的终局，远东与欧洲战场的战略博弈层层铺开。 谁也不知道这个天幕背后的主人，既微笑又悲伤。 （简介无力请移正文）",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2of3bf0bba513772c9db651b5ba2c5ba5f~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788901982&x-signature=mr1UOLeDJph4BIUtPT13%2Fz6K68Q%3D",
+          "url": "https://fanqienovel.com/page/7643687896137862168"
+        },
+        {
+          "title": "军阀：孙家弃子，民国第一巴图鲁",
+          "author": "爱吃饭团团",
+          "reads": "3.3万",
+          "intro": "【军阀】【民国】【爽文】【杀伐果断】【无敌】【争霸】 一觉醒来，孙镇霆穿越到平行世界龙国，军阀混战的年代。 二叔是大名鼎鼎的东陵显圣真君，青蛙王子孙殿英。 开局和二叔玄武门对掏，成为孙家正统。 孙镇霆灭镇嵩军，平庙道会，占据豫省，成为豫省督军。 国仇家恨就在眼前，他以豫省为根基，苦心经营。 他改革制度，整编军队，振兴实业，建设基建...... 自从孙镇霆穿越而来之时，龙国已经走上一条前所未有的道路。",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o58a1b205299c79aca48d17a3e3dc1dda~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1788901982&x-signature=qb7k7qoVkc5gHq7ti2ip90RCBss%3D",
+          "url": "https://fanqienovel.com/page/7666844093015657496"
         }
       ]
     }
