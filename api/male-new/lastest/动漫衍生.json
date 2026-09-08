@@ -1,225 +1,235 @@
 {
   "type": "动漫衍生",
-  "date": "2026-09-08",
-  "prev_date": "2026-09-07",
+  "date": "2026-09-09",
+  "prev_date": "2026-09-08",
   "category": {
     "name": "动漫衍生",
     "trend": {
-      "new_count": 1,
-      "dropped_count": 1,
+      "new_count": 3,
+      "dropped_count": 3,
       "new_books": [
-        "漫威：牛逼的记忆体贩子只想赚钱"
+        "咒回：十种影法术，我无限抽奖！",
+        "开局得吃，我去！怎么是蕾米埃尔",
+        "咒回：我成宿坨？召唤2点5条悟"
       ],
       "dropped_books": [
         {
-          "title": "咒回：十种影法术，我无限抽奖！",
-          "intro": "（评分刚出，后面会涨） 【咒回】+【战斗爽】+【部分综漫】+【无女主】+【快节奏】+【抽卡】 穿越到咒术回战，成为禅院家的一员，禅院朔是有些绝望的。 所生时代和牢师同辈，本以为多年后也要去cospla"
+          "title": "崩铁：我的未来女友全都重生了",
+          "intro": "[崩铁同人]+[多女主]+[日常]+[女主重生]+[轻松搞笑] OOC预警，同时本文会对剧情的某些地方进行修改，并添加一些私设。 白洛明穿越了，穿越到了崩铁的世界，本来只想根据剧情好好混日子的他，却发"
+        },
+        {
+          "title": "火影：开局修改纲手认知",
+          "intro": "【纯手搓无AI+多女主+无龟男情节+偏日常】 信野佑穿越火影，觉醒认知修改系统，可以随意修改他人认知。 【目标人物：纲手姬】 【可修改认知选项如下：】 【选项一：信野佑是我的好弟弟，我要像关心绳树那样"
+        },
+        {
+          "title": "崩铁：开局沙福林叫醒法",
+          "intro": "【轻松搞笑】＋【多女主】＋【诸天】 秦远穿越崩铁宇宙，获得垂钓系统。 至此寰宇发生一件件离奇之事…… 造物引擎：“什么叫我去打加拉特隆？真的假的？” 波尔卡·卡卡目：“为什么我后面那家伙一直拿木棍打我"
         }
       ],
       "top_risers": [
         {
-          "title": "名柯：我有三角洲召唤系统",
-          "change": "+4"
+          "title": "漫威：牛逼的记忆体贩子只想赚钱",
+          "change": "+12"
         },
         {
-          "title": "星铁：纳努克直聘？我还是跳了吧",
-          "change": "+2"
+          "title": "综漫：表白被拒就变强？",
+          "change": "+3"
         },
         {
-          "title": "综漫：人在霓虹，开局永恒万花筒",
+          "title": "Fate：开局召唤喜悦闪",
           "change": "+1"
         }
       ],
       "top_fallers": [
         {
-          "title": "超神：成为裁决天使后，我无敌了",
-          "change": "-4"
+          "title": "名柯：我有三角洲召唤系统",
+          "change": "-6"
         },
         {
-          "title": "超神：被捡回天城的天才物理学家",
-          "change": "-1"
+          "title": "原神：破产之后只能加入愚人众了",
+          "change": "-3"
         },
         {
-          "title": "什么？这莫蒂是个家人侠",
-          "change": "-1"
+          "title": "绝区零：我的数值凌驾于一切之上",
+          "change": "-2"
         }
       ],
       "reads_growth": [
         {
-          "title": "综漫：表白被拒就变强？",
-          "growth": "+2.1万"
-        },
-        {
-          "title": "天幕通原神，开局钟离你让我陌生",
-          "growth": "+1.5万"
+          "title": "漫威：牛逼的记忆体贩子只想赚钱",
+          "growth": "+2.0万"
         },
         {
           "title": "超神：成为裁决天使后，我无敌了",
-          "growth": "+1.3万"
+          "growth": "+1.6万"
+        },
+        {
+          "title": "天幕通原神，开局钟离你让我陌生",
+          "growth": "+1.4万"
         }
       ],
-      "summary": "新增1本上榜；1本掉出（《咒回：十种影法术，我无限抽奖！》）；《名柯：我有三角洲召唤系统》排名上升+4位；《综漫：表白被拒就变强？》阅读量+2.1万。"
+      "summary": "新增3本上榜；3本掉出（《崩铁：我的未来女友全都重生了》、《火影：开局修改纲手认知》、《崩铁：开局沙福林叫醒法》）；《漫威：牛逼的记忆体贩子只想赚钱》排名上升+12位；《漫威：牛逼的记忆体贩子只想赚钱》阅读量+2.0万。"
     },
     "books": [
       {
         "title": "火影：从离开木叶建立忍国开始",
         "author": "世界树的游戏",
-        "reads": "23.5万",
+        "reads": "23万",
         "intro": "（评分刚出，大概，有可能上涨） 穿越火影宇智波一族，斑刚刚离开木叶，而他又获得了村子建造系统，只要发展村子就能变强，可村子已经定型了，还有一个盯着宇智波的天生邪恶千手，在木叶也是不可能的了，随即带上盘缠果断离开村子；",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o2c8837ce8b124d71f70b2e6050421f0e~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789422141&x-signature=QX6VQOBr64WwOX2PvbWSZ2%2BBSf8%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o2c8837ce8b124d71f70b2e6050421f0e~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789507237&x-signature=Ho825eCzllY%2Fkh3NFT3GR24YXJY%3D",
         "url": "https://fanqienovel.com/page/7668486626917501976"
       },
       {
         "title": "综漫：人在霓虹，开局永恒万花筒",
         "author": "南辰Nchen",
-        "reads": "21.6万",
+        "reads": "20.4万",
         "intro": "【综漫】【爽文】【日常】 熬夜追番被大运送走，再睁眼，霓虹变成了龙国的一个省。 刚下飞机，系统就砸过来一个新手礼包。 【恭喜宿主获得——宇智波佐助模板（永恒万花筒时期）】 苏白大笑，表示路过的狗都要挨他一发天照。 带着三亿启动资金和一栋港区别墅，他进了千代田高等学园。 同桌是小鸟游六花。 “契约者！”她一巴掌拍他肩上，“我终于找到你了！” 后排比企谷八幡默默往远处挪了挪，角落后藤一里把脑袋塞进桌洞，第一排雪之下雪乃写字的笔顿住了。 隔壁班的四谷见子正被恶灵追着跑。 苏白看着满教室的动漫角色，明白了。 系统叫他来霓虹，就是来给这帮人当外挂的。 小鸟游六花：跨越无数世界线的羁绊将我们联结在了一起，从今天起你便是邪王真眼使者的第一契约者。 四谷见子：那个……谢谢你救了我……如、如果你不嫌弃的话……我以后可以一直跟着你吗？ 后藤一里：人多的地方好可怕……但、但有阿白在的话……好像就没那么怕了。 雪之下雪乃：可恶……为什么每次考试我都比他低两分。 平冢静：苏白是我带过最让人头疼的学生，没有之一。 樱岛麻衣：没有阿白的话……我大概早就消失了。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o7f0fbcc3c59e8a57586ce0f55fa452fd~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789422141&x-signature=%2F%2B66DwDEPdGQuYzMS6Ky4aDqX2Y%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o7f0fbcc3c59e8a57586ce0f55fa452fd~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789507237&x-signature=6GwHrCb4MWh1RjGwkxvvos7jI4M%3D",
         "url": "https://fanqienovel.com/page/7664132730577226777"
       },
       {
         "title": "天幕通原神，开局钟离你让我陌生",
         "author": "摸鱼青总",
-        "reads": "20.1万",
+        "reads": "21.5万",
         "intro": "当金发的少女携带着银发的应急食品即将走进蒙德城时。 忽然，天幕拉开，横贯于苍穹之上，笼罩七国。 在所有人都心生疑惑之际，一个声音刺破苍穹，大声呼喊着：“钟离，你让我感到陌生。” 于是乎，尚未踏足璃月的少女，便得知了岩王假死、风神忽悠的真相。 大慈树王的付出，芙卡洛斯的牺牲，火神五百年的计划与月神穿越时空的回归…… 深渊，是一切未选择的命运的恨意。 天幕，是一切真善美的祝福。 当爱化解伤痛，信仰便能弥补遗憾。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o607f6679a3d0ba2d016b058dc7c0ddff~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789422141&x-signature=osrGHJqz8egNGYAvjW6uCO9ziVM%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o607f6679a3d0ba2d016b058dc7c0ddff~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789507237&x-signature=SYigq3kQmPXysvtGBcx4skQhVdw%3D",
         "url": "https://fanqienovel.com/page/7668210034865605694"
-      },
-      {
-        "title": "星铁：纳努克直聘？我还是跳了吧",
-        "author": "大海里的一只船",
-        "reads": "19.5万",
-        "intro": "我叫陆蔄（màn）生物年龄18岁，因试图用后脑勺肘击大理石而穿越。穿越后凭借着较强的个人能力得到了纳努克绝灭有限公司的青睐，老板发的衣服很结实，我很喜欢。 为什么入职的时候没有欢迎会？ 公司发的纹身贴为什么可以搓掉？ 为什么不拉我进工作群？ 等等，什么叫... 没有工资？工资自己去找个星球去化缘？ 与角色互动身份暴露时，好感度自动降低20点？ 我懂了，一定是一场打压新人的职场打压。 可恶，看来要发扬我的蔄霸精神了。 在此列举三条有关公司的法则： 纳努克绝灭有限公司第一法则：你不毁灭我，我就毁灭你。 纳努克绝灭有限公司第二法则：不发工资的老板，该肘。 纳努克绝灭有限公司第三法则：还待在这儿干啥呢？兄弟，领完金色纹身贴和工作服就跑隔壁跳槽吧！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o881ed0b52dc3348e4f81be6c48c8c1af~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789422141&x-signature=gdz%2F2rV%2B%2B0GbBuJK3JwW80V4NLo%3D",
-        "url": "https://fanqienovel.com/page/7615296291278441534"
       },
       {
         "title": "Fate：开局召唤喜悦闪",
         "author": "错误的黑大帅",
-        "reads": "18.6万",
+        "reads": "18.7万",
         "intro": "陈尘以为自己穿越后可以走上人生巅峰， 但...为什么成为圣杯战争的炮灰啊？！ 没关系，凭借自己的努力，只要召唤一个强力的英灵就能... 等会，这个棕色大只佬是谁？ 什么叫你是喜悦闪！？",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o861f2175c4916a3a580684fb5be8cf87~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789422141&x-signature=fXd5A%2Fy%2FxswY%2BUWDbVDLn5Iwt%2FY%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o861f2175c4916a3a580684fb5be8cf87~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789507237&x-signature=z6USLpZkkoo2r2i7poXKJ8lO54w%3D",
         "url": "https://fanqienovel.com/page/7667054968662133785"
+      },
+      {
+        "title": "星铁：纳努克直聘？我还是跳了吧",
+        "author": "大海里的一只船",
+        "reads": "20万",
+        "intro": "我叫陆蔄（màn）生物年龄18岁，因试图用后脑勺肘击大理石而穿越。穿越后凭借着较强的个人能力得到了纳努克绝灭有限公司的青睐，老板发的衣服很结实，我很喜欢。 为什么入职的时候没有欢迎会？ 公司发的纹身贴为什么可以搓掉？ 为什么不拉我进工作群？ 等等，什么叫... 没有工资？工资自己去找个星球去化缘？ 与角色互动身份暴露时，好感度自动降低20点？ 我懂了，一定是一场打压新人的职场打压。 可恶，看来要发扬我的蔄霸精神了。 在此列举三条有关公司的法则： 纳努克绝灭有限公司第一法则：你不毁灭我，我就毁灭你。 纳努克绝灭有限公司第二法则：不发工资的老板，该肘。 纳努克绝灭有限公司第三法则：还待在这儿干啥呢？兄弟，领完金色纹身贴和工作服就跑隔壁跳槽吧！",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o881ed0b52dc3348e4f81be6c48c8c1af~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789507237&x-signature=CZZ26Q3qeCfW7kAoKtipLuFxQFc%3D",
+        "url": "https://fanqienovel.com/page/7615296291278441534"
       },
       {
         "title": "超神：成为裁决天使后，我无敌了",
         "author": "风云小八",
-        "reads": "22.9万",
+        "reads": "24.5万",
         "intro": "【三王】+【爽文】+【多女】+【身穿】+【不加入超神学院】+【天使阵营】+【不送女】 江泽穿越了，穿越到了超神学院，可惜却穿越到了黄村。 就在江泽焦头烂额之际，一个自称是时空管理局工作人员的人，给了他一个穿越礼包，让他进行选择。 【请穿越者选择，是成为天使，还是恶魔！】 江泽没有半点犹豫，直接选择了成为天使。 就这样，他成了裁决天使，还有一把专属武器—裁决之剑。 …… 成为裁决天使后，他惊讶的发现，他的翅膀，居然能随着实力的提升，而出现变化。 在之后，江泽还获得了，雷电，火焰等等能力，每一种能力，都能带给他不同的变化。 从此以后，已知宇宙里，多了一个，手持裁决之剑，背生十二翼，大杀四方的裁决天使。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o0c830d88922ef239b987809b94eb375c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789422141&x-signature=JzNdNWeoAZs7Ve8RBdrAPdJO2XY%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o0c830d88922ef239b987809b94eb375c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789507237&x-signature=IpIsikZffdMXkCqdBz6%2FdtXIzv8%3D",
         "url": "https://fanqienovel.com/page/7670530917512776728"
+      },
+      {
+        "title": "漫威：牛逼的记忆体贩子只想赚钱",
+        "author": "西红柿炒番茄不加蛋",
+        "reads": "16.9万",
+        "intro": "【漫威】【假面骑士怪人】【财团X】【半幕后】 白默带领家族一手创建财团X，使用向狗系统购买的盖亚记忆体技术，开始向军方合作，在大量吸纳资金的同时，也开始研发T2记忆体，当开发完全部T2记忆体的时候，就能随机解锁下一个区块。 宇宙开关、欲望硬币、海姆冥界、修玛吉亚等等，一系列假面骑士怪人道具以及力量向白默招手。 终局之战爆发，白默已然将地球掌控，甚至在全宇宙都凶名赫赫，但白默对通知世界什么的不感兴趣，依旧在纽约财团X总部看着账户上数不清的零感慨，赚钱比统治世界有趣多了！",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2obdf8dffd646f6bdd09a0888a5b44e7f4~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789507237&x-signature=k9Dj5lLyN77yTatej3cTllWycTA%3D",
+        "url": "https://fanqienovel.com/page/7629290686767975486"
+      },
+      {
+        "title": "超神：被捡回天城的天才物理学家",
+        "author": "三玖Thebest",
+        "reads": "16.7万",
+        "intro": "【评分刚出，会慢慢涨的，应该】 正在陌生星球巡察的天使彦注意到了进行实验的苍羽。 天使彦：小弟弟，跟姐姐聊聊怎么样？ 苍羽：没有教养的臭女人，让我好好教教你什么叫做尊重！ 炙心：跟一起研究的感觉很棒，这种悸动就是爱嘛…… 苍羽：炙心嘛，是个不错的学伴 凯莎：抱歉……我好像搞砸了 鹤熙：呵，凯莎，你的心什么时候跟你屁股下那张椅子一样冰冷了？ 凉冰：靠！卡尔你丫的敢利用老娘！ 琪琳：弟弟，姐姐感觉自己好像在做梦，为什么会有这么多长着翅膀的漂亮女人来找你啊！？ 苍羽：撒，开始实验吧",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o9b14541fa24595999b67286bc176a4ff~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789507237&x-signature=t6GpaV0TqHe%2BCJp6gqY3BmwHqNw%3D",
+        "url": "https://fanqienovel.com/page/7669511849490009112"
       },
       {
         "title": "绝区零：我的数值凌驾于一切之上",
         "author": "逆徒她师尊",
         "reads": "17.1万",
         "intro": "【无脑爽】【无敌】【词条】【系统】【多女主】 依旧old的神力！依旧极致数值！ 左拳伤害高，右拳高伤害！ 当在词条抽奖系统中抽出【劲大】这个词条之后，苏晨就将一切顾虑抛至了脑后。 看着空洞，苏晨稍微活动了一下身体，面无表情的碾了过去。 苏晨：“有什么事情和我的数值说去吧！”",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o9d877bc8a1a4ea9700165f915b503ee1~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789422141&x-signature=kpVGy%2BwopkILLPOCFKNGiVj6B5I%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o9d877bc8a1a4ea9700165f915b503ee1~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789507237&x-signature=yDmYU5pPG2WmUtDvEHDWE3a9fag%3D",
         "url": "https://fanqienovel.com/page/7632716810399271960"
       },
       {
-        "title": "名柯：我有三角洲召唤系统",
-        "author": "萨姆驾驶员的驾驶员",
-        "reads": "13.4万",
-        "intro": "【名柯】【三角洲系统】【非黑非红】【OOC警告】 【多女主】 江澜穿越名侦探柯南世界，获得超级三角洲系统，系统提供一个超级暗网，每完成一单任务就可以获取积分。积分可以用来抽取干员和BOSS等，也可以抽取三角洲超模科技。 【不以恋爱为主，所以感情线进度随缘，进展会很慢，也许】",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oc26e81d1365b02bf2cf2f1d24da93913~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789422141&x-signature=c9U42whm7LRcuOrCvdSR67ouJKo%3D",
-        "url": "https://fanqienovel.com/page/7652025950355344409"
-      },
-      {
-        "title": "超神：被捡回天城的天才物理学家",
-        "author": "三玖Thebest",
-        "reads": "16.9万",
-        "intro": "【评分刚出，会慢慢涨的，应该】 正在陌生星球巡察的天使彦注意到了进行实验的苍羽。 天使彦：小弟弟，跟姐姐聊聊怎么样？ 苍羽：没有教养的臭女人，让我好好教教你什么叫做尊重！ 炙心：跟一起研究的感觉很棒，这种悸动就是爱嘛…… 苍羽：炙心嘛，是个不错的学伴 凯莎：抱歉……我好像搞砸了 鹤熙：呵，凯莎，你的心什么时候跟你屁股下那张椅子一样冰冷了？ 凉冰：靠！卡尔你丫的敢利用老娘！ 琪琳：弟弟，姐姐感觉自己好像在做梦，为什么会有这么多长着翅膀的漂亮女人来找你啊！？ 苍羽：撒，开始实验吧",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o9b14541fa24595999b67286bc176a4ff~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789422141&x-signature=v59HG5h1m%2BEWPOY3I0UvVfhmQ1c%3D",
-        "url": "https://fanqienovel.com/page/7669511849490009112"
+        "title": "综漫：表白被拒就变强？",
+        "author": "一念1浮生",
+        "reads": "15.8万",
+        "intro": "【日常】【多女主】【邻家天使】【路人女主】【夏洛特】【孤独摇滚】…… 白川悠穿越综漫融合的平行东京，入住高级公寓，发现隔壁住着“邻家天使”椎名真昼，自己还就读于丰之崎学园。 绑定【表白被拒就变强】系统，只要对动漫女主表白并被拒绝，就能获得丰厚奖励！ 为了走上人生巅峰，白川悠决定化身无情的“表白机器”。 “椎名同学，我喜欢你，做我女朋友吧。” “白川同学，我们只是邻居，请不要开这种玩笑。” 【叮！表白被拒，奖励：神级厨艺！】 “霞之丘学姐，我喜欢你！” “学弟，你的搭讪方式很老套哦。”【叮！表白被拒，奖励：网文至高神手速！】 白川悠狂薅羊毛，日子过得美滋滋。直到有一天，当他习惯性地敲开邻居的门准备日常表白时，真昼却红着脸，一把将他拉进房间，“如果是悠的话……” 白川悠懵了：不是，你答应了，我怎么拿奖励啊？！",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o51523f0a7e4f7c528e38e6c036427674~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789507237&x-signature=YgjNpX5tPbygpdeGCJa3ulnDbR8%3D",
+        "url": "https://fanqienovel.com/page/7668727260244872254"
       },
       {
         "title": "什么？这莫蒂是个家人侠",
         "author": "小红帽170",
-        "reads": "16.3万",
+        "reads": "16.1万",
         "intro": "【瑞克与莫蒂，无cp，封面是作者自己随便画的，一言难尽，请见谅】 浪遍了无数维度的瑞克·桑切斯，在又一个无聊的夜晚中做出了一个十分惊瑞克的决定——他，要找一个莫蒂了。 由于不像其他瑞克那样有自己的莫蒂，于是他打算偷一只其他家的，好运的是，刚好有一个瑞克确认失踪，而史密斯一家完好无损的纬度。 于是，他也是一个有莫蒂的瑞克了！ 普通的史密斯一家，普通的莫蒂，普通的地球，瑞克十分满意。 然而，就在瑞克在孙子面前大显身手时... 这莫蒂的成绩怎么全是A+？ 这莫蒂怎么一直一个表情？ 这莫蒂在家里话语权怎么这么大？ 这莫蒂怎么是个家人侠？？？ 许多冒险过后，瑞克“真诚”地发问：“我在我们家的地下室发现了很多失踪瑞克的信号，你有什么头绪吗？” 莫蒂：“他们想要伤害我的家人，我这是正当防卫。” 瑞克看着地下室里那些半死不活的“瑞克”们，陷入了沉思。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o550d012df5507127dd4edd87a1f6e867~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789422141&x-signature=Y%2BJ1QYsVE4XUcGsT%2Bv7znTiAQic%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o550d012df5507127dd4edd87a1f6e867~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789507240&x-signature=CsN42S8Dv%2BZfhhD3ds%2BnPiAijLU%3D",
         "url": "https://fanqienovel.com/page/7669853662394453016"
       },
       {
         "title": "综漫：异种族评鉴指南",
         "author": "细节到胃",
-        "reads": "14万",
+        "reads": "13.6万",
         "intro": "【综漫、轻小说西幻、没看过动漫也无所谓。】 “请问本世纪最伟大的冒险者先生，您为什么不去讨伐魔王？” “与我无关。” “诶？可这是危机整个世界的危险……” “与我无关，我又不是这个世界的人。” “……” “好吧，那祝您一路平安，我们要随着城里的人一块撤退……” “与我无……等等！你们不是风俗店吗？风浪越大鱼越贵啊！” “伟大的冒险者先生，因为魔王来袭，城里所有不同种族的风俗娘都要离开了……” “艹！这混蛋魔王！干他呀的！” ——————",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oeff54f3ff50a76aad08a14b391ec937d~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789422145&x-signature=2QT7MbgWi4hVBNWks%2BantruP4yM%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oeff54f3ff50a76aad08a14b391ec937d~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789507240&x-signature=G8N3adKyoxaaL5nBdqrFlMwvOjY%3D",
         "url": "https://fanqienovel.com/page/7635399493684300825"
-      },
-      {
-        "title": "原神：破产之后只能加入愚人众了",
-        "author": "y暮色听雨",
-        "reads": "13.3万",
-        "intro": "（偏日常）我启程的理由很简单，只是为了让愿望延续。 破产的前一个晚上遇到冰神直聘，可为什么她说，要我成为她的眷属。 作为一个有尊严的穿越者，我当然不能同意！至少也要再等个几章～ 莫离：“安娜安娜，你看这个蜜雪冰神玩偶，是不是和你一模一样。” 冰神看着莫离手里那个呆呆的自己陷入沉思。 这简直是在亵渎她的威严，必须抓起来给她打工。 （作者不是原学家，还喜欢跳过剧情，如果有错直接说就好了，ooc致歉）",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o405e8d6fde08a37cc60374bfe9338d2b~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789422145&x-signature=0ikdWWmOCuHqQupEmWZd58d%2BT9k%3D",
-        "url": "https://fanqienovel.com/page/7657731764898515993"
-      },
-      {
-        "title": "综漫：表白被拒就变强？",
-        "author": "一念1浮生",
-        "reads": "16.3万",
-        "intro": "【日常】【多女主】【邻家天使】【路人女主】【夏洛特】【孤独摇滚】…… 白川悠穿越综漫融合的平行东京，入住高级公寓，发现隔壁住着“邻家天使”椎名真昼，自己还就读于丰之崎学园。 绑定【表白被拒就变强】系统，只要对动漫女主表白并被拒绝，就能获得丰厚奖励！ 为了走上人生巅峰，白川悠决定化身无情的“表白机器”。 “椎名同学，我喜欢你，做我女朋友吧。” “白川同学，我们只是邻居，请不要开这种玩笑。” 【叮！表白被拒，奖励：神级厨艺！】 “霞之丘学姐，我喜欢你！” “学弟，你的搭讪方式很老套哦。”【叮！表白被拒，奖励：网文至高神手速！】 白川悠狂薅羊毛，日子过得美滋滋。直到有一天，当他习惯性地敲开邻居的门准备日常表白时，真昼却红着脸，一把将他拉进房间，“如果是悠的话……” 白川悠懵了：不是，你答应了，我怎么拿奖励啊？！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o51523f0a7e4f7c528e38e6c036427674~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789422145&x-signature=lqYX62FtB6utt5182dZir4qNpQQ%3D",
-        "url": "https://fanqienovel.com/page/7668727260244872254"
       },
       {
         "title": "崩铁观影：天幕曝光我，震惊寰宇",
         "author": "喜欢吃榴莲呀",
-        "reads": "12.9万",
+        "reads": "12.3万",
         "intro": "【观影】+【聊天群】+【搞笑】+【原创】+【系统】 烬生死活不愿意发布《崩坏：星穹铁道》这款游戏，系统本想自主发布，但天幕却在这时降临，想要吃瓜的烬生却发现天幕放映起了自己的过往！「斩断格拉默铁骑的繁育命途？」，「和阿哈在寰宇间做慈善？」，「欺骗纯美星神伊德莉拉的感情导致她失踪？」……… 【黑塔】：格拉默铁骑的命途被他斩断了？为什么我的「模拟宇宙」里没有推演出这些？ 【流萤】：是的，曾经我确实有过一种病，叫「失熵症」，后来随着格拉默帝国的灭亡它也消失了！ 【AAA算卦爻老板】：有需要算卦的吗？情运，财运，事业运，在本聊天群预约有优惠！ 【青雀】：罗浮仙舟太卜司门口三缺一，速来！ 【符玄】：青雀，让你站岗，你又摸鱼！ 【来古士】：又一个救世主吗？有意思。烬生，如果看到消息请私信我，我这有一个大项目！ 【那刻夏】：看来我的论证将要实现了，但能不能把我名字改了？我不叫那刻夏，叫我阿那克萨戈拉斯！！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o5a469f4fee1bbc94d0fe4b16fd4a8bfd~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789422145&x-signature=EhKg0Har4M%2FMhPErvRNtzI%2Fz7eI%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o5a469f4fee1bbc94d0fe4b16fd4a8bfd~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789507240&x-signature=HjAEk%2BBtysKcwy1KKay5BbztNc8%3D",
         "url": "https://fanqienovel.com/page/7666171655017745432"
+      },
+      {
+        "title": "名柯：我有三角洲召唤系统",
+        "author": "萨姆驾驶员的驾驶员",
+        "reads": "12.6万",
+        "intro": "【名柯】【三角洲系统】【非黑非红】【OOC警告】【多女主】 江澜穿越名侦探柯南世界，获得超级三角洲系统，系统提供一个超级暗网，每完成一单任务就可以获取积分。积分可以用来抽取干员和BOSS等，也可以抽取三角洲超模科技。 【不以恋爱为主，所以感情线进度随缘，进展会很慢，也许】",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oc26e81d1365b02bf2cf2f1d24da93913~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789507240&x-signature=bNabJWamSknr9Jzaiyg5dY8UkBA%3D",
+        "url": "https://fanqienovel.com/page/7652025950355344409"
+      },
+      {
+        "title": "原神：破产之后只能加入愚人众了",
+        "author": "y暮色听雨",
+        "reads": "12.4万",
+        "intro": "（偏日常）我启程的理由很简单，只是为了让愿望延续。 破产的前一个晚上遇到冰神直聘，可为什么她说，要我成为她的眷属。 作为一个有尊严的穿越者，我当然不能同意！至少也要再等个几章～ 莫离：“安娜安娜，你看这个蜜雪冰神玩偶，是不是和你一模一样。” 冰神看着莫离手里那个呆呆的自己陷入沉思。 这简直是在亵渎她的威严，必须抓起来给她打工。 （作者不是原学家，还喜欢跳过剧情，如果有错直接说就好了，ooc致歉）",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o405e8d6fde08a37cc60374bfe9338d2b~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789507240&x-signature=cdnctxvln5NJLR2hZG8kgWLdXGg%3D",
+        "url": "https://fanqienovel.com/page/7657731764898515993"
       },
       {
         "title": "战锤40K：俺寻思俺是原体",
         "author": "羞妖怪",
-        "reads": "15.3万",
+        "reads": "16.2万",
         "intro": "（评分刚出，后面会涨的！） 别人穿越战锤40K，不是成为原体，就是成为阿斯塔特。 林烨却成为了一只兽人Warboss。 就在他准备接受自己绿皮人生的时候，他震惊的发现： 他能驾驭俺寻思之力！ 于是…… “俺寻思，俺应该是原体。” “俺寻思，你们应该是阿斯塔特。” “俺寻思，帝皇应该需要一支新的军团。” 从此，银河出现了一支画风奇怪的军团。 他们穿着拼装动力甲，驾驶冒烟战车，喊着帝皇万岁。 帝国震惊。 混沌沉默。 异形怀疑人生。 因为守护人类最后防线的，竟然是最不像阿斯塔特的阿斯塔特。 绿皮守国门。 鸡贼死社稷。 俺们第十一军团，来啦！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oc16f69fed4f0c87cfcadc237863d1719~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789422145&x-signature=uIffvqXw9DtOhg5opBzLC3JdR%2Bk%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oc16f69fed4f0c87cfcadc237863d1719~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789507240&x-signature=cVhELgPzl3h3EhvGsztvsYvwdb0%3D",
         "url": "https://fanqienovel.com/page/7672596336994159641"
       },
       {
-        "title": "崩铁：我的未来女友全都重生了",
-        "author": "囨囸囨囸",
-        "reads": "11.2万",
-        "intro": "[崩铁同人]+[多女主]+[日常]+[女主重生]+[轻松搞笑] OOC预警，同时本文会对剧情的某些地方进行修改，并添加一些私设。 白洛明穿越了，穿越到了崩铁的世界，本来只想根据剧情好好混日子的他，却发现剧情慢慢偏离了他的预期。 “什么叫只要我留下来就给我和站长相同的待遇啊。” “什么叫做我只要按时测模拟宇宙，就会给我奖励。等会儿，奖励怎么是这个啊。” “什么又叫做，只要我留下来，大守护者就是我的啊。” 嘎啦崩铁根本不是这样的，你们应该跟我互动，慢慢解锁好感度，然后才能看我的特殊CG啊。什么叫做我站在那里好感度就会提升啊，嘎啦崩铁根本不是这样的！我不接受！ 在经历了众多的攻略后，白洛明如是说。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o1d7f43af89b42eff708d735844d9d85b~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789422145&x-signature=PSWnq6FbF9o2RwtGRWcM711k%2F%2Bo%3D",
-        "url": "https://fanqienovel.com/page/7671316436685442072"
-      },
-      {
-        "title": "火影：开局修改纲手认知",
-        "author": "九幽老魔",
-        "reads": "13.3万",
-        "intro": "【纯手搓无AI+多女主+无龟男情节+偏日常】 信野佑穿越火影，觉醒认知修改系统，可以随意修改他人认知。 【目标人物：纲手姬】 【可修改认知选项如下：】 【选项一：信野佑是我的好弟弟，我要像关心绳树那样爱护他。所需认知点：0（新手限时免费）】 【选项二：我很爱小佑，虽然他现在还小，但我等得起！所需认知点：100】 【选项三：主人的命令小狗要无条件服从。所需认知点：1000】",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oaf418d29c5643efd90d77cf6bc08a89f~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789422145&x-signature=AKcA7KZjZv9bgW3lUtXkf5HEbJ0%3D",
-        "url": "https://fanqienovel.com/page/7667092898453670937"
+        "title": "咒回：十种影法术，我无限抽奖！",
+        "author": "子浮桐槎",
+        "reads": "12.1万",
+        "intro": "（评分刚出，后面会涨） 【咒回】+【战斗爽】+【部分综漫】+【无女主】+【快节奏】 【第126章开启世界范围的死灭洄游！】 穿越到咒术回战，成为禅院家的一员，禅院朔是有些绝望的。 所生时代和牢师同辈，本以为多年后也要去cosplay宿傩的减速带，还好有系统在手，禅院朔直接左手十种影法术，右手随机化术式开始抽奖。 别人玩十种影法术，召唤玉犬、鵺‌、大蛇… 禅院朔玩十种影法术，召唤地狱三头犬、贝蒙斯坦、魔格大蛇，就很…… 十几年后的新宿，宿傩看着飞过的乱七八糟的式神，一时间陷入了沉默。 斗傩决战降临，新宿的上空，庵歌姬、乐岩寺嘉伸奏响雨爱，这一发200%功率的咒力冲击，宿傩你给我接好了！ 宿傩：没让禅院朔大人尽力，真是抱歉呢… 羂索：我打禅院朔？真的假的？ 禅院朔：什么宿傩、羂索？不过是生在没有我时代的凡夫罢了！",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2od31bfe1362c779e8ba3c8d1a616de657~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789507240&x-signature=W%2BQFthTDTYHp5dxETZ65T42Qd2I%3D",
+        "url": "https://fanqienovel.com/page/7670912296201227326"
       },
       {
         "title": "火影：纲手想逃？我直接起兵木叶",
         "author": "小折花",
-        "reads": "11.6万",
+        "reads": "11.5万",
         "intro": "医疗忍者应心怀悲悯，专注救死扶伤，远离厮杀纷争。 金发女人一边穿衣，一边站在禅院鸠面前。 “要么成为医疗忍者，要么请你自裁于我面前，我绝不会为村子留下祸患。” “女人，你叫什么名字?” “区区一个无名小卒，没必要知道。” 第二次忍界大战，雨隐运输小队覆灭，唯有禅院鸠幸存，却被木叶纲手捉走，险死还生。 系统：只要施展医疗忍术治疗目标，就能掠夺对方最强的一项属性。 一夜之后，禅院鸠重返雨隐，这次他用筹码获得山椒鱼半藏信任，直接着手组建整个雨隐医疗部。 被称作忍界绞肉机的二战战场上死伤无数，却尽数成了禅院鸠变强的养料。 “再度见到我时，纲手，你会是什么表情呢？” 在阴雨连绵的雨之国，一名手握生死大权，凭借行医不断变强的医疗忍者，正在一步步站上忍界顶端。 “不愿承认错误？不愿和我相认？那别怪我打下整个木叶！” ...... 如果再给纲手一次机会，她发誓，一定要在初见时，不和这个麻烦的家伙扯上任何关系。 至少要好好回答他的问题，不被他记恨在心。 “纲手，你心里明明那么恨我，却还是从没想过要杀我吗？” 望着院子里练习手里剑的女儿，女人只能羞怒的回以拳脚。 “闭嘴啊混蛋！不要在孩子面前说不吉利的话！”",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o4e0e5fe3929ba474e3dfb0ffe096523b~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789422145&x-signature=56%2FTEgoP6CJcCAT3h7eYtCY4o%2FA%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o4e0e5fe3929ba474e3dfb0ffe096523b~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789507240&x-signature=xnEYstHJjV8J3OCBGK%2FbgAslK2g%3D",
         "url": "https://fanqienovel.com/page/7668267260858862617"
       },
       {
-        "title": "漫威：牛逼的记忆体贩子只想赚钱",
-        "author": "西红柿炒番茄不加蛋",
-        "reads": "14.9万",
-        "intro": "【漫威】【假面骑士怪人】【财团X】【半幕后】 白默带领家族一手创建财团X，使用向狗系统购买的盖亚记忆体技术，开始向军方合作，在大量吸纳资金的同时，也开始研发T2记忆体，当开发完全部T2记忆体的时候，就能随机解锁下一个区块。 宇宙开关、欲望硬币、海姆冥界、修玛吉亚等等，一系列假面骑士怪人道具以及力量向白默招手。 终局之战爆发，白默已然将地球掌控，甚至在全宇宙都凶名赫赫，但白默对通知世界什么的不感兴趣，依旧在纽约财团X总部看着账户上数不清的零感慨，赚钱比统治世界有趣多了！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2obdf8dffd646f6bdd09a0888a5b44e7f4~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789422145&x-signature=DXtGpw%2BY4LDF3FZSSKdHxBtcTPk%3D",
-        "url": "https://fanqienovel.com/page/7629290686767975486"
+        "title": "开局得吃，我去！怎么是蕾米埃尔",
+        "author": "乐土永存",
+        "reads": "11.8万",
+        "intro": "［修罗场］［贴贴］［新艾丽都日常］ 撞大运后自己变成白发红瞳萝莉吸血鬼了怎么办？ 什么叫饿昏眼扑倒的人是初代虚狩蕾米埃尔！ 什么叫朱鸢长官收留了自己，能光明正大吃铁软饭！？ 什么又叫法厄同喊才是我的金手指人脉， 哈基哲，你这家伙，！ 青衣前辈，给我直接电死他！ 启明星大姐姐，能不能给我多派点轻松的委托。 瑟汐老师怎么连你也 那女人将老大打致跪地，定是要迫老大跟她回去啊 我真的只是想混口血吃，你们怎么堵我大门干什么啊！ 众女：你吃饱了，我吃什么？ 栖纱：唏，能和解不？ 新艾丽都大舞台，有活你就来！ 口瓜！好劲啊！双链锯剑就下绝密空洞！ 出大红力，诶，大狗！？ 叫！还叫不叫了！ 赞美圣吉列斯！帝皇在上！ 忠不忠！忠不忠！ 可怜的人机哲，看在你带我进空洞，这次就破例让你喊一声吧。 诶？桥上怎么刷非洲之星了？ 堵桥来！",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oc3695f3822f29bf566ee899fb743cf27~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789507240&x-signature=gDi211MZSFVi5O5MA4lzC8LDr%2BU%3D",
+        "url": "https://fanqienovel.com/page/7672758391567027225"
       },
       {
-        "title": "崩铁：开局沙福林叫醒法",
-        "author": "爱摸鱼的小青雀",
-        "reads": "11.2万",
-        "intro": "【轻松搞笑】＋【多女主】＋【诸天】 秦远穿越崩铁宇宙，获得垂钓系统。 至此寰宇发生一件件离奇之事…… 造物引擎：“什么叫我去打加拉特隆？真的假的？” 波尔卡·卡卡目：“为什么我后面那家伙一直拿木棍打我？我打他还没伤害？” 瓦尔特：“666凯文居然送我理之律者核心，人类药剂吧完蛋了！” 丹恒：……",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ob813f65a4ac27df89eb5f539ec7c6b4a~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789422145&x-signature=CIyGqIrCSF6ph4SYIJU%2Fy%2BHg54U%3D",
-        "url": "https://fanqienovel.com/page/7668967672704420888"
+        "title": "咒回：我成宿坨？召唤2点5条悟",
+        "author": "活着就是为了穿拖鞋",
+        "reads": "13.2万",
+        "intro": "【咒术回战】【宿坨】【十种区法术】【伏魔御厨子】【搞笑】【宿坨打宿傩？】【2.5条悟】【鹿紫云（芒果）丁】【抽象】【神人语录】 昼辉原本只是和网友论战，讨论宿坨和下半截2.5条悟战斗谁会赢 没想到论战胜利后，他自己成了宿坨？！ 落地就面对坐牢一千年刚被假释的诅咒之王宿傩，和超绝不吃压力小子伏黑惠 而且昼辉发现，自己体内不仅有宿坨所拥有的【御厨子】术式，自带各种高级技巧 甚至还多出一个十种影法术的变异版本！ ——十种区法术！！！ 他能够召唤各种强者最区的形态！ 比如2.5条悟，被切成芒果丁的鹿紫云一，被借过后石流龙的大炮脑壳…… —————— 五条悟：你是说，你召唤出的这截能跑能跳的下半身，是我的？？ 昼辉：没座~ 鹿紫云一：地上这一滩切成方块，还能放电，甚至每块都能各自启动术式的芒果丁碎肉，是我？？ 昼辉：又寸！ 伏黑惠：他们的我都能理解，为什么你召唤出来的我，明明是完整形态，却一直趴地上睡觉？ 昼辉：因为你在摆烂",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o6ca899a8c842e456eca3d4ca0b035073~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789507240&x-signature=V0njB6tb9KMCdsoJU%2BBe%2F9QHvsU%3D",
+        "url": "https://fanqienovel.com/page/7672517474591443992"
       }
     ]
   },
@@ -227,221 +237,231 @@
     {
       "name": "动漫衍生",
       "trend": {
-        "new_count": 1,
-        "dropped_count": 1,
+        "new_count": 3,
+        "dropped_count": 3,
         "new_books": [
-          "漫威：牛逼的记忆体贩子只想赚钱"
+          "咒回：十种影法术，我无限抽奖！",
+          "开局得吃，我去！怎么是蕾米埃尔",
+          "咒回：我成宿坨？召唤2点5条悟"
         ],
         "dropped_books": [
           {
-            "title": "咒回：十种影法术，我无限抽奖！",
-            "intro": "（评分刚出，后面会涨） 【咒回】+【战斗爽】+【部分综漫】+【无女主】+【快节奏】+【抽卡】 穿越到咒术回战，成为禅院家的一员，禅院朔是有些绝望的。 所生时代和牢师同辈，本以为多年后也要去cospla"
+            "title": "崩铁：我的未来女友全都重生了",
+            "intro": "[崩铁同人]+[多女主]+[日常]+[女主重生]+[轻松搞笑] OOC预警，同时本文会对剧情的某些地方进行修改，并添加一些私设。 白洛明穿越了，穿越到了崩铁的世界，本来只想根据剧情好好混日子的他，却发"
+          },
+          {
+            "title": "火影：开局修改纲手认知",
+            "intro": "【纯手搓无AI+多女主+无龟男情节+偏日常】 信野佑穿越火影，觉醒认知修改系统，可以随意修改他人认知。 【目标人物：纲手姬】 【可修改认知选项如下：】 【选项一：信野佑是我的好弟弟，我要像关心绳树那样"
+          },
+          {
+            "title": "崩铁：开局沙福林叫醒法",
+            "intro": "【轻松搞笑】＋【多女主】＋【诸天】 秦远穿越崩铁宇宙，获得垂钓系统。 至此寰宇发生一件件离奇之事…… 造物引擎：“什么叫我去打加拉特隆？真的假的？” 波尔卡·卡卡目：“为什么我后面那家伙一直拿木棍打我"
           }
         ],
         "top_risers": [
           {
-            "title": "名柯：我有三角洲召唤系统",
-            "change": "+4"
+            "title": "漫威：牛逼的记忆体贩子只想赚钱",
+            "change": "+12"
           },
           {
-            "title": "星铁：纳努克直聘？我还是跳了吧",
-            "change": "+2"
+            "title": "综漫：表白被拒就变强？",
+            "change": "+3"
           },
           {
-            "title": "综漫：人在霓虹，开局永恒万花筒",
+            "title": "Fate：开局召唤喜悦闪",
             "change": "+1"
           }
         ],
         "top_fallers": [
           {
-            "title": "超神：成为裁决天使后，我无敌了",
-            "change": "-4"
+            "title": "名柯：我有三角洲召唤系统",
+            "change": "-6"
           },
           {
-            "title": "超神：被捡回天城的天才物理学家",
-            "change": "-1"
+            "title": "原神：破产之后只能加入愚人众了",
+            "change": "-3"
           },
           {
-            "title": "什么？这莫蒂是个家人侠",
-            "change": "-1"
+            "title": "绝区零：我的数值凌驾于一切之上",
+            "change": "-2"
           }
         ],
         "reads_growth": [
           {
-            "title": "综漫：表白被拒就变强？",
-            "growth": "+2.1万"
-          },
-          {
-            "title": "天幕通原神，开局钟离你让我陌生",
-            "growth": "+1.5万"
+            "title": "漫威：牛逼的记忆体贩子只想赚钱",
+            "growth": "+2.0万"
           },
           {
             "title": "超神：成为裁决天使后，我无敌了",
-            "growth": "+1.3万"
+            "growth": "+1.6万"
+          },
+          {
+            "title": "天幕通原神，开局钟离你让我陌生",
+            "growth": "+1.4万"
           }
         ],
-        "summary": "新增1本上榜；1本掉出（《咒回：十种影法术，我无限抽奖！》）；《名柯：我有三角洲召唤系统》排名上升+4位；《综漫：表白被拒就变强？》阅读量+2.1万。"
+        "summary": "新增3本上榜；3本掉出（《崩铁：我的未来女友全都重生了》、《火影：开局修改纲手认知》、《崩铁：开局沙福林叫醒法》）；《漫威：牛逼的记忆体贩子只想赚钱》排名上升+12位；《漫威：牛逼的记忆体贩子只想赚钱》阅读量+2.0万。"
       },
       "books": [
         {
           "title": "火影：从离开木叶建立忍国开始",
           "author": "世界树的游戏",
-          "reads": "23.5万",
+          "reads": "23万",
           "intro": "（评分刚出，大概，有可能上涨） 穿越火影宇智波一族，斑刚刚离开木叶，而他又获得了村子建造系统，只要发展村子就能变强，可村子已经定型了，还有一个盯着宇智波的天生邪恶千手，在木叶也是不可能的了，随即带上盘缠果断离开村子；",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o2c8837ce8b124d71f70b2e6050421f0e~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789422141&x-signature=QX6VQOBr64WwOX2PvbWSZ2%2BBSf8%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o2c8837ce8b124d71f70b2e6050421f0e~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789507237&x-signature=Ho825eCzllY%2Fkh3NFT3GR24YXJY%3D",
           "url": "https://fanqienovel.com/page/7668486626917501976"
         },
         {
           "title": "综漫：人在霓虹，开局永恒万花筒",
           "author": "南辰Nchen",
-          "reads": "21.6万",
+          "reads": "20.4万",
           "intro": "【综漫】【爽文】【日常】 熬夜追番被大运送走，再睁眼，霓虹变成了龙国的一个省。 刚下飞机，系统就砸过来一个新手礼包。 【恭喜宿主获得——宇智波佐助模板（永恒万花筒时期）】 苏白大笑，表示路过的狗都要挨他一发天照。 带着三亿启动资金和一栋港区别墅，他进了千代田高等学园。 同桌是小鸟游六花。 “契约者！”她一巴掌拍他肩上，“我终于找到你了！” 后排比企谷八幡默默往远处挪了挪，角落后藤一里把脑袋塞进桌洞，第一排雪之下雪乃写字的笔顿住了。 隔壁班的四谷见子正被恶灵追着跑。 苏白看着满教室的动漫角色，明白了。 系统叫他来霓虹，就是来给这帮人当外挂的。 小鸟游六花：跨越无数世界线的羁绊将我们联结在了一起，从今天起你便是邪王真眼使者的第一契约者。 四谷见子：那个……谢谢你救了我……如、如果你不嫌弃的话……我以后可以一直跟着你吗？ 后藤一里：人多的地方好可怕……但、但有阿白在的话……好像就没那么怕了。 雪之下雪乃：可恶……为什么每次考试我都比他低两分。 平冢静：苏白是我带过最让人头疼的学生，没有之一。 樱岛麻衣：没有阿白的话……我大概早就消失了。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o7f0fbcc3c59e8a57586ce0f55fa452fd~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789422141&x-signature=%2F%2B66DwDEPdGQuYzMS6Ky4aDqX2Y%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o7f0fbcc3c59e8a57586ce0f55fa452fd~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789507237&x-signature=6GwHrCb4MWh1RjGwkxvvos7jI4M%3D",
           "url": "https://fanqienovel.com/page/7664132730577226777"
         },
         {
           "title": "天幕通原神，开局钟离你让我陌生",
           "author": "摸鱼青总",
-          "reads": "20.1万",
+          "reads": "21.5万",
           "intro": "当金发的少女携带着银发的应急食品即将走进蒙德城时。 忽然，天幕拉开，横贯于苍穹之上，笼罩七国。 在所有人都心生疑惑之际，一个声音刺破苍穹，大声呼喊着：“钟离，你让我感到陌生。” 于是乎，尚未踏足璃月的少女，便得知了岩王假死、风神忽悠的真相。 大慈树王的付出，芙卡洛斯的牺牲，火神五百年的计划与月神穿越时空的回归…… 深渊，是一切未选择的命运的恨意。 天幕，是一切真善美的祝福。 当爱化解伤痛，信仰便能弥补遗憾。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o607f6679a3d0ba2d016b058dc7c0ddff~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789422141&x-signature=osrGHJqz8egNGYAvjW6uCO9ziVM%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o607f6679a3d0ba2d016b058dc7c0ddff~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789507237&x-signature=SYigq3kQmPXysvtGBcx4skQhVdw%3D",
           "url": "https://fanqienovel.com/page/7668210034865605694"
-        },
-        {
-          "title": "星铁：纳努克直聘？我还是跳了吧",
-          "author": "大海里的一只船",
-          "reads": "19.5万",
-          "intro": "我叫陆蔄（màn）生物年龄18岁，因试图用后脑勺肘击大理石而穿越。穿越后凭借着较强的个人能力得到了纳努克绝灭有限公司的青睐，老板发的衣服很结实，我很喜欢。 为什么入职的时候没有欢迎会？ 公司发的纹身贴为什么可以搓掉？ 为什么不拉我进工作群？ 等等，什么叫... 没有工资？工资自己去找个星球去化缘？ 与角色互动身份暴露时，好感度自动降低20点？ 我懂了，一定是一场打压新人的职场打压。 可恶，看来要发扬我的蔄霸精神了。 在此列举三条有关公司的法则： 纳努克绝灭有限公司第一法则：你不毁灭我，我就毁灭你。 纳努克绝灭有限公司第二法则：不发工资的老板，该肘。 纳努克绝灭有限公司第三法则：还待在这儿干啥呢？兄弟，领完金色纹身贴和工作服就跑隔壁跳槽吧！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o881ed0b52dc3348e4f81be6c48c8c1af~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789422141&x-signature=gdz%2F2rV%2B%2B0GbBuJK3JwW80V4NLo%3D",
-          "url": "https://fanqienovel.com/page/7615296291278441534"
         },
         {
           "title": "Fate：开局召唤喜悦闪",
           "author": "错误的黑大帅",
-          "reads": "18.6万",
+          "reads": "18.7万",
           "intro": "陈尘以为自己穿越后可以走上人生巅峰， 但...为什么成为圣杯战争的炮灰啊？！ 没关系，凭借自己的努力，只要召唤一个强力的英灵就能... 等会，这个棕色大只佬是谁？ 什么叫你是喜悦闪！？",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o861f2175c4916a3a580684fb5be8cf87~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789422141&x-signature=fXd5A%2Fy%2FxswY%2BUWDbVDLn5Iwt%2FY%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o861f2175c4916a3a580684fb5be8cf87~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789507237&x-signature=z6USLpZkkoo2r2i7poXKJ8lO54w%3D",
           "url": "https://fanqienovel.com/page/7667054968662133785"
+        },
+        {
+          "title": "星铁：纳努克直聘？我还是跳了吧",
+          "author": "大海里的一只船",
+          "reads": "20万",
+          "intro": "我叫陆蔄（màn）生物年龄18岁，因试图用后脑勺肘击大理石而穿越。穿越后凭借着较强的个人能力得到了纳努克绝灭有限公司的青睐，老板发的衣服很结实，我很喜欢。 为什么入职的时候没有欢迎会？ 公司发的纹身贴为什么可以搓掉？ 为什么不拉我进工作群？ 等等，什么叫... 没有工资？工资自己去找个星球去化缘？ 与角色互动身份暴露时，好感度自动降低20点？ 我懂了，一定是一场打压新人的职场打压。 可恶，看来要发扬我的蔄霸精神了。 在此列举三条有关公司的法则： 纳努克绝灭有限公司第一法则：你不毁灭我，我就毁灭你。 纳努克绝灭有限公司第二法则：不发工资的老板，该肘。 纳努克绝灭有限公司第三法则：还待在这儿干啥呢？兄弟，领完金色纹身贴和工作服就跑隔壁跳槽吧！",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o881ed0b52dc3348e4f81be6c48c8c1af~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789507237&x-signature=CZZ26Q3qeCfW7kAoKtipLuFxQFc%3D",
+          "url": "https://fanqienovel.com/page/7615296291278441534"
         },
         {
           "title": "超神：成为裁决天使后，我无敌了",
           "author": "风云小八",
-          "reads": "22.9万",
+          "reads": "24.5万",
           "intro": "【三王】+【爽文】+【多女】+【身穿】+【不加入超神学院】+【天使阵营】+【不送女】 江泽穿越了，穿越到了超神学院，可惜却穿越到了黄村。 就在江泽焦头烂额之际，一个自称是时空管理局工作人员的人，给了他一个穿越礼包，让他进行选择。 【请穿越者选择，是成为天使，还是恶魔！】 江泽没有半点犹豫，直接选择了成为天使。 就这样，他成了裁决天使，还有一把专属武器—裁决之剑。 …… 成为裁决天使后，他惊讶的发现，他的翅膀，居然能随着实力的提升，而出现变化。 在之后，江泽还获得了，雷电，火焰等等能力，每一种能力，都能带给他不同的变化。 从此以后，已知宇宙里，多了一个，手持裁决之剑，背生十二翼，大杀四方的裁决天使。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o0c830d88922ef239b987809b94eb375c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789422141&x-signature=JzNdNWeoAZs7Ve8RBdrAPdJO2XY%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o0c830d88922ef239b987809b94eb375c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789507237&x-signature=IpIsikZffdMXkCqdBz6%2FdtXIzv8%3D",
           "url": "https://fanqienovel.com/page/7670530917512776728"
+        },
+        {
+          "title": "漫威：牛逼的记忆体贩子只想赚钱",
+          "author": "西红柿炒番茄不加蛋",
+          "reads": "16.9万",
+          "intro": "【漫威】【假面骑士怪人】【财团X】【半幕后】 白默带领家族一手创建财团X，使用向狗系统购买的盖亚记忆体技术，开始向军方合作，在大量吸纳资金的同时，也开始研发T2记忆体，当开发完全部T2记忆体的时候，就能随机解锁下一个区块。 宇宙开关、欲望硬币、海姆冥界、修玛吉亚等等，一系列假面骑士怪人道具以及力量向白默招手。 终局之战爆发，白默已然将地球掌控，甚至在全宇宙都凶名赫赫，但白默对通知世界什么的不感兴趣，依旧在纽约财团X总部看着账户上数不清的零感慨，赚钱比统治世界有趣多了！",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2obdf8dffd646f6bdd09a0888a5b44e7f4~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789507237&x-signature=k9Dj5lLyN77yTatej3cTllWycTA%3D",
+          "url": "https://fanqienovel.com/page/7629290686767975486"
+        },
+        {
+          "title": "超神：被捡回天城的天才物理学家",
+          "author": "三玖Thebest",
+          "reads": "16.7万",
+          "intro": "【评分刚出，会慢慢涨的，应该】 正在陌生星球巡察的天使彦注意到了进行实验的苍羽。 天使彦：小弟弟，跟姐姐聊聊怎么样？ 苍羽：没有教养的臭女人，让我好好教教你什么叫做尊重！ 炙心：跟一起研究的感觉很棒，这种悸动就是爱嘛…… 苍羽：炙心嘛，是个不错的学伴 凯莎：抱歉……我好像搞砸了 鹤熙：呵，凯莎，你的心什么时候跟你屁股下那张椅子一样冰冷了？ 凉冰：靠！卡尔你丫的敢利用老娘！ 琪琳：弟弟，姐姐感觉自己好像在做梦，为什么会有这么多长着翅膀的漂亮女人来找你啊！？ 苍羽：撒，开始实验吧",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o9b14541fa24595999b67286bc176a4ff~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789507237&x-signature=t6GpaV0TqHe%2BCJp6gqY3BmwHqNw%3D",
+          "url": "https://fanqienovel.com/page/7669511849490009112"
         },
         {
           "title": "绝区零：我的数值凌驾于一切之上",
           "author": "逆徒她师尊",
           "reads": "17.1万",
           "intro": "【无脑爽】【无敌】【词条】【系统】【多女主】 依旧old的神力！依旧极致数值！ 左拳伤害高，右拳高伤害！ 当在词条抽奖系统中抽出【劲大】这个词条之后，苏晨就将一切顾虑抛至了脑后。 看着空洞，苏晨稍微活动了一下身体，面无表情的碾了过去。 苏晨：“有什么事情和我的数值说去吧！”",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o9d877bc8a1a4ea9700165f915b503ee1~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789422141&x-signature=kpVGy%2BwopkILLPOCFKNGiVj6B5I%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o9d877bc8a1a4ea9700165f915b503ee1~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789507237&x-signature=yDmYU5pPG2WmUtDvEHDWE3a9fag%3D",
           "url": "https://fanqienovel.com/page/7632716810399271960"
         },
         {
-          "title": "名柯：我有三角洲召唤系统",
-          "author": "萨姆驾驶员的驾驶员",
-          "reads": "13.4万",
-          "intro": "【名柯】【三角洲系统】【非黑非红】【OOC警告】 【多女主】 江澜穿越名侦探柯南世界，获得超级三角洲系统，系统提供一个超级暗网，每完成一单任务就可以获取积分。积分可以用来抽取干员和BOSS等，也可以抽取三角洲超模科技。 【不以恋爱为主，所以感情线进度随缘，进展会很慢，也许】",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oc26e81d1365b02bf2cf2f1d24da93913~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789422141&x-signature=c9U42whm7LRcuOrCvdSR67ouJKo%3D",
-          "url": "https://fanqienovel.com/page/7652025950355344409"
-        },
-        {
-          "title": "超神：被捡回天城的天才物理学家",
-          "author": "三玖Thebest",
-          "reads": "16.9万",
-          "intro": "【评分刚出，会慢慢涨的，应该】 正在陌生星球巡察的天使彦注意到了进行实验的苍羽。 天使彦：小弟弟，跟姐姐聊聊怎么样？ 苍羽：没有教养的臭女人，让我好好教教你什么叫做尊重！ 炙心：跟一起研究的感觉很棒，这种悸动就是爱嘛…… 苍羽：炙心嘛，是个不错的学伴 凯莎：抱歉……我好像搞砸了 鹤熙：呵，凯莎，你的心什么时候跟你屁股下那张椅子一样冰冷了？ 凉冰：靠！卡尔你丫的敢利用老娘！ 琪琳：弟弟，姐姐感觉自己好像在做梦，为什么会有这么多长着翅膀的漂亮女人来找你啊！？ 苍羽：撒，开始实验吧",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o9b14541fa24595999b67286bc176a4ff~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789422141&x-signature=v59HG5h1m%2BEWPOY3I0UvVfhmQ1c%3D",
-          "url": "https://fanqienovel.com/page/7669511849490009112"
+          "title": "综漫：表白被拒就变强？",
+          "author": "一念1浮生",
+          "reads": "15.8万",
+          "intro": "【日常】【多女主】【邻家天使】【路人女主】【夏洛特】【孤独摇滚】…… 白川悠穿越综漫融合的平行东京，入住高级公寓，发现隔壁住着“邻家天使”椎名真昼，自己还就读于丰之崎学园。 绑定【表白被拒就变强】系统，只要对动漫女主表白并被拒绝，就能获得丰厚奖励！ 为了走上人生巅峰，白川悠决定化身无情的“表白机器”。 “椎名同学，我喜欢你，做我女朋友吧。” “白川同学，我们只是邻居，请不要开这种玩笑。” 【叮！表白被拒，奖励：神级厨艺！】 “霞之丘学姐，我喜欢你！” “学弟，你的搭讪方式很老套哦。”【叮！表白被拒，奖励：网文至高神手速！】 白川悠狂薅羊毛，日子过得美滋滋。直到有一天，当他习惯性地敲开邻居的门准备日常表白时，真昼却红着脸，一把将他拉进房间，“如果是悠的话……” 白川悠懵了：不是，你答应了，我怎么拿奖励啊？！",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o51523f0a7e4f7c528e38e6c036427674~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789507237&x-signature=YgjNpX5tPbygpdeGCJa3ulnDbR8%3D",
+          "url": "https://fanqienovel.com/page/7668727260244872254"
         },
         {
           "title": "什么？这莫蒂是个家人侠",
           "author": "小红帽170",
-          "reads": "16.3万",
+          "reads": "16.1万",
           "intro": "【瑞克与莫蒂，无cp，封面是作者自己随便画的，一言难尽，请见谅】 浪遍了无数维度的瑞克·桑切斯，在又一个无聊的夜晚中做出了一个十分惊瑞克的决定——他，要找一个莫蒂了。 由于不像其他瑞克那样有自己的莫蒂，于是他打算偷一只其他家的，好运的是，刚好有一个瑞克确认失踪，而史密斯一家完好无损的纬度。 于是，他也是一个有莫蒂的瑞克了！ 普通的史密斯一家，普通的莫蒂，普通的地球，瑞克十分满意。 然而，就在瑞克在孙子面前大显身手时... 这莫蒂的成绩怎么全是A+？ 这莫蒂怎么一直一个表情？ 这莫蒂在家里话语权怎么这么大？ 这莫蒂怎么是个家人侠？？？ 许多冒险过后，瑞克“真诚”地发问：“我在我们家的地下室发现了很多失踪瑞克的信号，你有什么头绪吗？” 莫蒂：“他们想要伤害我的家人，我这是正当防卫。” 瑞克看着地下室里那些半死不活的“瑞克”们，陷入了沉思。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o550d012df5507127dd4edd87a1f6e867~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789422141&x-signature=Y%2BJ1QYsVE4XUcGsT%2Bv7znTiAQic%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o550d012df5507127dd4edd87a1f6e867~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789507240&x-signature=CsN42S8Dv%2BZfhhD3ds%2BnPiAijLU%3D",
           "url": "https://fanqienovel.com/page/7669853662394453016"
         },
         {
           "title": "综漫：异种族评鉴指南",
           "author": "细节到胃",
-          "reads": "14万",
+          "reads": "13.6万",
           "intro": "【综漫、轻小说西幻、没看过动漫也无所谓。】 “请问本世纪最伟大的冒险者先生，您为什么不去讨伐魔王？” “与我无关。” “诶？可这是危机整个世界的危险……” “与我无关，我又不是这个世界的人。” “……” “好吧，那祝您一路平安，我们要随着城里的人一块撤退……” “与我无……等等！你们不是风俗店吗？风浪越大鱼越贵啊！” “伟大的冒险者先生，因为魔王来袭，城里所有不同种族的风俗娘都要离开了……” “艹！这混蛋魔王！干他呀的！” ——————",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oeff54f3ff50a76aad08a14b391ec937d~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789422145&x-signature=2QT7MbgWi4hVBNWks%2BantruP4yM%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oeff54f3ff50a76aad08a14b391ec937d~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789507240&x-signature=G8N3adKyoxaaL5nBdqrFlMwvOjY%3D",
           "url": "https://fanqienovel.com/page/7635399493684300825"
-        },
-        {
-          "title": "原神：破产之后只能加入愚人众了",
-          "author": "y暮色听雨",
-          "reads": "13.3万",
-          "intro": "（偏日常）我启程的理由很简单，只是为了让愿望延续。 破产的前一个晚上遇到冰神直聘，可为什么她说，要我成为她的眷属。 作为一个有尊严的穿越者，我当然不能同意！至少也要再等个几章～ 莫离：“安娜安娜，你看这个蜜雪冰神玩偶，是不是和你一模一样。” 冰神看着莫离手里那个呆呆的自己陷入沉思。 这简直是在亵渎她的威严，必须抓起来给她打工。 （作者不是原学家，还喜欢跳过剧情，如果有错直接说就好了，ooc致歉）",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o405e8d6fde08a37cc60374bfe9338d2b~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789422145&x-signature=0ikdWWmOCuHqQupEmWZd58d%2BT9k%3D",
-          "url": "https://fanqienovel.com/page/7657731764898515993"
-        },
-        {
-          "title": "综漫：表白被拒就变强？",
-          "author": "一念1浮生",
-          "reads": "16.3万",
-          "intro": "【日常】【多女主】【邻家天使】【路人女主】【夏洛特】【孤独摇滚】…… 白川悠穿越综漫融合的平行东京，入住高级公寓，发现隔壁住着“邻家天使”椎名真昼，自己还就读于丰之崎学园。 绑定【表白被拒就变强】系统，只要对动漫女主表白并被拒绝，就能获得丰厚奖励！ 为了走上人生巅峰，白川悠决定化身无情的“表白机器”。 “椎名同学，我喜欢你，做我女朋友吧。” “白川同学，我们只是邻居，请不要开这种玩笑。” 【叮！表白被拒，奖励：神级厨艺！】 “霞之丘学姐，我喜欢你！” “学弟，你的搭讪方式很老套哦。”【叮！表白被拒，奖励：网文至高神手速！】 白川悠狂薅羊毛，日子过得美滋滋。直到有一天，当他习惯性地敲开邻居的门准备日常表白时，真昼却红着脸，一把将他拉进房间，“如果是悠的话……” 白川悠懵了：不是，你答应了，我怎么拿奖励啊？！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o51523f0a7e4f7c528e38e6c036427674~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789422145&x-signature=lqYX62FtB6utt5182dZir4qNpQQ%3D",
-          "url": "https://fanqienovel.com/page/7668727260244872254"
         },
         {
           "title": "崩铁观影：天幕曝光我，震惊寰宇",
           "author": "喜欢吃榴莲呀",
-          "reads": "12.9万",
+          "reads": "12.3万",
           "intro": "【观影】+【聊天群】+【搞笑】+【原创】+【系统】 烬生死活不愿意发布《崩坏：星穹铁道》这款游戏，系统本想自主发布，但天幕却在这时降临，想要吃瓜的烬生却发现天幕放映起了自己的过往！「斩断格拉默铁骑的繁育命途？」，「和阿哈在寰宇间做慈善？」，「欺骗纯美星神伊德莉拉的感情导致她失踪？」……… 【黑塔】：格拉默铁骑的命途被他斩断了？为什么我的「模拟宇宙」里没有推演出这些？ 【流萤】：是的，曾经我确实有过一种病，叫「失熵症」，后来随着格拉默帝国的灭亡它也消失了！ 【AAA算卦爻老板】：有需要算卦的吗？情运，财运，事业运，在本聊天群预约有优惠！ 【青雀】：罗浮仙舟太卜司门口三缺一，速来！ 【符玄】：青雀，让你站岗，你又摸鱼！ 【来古士】：又一个救世主吗？有意思。烬生，如果看到消息请私信我，我这有一个大项目！ 【那刻夏】：看来我的论证将要实现了，但能不能把我名字改了？我不叫那刻夏，叫我阿那克萨戈拉斯！！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o5a469f4fee1bbc94d0fe4b16fd4a8bfd~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789422145&x-signature=EhKg0Har4M%2FMhPErvRNtzI%2Fz7eI%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o5a469f4fee1bbc94d0fe4b16fd4a8bfd~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789507240&x-signature=HjAEk%2BBtysKcwy1KKay5BbztNc8%3D",
           "url": "https://fanqienovel.com/page/7666171655017745432"
+        },
+        {
+          "title": "名柯：我有三角洲召唤系统",
+          "author": "萨姆驾驶员的驾驶员",
+          "reads": "12.6万",
+          "intro": "【名柯】【三角洲系统】【非黑非红】【OOC警告】【多女主】 江澜穿越名侦探柯南世界，获得超级三角洲系统，系统提供一个超级暗网，每完成一单任务就可以获取积分。积分可以用来抽取干员和BOSS等，也可以抽取三角洲超模科技。 【不以恋爱为主，所以感情线进度随缘，进展会很慢，也许】",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oc26e81d1365b02bf2cf2f1d24da93913~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789507240&x-signature=bNabJWamSknr9Jzaiyg5dY8UkBA%3D",
+          "url": "https://fanqienovel.com/page/7652025950355344409"
+        },
+        {
+          "title": "原神：破产之后只能加入愚人众了",
+          "author": "y暮色听雨",
+          "reads": "12.4万",
+          "intro": "（偏日常）我启程的理由很简单，只是为了让愿望延续。 破产的前一个晚上遇到冰神直聘，可为什么她说，要我成为她的眷属。 作为一个有尊严的穿越者，我当然不能同意！至少也要再等个几章～ 莫离：“安娜安娜，你看这个蜜雪冰神玩偶，是不是和你一模一样。” 冰神看着莫离手里那个呆呆的自己陷入沉思。 这简直是在亵渎她的威严，必须抓起来给她打工。 （作者不是原学家，还喜欢跳过剧情，如果有错直接说就好了，ooc致歉）",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o405e8d6fde08a37cc60374bfe9338d2b~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789507240&x-signature=cdnctxvln5NJLR2hZG8kgWLdXGg%3D",
+          "url": "https://fanqienovel.com/page/7657731764898515993"
         },
         {
           "title": "战锤40K：俺寻思俺是原体",
           "author": "羞妖怪",
-          "reads": "15.3万",
+          "reads": "16.2万",
           "intro": "（评分刚出，后面会涨的！） 别人穿越战锤40K，不是成为原体，就是成为阿斯塔特。 林烨却成为了一只兽人Warboss。 就在他准备接受自己绿皮人生的时候，他震惊的发现： 他能驾驭俺寻思之力！ 于是…… “俺寻思，俺应该是原体。” “俺寻思，你们应该是阿斯塔特。” “俺寻思，帝皇应该需要一支新的军团。” 从此，银河出现了一支画风奇怪的军团。 他们穿着拼装动力甲，驾驶冒烟战车，喊着帝皇万岁。 帝国震惊。 混沌沉默。 异形怀疑人生。 因为守护人类最后防线的，竟然是最不像阿斯塔特的阿斯塔特。 绿皮守国门。 鸡贼死社稷。 俺们第十一军团，来啦！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oc16f69fed4f0c87cfcadc237863d1719~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789422145&x-signature=uIffvqXw9DtOhg5opBzLC3JdR%2Bk%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oc16f69fed4f0c87cfcadc237863d1719~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789507240&x-signature=cVhELgPzl3h3EhvGsztvsYvwdb0%3D",
           "url": "https://fanqienovel.com/page/7672596336994159641"
         },
         {
-          "title": "崩铁：我的未来女友全都重生了",
-          "author": "囨囸囨囸",
-          "reads": "11.2万",
-          "intro": "[崩铁同人]+[多女主]+[日常]+[女主重生]+[轻松搞笑] OOC预警，同时本文会对剧情的某些地方进行修改，并添加一些私设。 白洛明穿越了，穿越到了崩铁的世界，本来只想根据剧情好好混日子的他，却发现剧情慢慢偏离了他的预期。 “什么叫只要我留下来就给我和站长相同的待遇啊。” “什么叫做我只要按时测模拟宇宙，就会给我奖励。等会儿，奖励怎么是这个啊。” “什么又叫做，只要我留下来，大守护者就是我的啊。” 嘎啦崩铁根本不是这样的，你们应该跟我互动，慢慢解锁好感度，然后才能看我的特殊CG啊。什么叫做我站在那里好感度就会提升啊，嘎啦崩铁根本不是这样的！我不接受！ 在经历了众多的攻略后，白洛明如是说。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o1d7f43af89b42eff708d735844d9d85b~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789422145&x-signature=PSWnq6FbF9o2RwtGRWcM711k%2F%2Bo%3D",
-          "url": "https://fanqienovel.com/page/7671316436685442072"
-        },
-        {
-          "title": "火影：开局修改纲手认知",
-          "author": "九幽老魔",
-          "reads": "13.3万",
-          "intro": "【纯手搓无AI+多女主+无龟男情节+偏日常】 信野佑穿越火影，觉醒认知修改系统，可以随意修改他人认知。 【目标人物：纲手姬】 【可修改认知选项如下：】 【选项一：信野佑是我的好弟弟，我要像关心绳树那样爱护他。所需认知点：0（新手限时免费）】 【选项二：我很爱小佑，虽然他现在还小，但我等得起！所需认知点：100】 【选项三：主人的命令小狗要无条件服从。所需认知点：1000】",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oaf418d29c5643efd90d77cf6bc08a89f~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789422145&x-signature=AKcA7KZjZv9bgW3lUtXkf5HEbJ0%3D",
-          "url": "https://fanqienovel.com/page/7667092898453670937"
+          "title": "咒回：十种影法术，我无限抽奖！",
+          "author": "子浮桐槎",
+          "reads": "12.1万",
+          "intro": "（评分刚出，后面会涨） 【咒回】+【战斗爽】+【部分综漫】+【无女主】+【快节奏】 【第126章开启世界范围的死灭洄游！】 穿越到咒术回战，成为禅院家的一员，禅院朔是有些绝望的。 所生时代和牢师同辈，本以为多年后也要去cosplay宿傩的减速带，还好有系统在手，禅院朔直接左手十种影法术，右手随机化术式开始抽奖。 别人玩十种影法术，召唤玉犬、鵺‌、大蛇… 禅院朔玩十种影法术，召唤地狱三头犬、贝蒙斯坦、魔格大蛇，就很…… 十几年后的新宿，宿傩看着飞过的乱七八糟的式神，一时间陷入了沉默。 斗傩决战降临，新宿的上空，庵歌姬、乐岩寺嘉伸奏响雨爱，这一发200%功率的咒力冲击，宿傩你给我接好了！ 宿傩：没让禅院朔大人尽力，真是抱歉呢… 羂索：我打禅院朔？真的假的？ 禅院朔：什么宿傩、羂索？不过是生在没有我时代的凡夫罢了！",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2od31bfe1362c779e8ba3c8d1a616de657~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789507240&x-signature=W%2BQFthTDTYHp5dxETZ65T42Qd2I%3D",
+          "url": "https://fanqienovel.com/page/7670912296201227326"
         },
         {
           "title": "火影：纲手想逃？我直接起兵木叶",
           "author": "小折花",
-          "reads": "11.6万",
+          "reads": "11.5万",
           "intro": "医疗忍者应心怀悲悯，专注救死扶伤，远离厮杀纷争。 金发女人一边穿衣，一边站在禅院鸠面前。 “要么成为医疗忍者，要么请你自裁于我面前，我绝不会为村子留下祸患。” “女人，你叫什么名字?” “区区一个无名小卒，没必要知道。” 第二次忍界大战，雨隐运输小队覆灭，唯有禅院鸠幸存，却被木叶纲手捉走，险死还生。 系统：只要施展医疗忍术治疗目标，就能掠夺对方最强的一项属性。 一夜之后，禅院鸠重返雨隐，这次他用筹码获得山椒鱼半藏信任，直接着手组建整个雨隐医疗部。 被称作忍界绞肉机的二战战场上死伤无数，却尽数成了禅院鸠变强的养料。 “再度见到我时，纲手，你会是什么表情呢？” 在阴雨连绵的雨之国，一名手握生死大权，凭借行医不断变强的医疗忍者，正在一步步站上忍界顶端。 “不愿承认错误？不愿和我相认？那别怪我打下整个木叶！” ...... 如果再给纲手一次机会，她发誓，一定要在初见时，不和这个麻烦的家伙扯上任何关系。 至少要好好回答他的问题，不被他记恨在心。 “纲手，你心里明明那么恨我，却还是从没想过要杀我吗？” 望着院子里练习手里剑的女儿，女人只能羞怒的回以拳脚。 “闭嘴啊混蛋！不要在孩子面前说不吉利的话！”",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o4e0e5fe3929ba474e3dfb0ffe096523b~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789422145&x-signature=56%2FTEgoP6CJcCAT3h7eYtCY4o%2FA%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o4e0e5fe3929ba474e3dfb0ffe096523b~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789507240&x-signature=xnEYstHJjV8J3OCBGK%2FbgAslK2g%3D",
           "url": "https://fanqienovel.com/page/7668267260858862617"
         },
         {
-          "title": "漫威：牛逼的记忆体贩子只想赚钱",
-          "author": "西红柿炒番茄不加蛋",
-          "reads": "14.9万",
-          "intro": "【漫威】【假面骑士怪人】【财团X】【半幕后】 白默带领家族一手创建财团X，使用向狗系统购买的盖亚记忆体技术，开始向军方合作，在大量吸纳资金的同时，也开始研发T2记忆体，当开发完全部T2记忆体的时候，就能随机解锁下一个区块。 宇宙开关、欲望硬币、海姆冥界、修玛吉亚等等，一系列假面骑士怪人道具以及力量向白默招手。 终局之战爆发，白默已然将地球掌控，甚至在全宇宙都凶名赫赫，但白默对通知世界什么的不感兴趣，依旧在纽约财团X总部看着账户上数不清的零感慨，赚钱比统治世界有趣多了！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2obdf8dffd646f6bdd09a0888a5b44e7f4~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789422145&x-signature=DXtGpw%2BY4LDF3FZSSKdHxBtcTPk%3D",
-          "url": "https://fanqienovel.com/page/7629290686767975486"
+          "title": "开局得吃，我去！怎么是蕾米埃尔",
+          "author": "乐土永存",
+          "reads": "11.8万",
+          "intro": "［修罗场］［贴贴］［新艾丽都日常］ 撞大运后自己变成白发红瞳萝莉吸血鬼了怎么办？ 什么叫饿昏眼扑倒的人是初代虚狩蕾米埃尔！ 什么叫朱鸢长官收留了自己，能光明正大吃铁软饭！？ 什么又叫法厄同喊才是我的金手指人脉， 哈基哲，你这家伙，！ 青衣前辈，给我直接电死他！ 启明星大姐姐，能不能给我多派点轻松的委托。 瑟汐老师怎么连你也 那女人将老大打致跪地，定是要迫老大跟她回去啊 我真的只是想混口血吃，你们怎么堵我大门干什么啊！ 众女：你吃饱了，我吃什么？ 栖纱：唏，能和解不？ 新艾丽都大舞台，有活你就来！ 口瓜！好劲啊！双链锯剑就下绝密空洞！ 出大红力，诶，大狗！？ 叫！还叫不叫了！ 赞美圣吉列斯！帝皇在上！ 忠不忠！忠不忠！ 可怜的人机哲，看在你带我进空洞，这次就破例让你喊一声吧。 诶？桥上怎么刷非洲之星了？ 堵桥来！",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oc3695f3822f29bf566ee899fb743cf27~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789507240&x-signature=gDi211MZSFVi5O5MA4lzC8LDr%2BU%3D",
+          "url": "https://fanqienovel.com/page/7672758391567027225"
         },
         {
-          "title": "崩铁：开局沙福林叫醒法",
-          "author": "爱摸鱼的小青雀",
-          "reads": "11.2万",
-          "intro": "【轻松搞笑】＋【多女主】＋【诸天】 秦远穿越崩铁宇宙，获得垂钓系统。 至此寰宇发生一件件离奇之事…… 造物引擎：“什么叫我去打加拉特隆？真的假的？” 波尔卡·卡卡目：“为什么我后面那家伙一直拿木棍打我？我打他还没伤害？” 瓦尔特：“666凯文居然送我理之律者核心，人类药剂吧完蛋了！” 丹恒：……",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ob813f65a4ac27df89eb5f539ec7c6b4a~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789422145&x-signature=CIyGqIrCSF6ph4SYIJU%2Fy%2BHg54U%3D",
-          "url": "https://fanqienovel.com/page/7668967672704420888"
+          "title": "咒回：我成宿坨？召唤2点5条悟",
+          "author": "活着就是为了穿拖鞋",
+          "reads": "13.2万",
+          "intro": "【咒术回战】【宿坨】【十种区法术】【伏魔御厨子】【搞笑】【宿坨打宿傩？】【2.5条悟】【鹿紫云（芒果）丁】【抽象】【神人语录】 昼辉原本只是和网友论战，讨论宿坨和下半截2.5条悟战斗谁会赢 没想到论战胜利后，他自己成了宿坨？！ 落地就面对坐牢一千年刚被假释的诅咒之王宿傩，和超绝不吃压力小子伏黑惠 而且昼辉发现，自己体内不仅有宿坨所拥有的【御厨子】术式，自带各种高级技巧 甚至还多出一个十种影法术的变异版本！ ——十种区法术！！！ 他能够召唤各种强者最区的形态！ 比如2.5条悟，被切成芒果丁的鹿紫云一，被借过后石流龙的大炮脑壳…… —————— 五条悟：你是说，你召唤出的这截能跑能跳的下半身，是我的？？ 昼辉：没座~ 鹿紫云一：地上这一滩切成方块，还能放电，甚至每块都能各自启动术式的芒果丁碎肉，是我？？ 昼辉：又寸！ 伏黑惠：他们的我都能理解，为什么你召唤出来的我，明明是完整形态，却一直趴地上睡觉？ 昼辉：因为你在摆烂",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o6ca899a8c842e456eca3d4ca0b035073~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1789507240&x-signature=V0njB6tb9KMCdsoJU%2BBe%2F9QHvsU%3D",
+          "url": "https://fanqienovel.com/page/7672517474591443992"
         }
       ]
     }
