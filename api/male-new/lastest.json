@@ -1,13 +1,13 @@
 {
   "slug": "male-new",
-  "date": "2026-09-20",
-  "prev_date": "2026-09-19",
+  "date": "2026-09-21",
+  "prev_date": "2026-09-20",
   "types": [
     {
       "type": "all",
       "url": "api/male-new/lastest/all.json",
       "category_count": 19,
-      "book_count": 379
+      "book_count": 380
     },
     {
       "type": "西方奇幻",
@@ -57,7 +57,7 @@
     {
       "type": "传统玄幻",
       "url": "api/male-new/lastest/%E4%BC%A0%E7%BB%9F%E7%8E%84%E5%B9%BB.json",
-      "book_count": 19
+      "book_count": 20
     },
     {
       "type": "历史脑洞",
