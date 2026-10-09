@@ -1,18 +1,18 @@
 {
   "slug": "female-read",
-  "date": "2026-10-09",
-  "prev_date": "2026-10-08",
+  "date": "2026-10-10",
+  "prev_date": "2026-10-09",
   "types": [
     {
       "type": "all",
       "url": "api/female-read/lastest/all.json",
       "category_count": 18,
-      "book_count": 360
+      "book_count": 330
     },
     {
       "type": "古风世情",
       "url": "api/female-read/lastest/%E5%8F%A4%E9%A3%8E%E4%B8%96%E6%83%85.json",
-      "book_count": 20
+      "book_count": 10
     },
     {
       "type": "科幻末世",
@@ -82,7 +82,7 @@
     {
       "type": "女频悬疑",
       "url": "api/female-read/lastest/%E5%A5%B3%E9%A2%91%E6%82%AC%E7%96%91.json",
-      "book_count": 20
+      "book_count": 0
     },
     {
       "type": "职场婚恋",
