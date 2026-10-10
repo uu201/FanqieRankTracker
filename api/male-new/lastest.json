@@ -1,13 +1,13 @@
 {
   "slug": "male-new",
-  "date": "2026-10-10",
-  "prev_date": "2026-10-09",
+  "date": "2026-10-11",
+  "prev_date": "2026-10-10",
   "types": [
     {
       "type": "all",
       "url": "api/male-new/lastest/all.json",
       "category_count": 19,
-      "book_count": 350
+      "book_count": 380
     },
     {
       "type": "西方奇幻",
@@ -22,7 +22,7 @@
     {
       "type": "科幻末世",
       "url": "api/male-new/lastest/%E7%A7%91%E5%B9%BB%E6%9C%AB%E4%B8%96.json",
-      "book_count": 10
+      "book_count": 20
     },
     {
       "type": "都市日常",
@@ -47,7 +47,7 @@
     {
       "type": "战神赘婿",
       "url": "api/male-new/lastest/%E6%88%98%E7%A5%9E%E8%B5%98%E5%A9%BF.json",
-      "book_count": 0
+      "book_count": 20
     },
     {
       "type": "都市种田",
